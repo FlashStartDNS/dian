@@ -22,4 +22,10 @@ cat tmp/adserversVN.tmp | awk '{print "*"$1" = 0.0.0.0"}' >> tmp/adserversVN-con
 
 echo "Creating rule file..."
 # create rule
+cat source/config-rule.txt | awk '{print "HOST-KEYWORD,"$1",REJECT"}' > option/quantumult-rule.conf
+cat tmp/adserversVN.tmp | awk '{print "HOST-SUFFIX,"$1",REJECT"}' >> option/quantumult-rule.conf
+cat source/config-rule.txt | awk '{print "DOMAIN-KEYWORD,"$1}' > option/surge-rule.conf
+cat tmp/adserversVN.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' >> option/surge-rule.conf
+cat source/config-rule.txt | awk '{print "DOMAIN-KEYWORD,"$1",REJECT"}' > tmp/shadowrocket-rule.tmp
+cat tmp/adserversVN.tmp | awk '{print "DOMAIN-SUFFIX,"$1",REJECT"}' >> tmp/shadowrocket-rule.tmp
 
