@@ -2,7 +2,7 @@
 
 ! Description: The filter contains ad in Vietnam.
 
-! Last modified: 24 Dec 2020 12:06 UTC+7
+! Last modified: 24 Dec 2020 16:41 UTC+7
 
 ! Version: 20201224
 
@@ -10,7 +10,7 @@
 
 ! Expires: 1 days (update frequency)
 
-! Homepage: https:/.github.io/
+! Homepage: https://diantta.github.io/github-pages-with-jekyll/
 
 !
 @@||i.mangaqq.com^
