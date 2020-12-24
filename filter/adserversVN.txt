@@ -2,11 +2,11 @@
 
 ! Description: The filter contains ad in Vietnam.
 
-! Last modified: 24 Dec 2020 12:01 UTC+7
+! Last modified: 24 Dec 2020 12:03 UTC+7
 
 ! Version: 20201224
 
-! Blocked: 1 rules
+! Blocked: 3 rules
 
 ! Expires: 1 days (update frequency)
 
@@ -14,3 +14,5 @@
 
 !
 ||x8vn.com^
+||ssionsupre.fun^
+||flygame.io^
