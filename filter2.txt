@@ -15,12 +15,13 @@ nhattruyen.com##.mrt5.container > .text-center.mrb5.mrt5 > [href]
 dongphym.com##.title-cat.trending-container
 dongphym.com##.video-footer
 
-www.publicagent.com##div:nth-of-type(8)
-||*-*-ht.project1content.com/*$image
-
 m.facebook.com###MStoriesTray
 m.facebook.com##._vi6
 m.facebook.com##div._4g34:nth-of-type(4)
+
+www.publicagent.com##div:nth-of-type(8)
+||*-*-ht.project1content.com/*$image
+www.publicagent.com##div.geqkhA.sc-1mhpkp8-3 > div.hmxejT.sc-1mhpkp8-0 > .jTDHcX.iz9a8b-0
 
 mb.dkn.tv###appbn
 mb.dkn.tv###float-share
