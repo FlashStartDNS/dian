@@ -43,6 +43,7 @@ tinhte.vn##.minigame.jsx-1666688243
 tinhte.vn##.hero-stream-carousel.jsx-826497079
 tinhte.vn##.false.below-first-post.jsx-429160457
 tinhte.vn##.false.below-first-post.jsx-3632391451
+tinhte.vn##div.action.jsx-3571180239:nth-of-type(2)
 
 ||truyentv.net/*.gif$image
 ||truyendam.org/*.gif$image
