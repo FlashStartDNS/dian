@@ -38,10 +38,11 @@ tinhte.vn##.visible-md.hot-community-mobile.jsx-761266465
 tinhte.vn##div.menu-icon.jsx-1708056166:nth-of-type(3)
 tinhte.vn##.container.jsx-1061079649
 tinhte.vn##li.jsx-352987146:nth-of-type(6)
-tinhte.vn##.false.below-first-post.jsx-429160457
 tinhte.vn##.foru-containers.jsx-2152363648
 tinhte.vn##.minigame.jsx-1666688243
 tinhte.vn##.hero-stream-carousel.jsx-826497079
+tinhte.vn##.false.below-first-post.jsx-429160457
+tinhte.vn##.false.below-first-post.jsx-3632391451
 
 ||truyentv.net/*.gif$image
 ||truyendam.org/*.gif$image
