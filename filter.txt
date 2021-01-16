@@ -58,3 +58,5 @@ vnexpress.net###banner_top
 
 ! NetTruyen.com
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
+! MotPhjm.net
+||syncwowsails.com^$all
