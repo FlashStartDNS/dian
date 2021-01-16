@@ -1,66 +1,45 @@
 c.mi.com##.iseurope-pop
-
-www.reddit.com##.OuterBannerContainer
-
+vnexpress.net###banner_top
+m.baomoi.com##.footer
+m.genk.vn##.fb_share.fl
+phim1080.me##.news.bg-black
 m.youtube.com##ytm-item-section-renderer:nth-of-type(4)
 
-m.genk.vn##.fb_share.fl
-
-m.baomoi.com##.footer
-
-phim1080.me##.news.bg-black
-
-nhattruyen.com##.mrt5.container > .text-center.mrb5.mrt5 > [href]
+www.reddit.com##.OuterBannerContainer
+www.reddit.com##._2pUaFeMjwDAhdxtQUwSRcQ
+reddit.com##.size-compact.Post:has([class*="promoted"])
 
 dongphym.com##.title-cat.trending-container
 dongphym.com##.video-footer
 
-www.publicagent.com##div:nth-of-type(8)
-||*-*-ht.project1content.com/*$image
-www.publicagent.com##div.geqkhA.sc-1mhpkp8-3 > div.hmxejT.sc-1mhpkp8-0 > .jTDHcX.iz9a8b-0
+motphjm.net##.div-control
+||motphjm.net/files/inorbitad.html$subdocument
+||motphim.net$popup
 
-m.facebook.com###MStoriesTray
-m.facebook.com##._vi6
-m.facebook.com##div._4g34:nth-of-type(4)
-m.facebook.com###\38 42595279483672
+truyenqq.com##img.lazy:nth-of-type(1)
+! NetTruyen.com
+||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^ 
+nhattruyen.com##.mrt5.container > .text-center.mrb5.mrt5 > [href]
+||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
+
+m.medoctruyentranh.net##.activity_dialog  
+49
+m.medoctruyentranh.net###add_main_screen_guide  
+50
+m.medoctruyentranh.net##div.btn:nth-of-type(2)
+
+||truyentv.net/*.gif$image
+||truyendam.org/*.gif$image
+||translate.googleapis.com^
 
 mb.dkn.tv###appbn
 mb.dkn.tv###float-share
 ||dvchat.com^
 mb.dkn.tv##.clearfix.blaBox
-mb.dkn.tv##.fixed-vid.single-post-video
-
-m.medoctruyentranh.net##.activity_dialog
-m.medoctruyentranh.net###add_main_screen_guide
-m.medoctruyentranh.net##div.btn:nth-of-type(2)
+mb.dkn.tv##.fixed-vid.single-post-video 
 
 tinhte.vn##.tinhte-facts-wrapper.jsx-761266465
 tinhte.vn##.visible-md.hot-community-mobile.jsx-761266465
 tinhte.vn##div.menu-icon.jsx-1708056166:nth-of-type(3)
 tinhte.vn##.container.jsx-1061079649
 tinhte.vn##li.jsx-352987146:nth-of-type(6)
-tinhte.vn##.foru-containers.jsx-2152363648
-tinhte.vn##.minigame.jsx-1666688243
-tinhte.vn##.hero-stream-carousel.jsx-826497079
-tinhte.vn##.false.below-first-post.jsx-429160457
-tinhte.vn##.false.below-first-post.jsx-3632391451
-tinhte.vn##div.action.jsx-3571180239:nth-of-type(2)
-tinhte.vn##.jsx-1666688243 > .subsection.jsx-350373158
-tinhte.vn##.foru-containers.jsx-2021072514
-
-||truyentv.net/*.gif$image
-||truyendam.org/*.gif$image
-||translate.googleapis.com^
-
-truyenqq.com##img.lazy:nth-of-type(1)
-
-vnexpress.net###banner_top
-
-! popup NetTruyen.com NhatTruyen.com
-||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
-||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
-
-||motphjm.net/files/inorbitad.html$subdocument
-||motphim.net$popup
-motphjm.net##.div-control
-
