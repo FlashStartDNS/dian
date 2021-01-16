@@ -4,7 +4,7 @@
 ! MotPhjm.net
 ||syncwowsails.com^
 ||motphjm.net/files/inorbitad.html$subdocument
-||motphim.net^
+||motphim.net$popup
 
 c.mi.com##.iseurope-pop
 
