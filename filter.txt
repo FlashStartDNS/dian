@@ -23,9 +23,7 @@ nhattruyen.com##.mrt5.container > .text-center.mrb5.mrt5 > [href]
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 
 m.medoctruyentranh.net##.activity_dialog  
-49
 m.medoctruyentranh.net###add_main_screen_guide  
-50
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
 
 ||truyentv.net/*.gif$image
