@@ -22,6 +22,7 @@ www.publicagent.com##div.geqkhA.sc-1mhpkp8-3 > div.hmxejT.sc-1mhpkp8-0 > .jTDHcX
 m.facebook.com###MStoriesTray
 m.facebook.com##._vi6
 m.facebook.com##div._4g34:nth-of-type(4)
+m.facebook.com###\38 42595279483672
 
 mb.dkn.tv###appbn
 mb.dkn.tv###float-share
