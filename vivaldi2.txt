@@ -1,4 +1,4 @@
-||hayghez.net/players/ads/
+||tai789.net^$third-party
 m.genk.vn##.fb_share.fl
 phim1080.me##.news.bg-black
 m.youtube.com##ytm-item-section-renderer:nth-of-type(4)
@@ -597,7 +597,6 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||static.novanet.vn^
 ||steadfastsystem.com^
 ||strapolan.com^$third-party
-||tai789.net^
 ||tttd.vn^$popup,third-party
 ||v9banners.com^
 ||vietnamnetad.vn^$third-party
