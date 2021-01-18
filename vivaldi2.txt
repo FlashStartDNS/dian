@@ -1,3 +1,4 @@
+||hayghez.net/players/ads/
 m.genk.vn##.fb_share.fl
 phim1080.me##.news.bg-black
 m.youtube.com##ytm-item-section-renderer:nth-of-type(4)
