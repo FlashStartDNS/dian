@@ -1,12 +1,11 @@
-
+||motphjm.net/files/inorbitad.html$subdocument
+motphjm.net##.div-control
 ||tai789.net^
 m.genk.vn##.fb_share.fl
 phim1080.me##.news.bg-black
 m.youtube.com##ytm-item-section-renderer:nth-of-type(4)
 dongphym.com##.title-cat.trending-container
 dongphym.com##.video-footer
-motphjm.net##.div-control
-||motphjm.net/files/inorbitad.html$subdocument
 m.medoctruyentranh.net##.activity_dialog
 m.medoctruyentranh.net###add_main_screen_guide
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
