@@ -89,7 +89,6 @@ $popup,third-party,domain=megaurl.in|hamtruyen.com|razorphimzz.com|phim1080.me|b
 a3manga.com##.single-video
 a3manga.com##div[id$="-catfish"]
 safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyDDw9drCXHa0+zn9UjYCOFwAUXeJFo='
-||11bet.$popup,third-party
 ||123phim.top$csp=script-src 'self' * data: 'unsafe-eval'
 ||188bongda.com^$third-party
 ||4.bp.blogspot.com/-992t0itJqn0/W-VW5TA8luI/AAAAAAABsLY/PwOPzP0EvlwtQVOqnI6vG1WW9bQM_TuRwCHMYCw/s0/
