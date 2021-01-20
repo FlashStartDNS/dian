@@ -1,6 +1,5 @@
 ||truyentv.net/*.gif$image
 ||truyendam.org/*.gif$image
-||translate.googleapis.com^
 c.mi.com##.iseurope-pop
 vnexpress.net###banner_top
 m.baomoi.com##.footer
