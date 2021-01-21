@@ -1,6 +1,12 @@
-kutublog.com##[href="https://freelinks.neocities.org/vn88.html"]
-||motphjm.net/files/inorbitad.html$subdocument
+mb.dkn.tv###appbn
+mb.dkn.tv###float-share
+mb.dkn.tv##.share-post
+mb.dkn.tv##.clearfix.blaBox
+mb.dkn.tv##.fixed-vid.single-post-video
+motphjm.net###mp-mb-preload
 motphjm.net##.div-control
+||motphjm.net/files/inorbitad.html$subdocument
+kutublog.com##[href="https://freelinks.neocities.org/vn88.html"]
 m.genk.vn##.fb_share.fl
 phim1080.me##.news.bg-black
 m.youtube.com##ytm-item-section-renderer:nth-of-type(4)
@@ -9,11 +15,6 @@ dongphym.com##.video-footer
 m.medoctruyentranh.net##.activity_dialog
 m.medoctruyentranh.net###add_main_screen_guide
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
-mb.dkn.tv###appbn
-mb.dkn.tv###float-share
-||dvchat.com^
-mb.dkn.tv##.clearfix.blaBox
-mb.dkn.tv##.fixed-vid.single-post-video
 tinhte.vn##.tinhte-facts-wrapper.jsx-761266465
 tinhte.vn##.visible-md.hot-community-mobile.jsx-761266465
 tinhte.vn##div.menu-icon.jsx-1708056166:nth-of-type(3)
