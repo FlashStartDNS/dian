@@ -24,7 +24,6 @@ m.medoctruyentranh.net###add_main_screen_guide
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
 mb.dkn.tv###appbn
 mb.dkn.tv###float-share
-||dvchat.com^
 mb.dkn.tv##.clearfix.blaBox
 mb.dkn.tv##.fixed-vid.single-post-video
 www.reddit.com##.OuterBannerContainer
