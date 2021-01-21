@@ -1,3 +1,8 @@
+mb.dkn.tv###appbn
+mb.dkn.tv###float-share
+mb.dkn.tv##.share-post
+mb.dkn.tv##.clearfix.blaBox
+mb.dkn.tv##.fixed-vid.single-post-video
 motphjm.net###mp-mb-preload
 ||motphjm.net/files/inorbitad.html$subdocument
 ||motphim.net$popup
@@ -22,10 +27,6 @@ nhattruyen.com##.mrt5.container > .text-center.mrb5.mrt5 > [href]
 m.medoctruyentranh.net##.activity_dialog
 m.medoctruyentranh.net###add_main_screen_guide
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
-mb.dkn.tv###appbn
-mb.dkn.tv###float-share
-mb.dkn.tv##.clearfix.blaBox
-mb.dkn.tv##.fixed-vid.single-post-video
 www.reddit.com##.OuterBannerContainer
 www.reddit.com##._2pUaFeMjwDAhdxtQUwSRcQ
 reddit.com##.size-compact.Post:has([class*="promoted"])
