@@ -1,4 +1,4 @@
-! Bộ lọc chặn quảng cáo ở VietNam trên trình duyệt Vivaldi Android kết hợp với DNS AdGuard
+! Bộ lọc chặn quảng cáo trên trình duyệt Vivaldi Android kết hợp với DNS AdGuard
 reddit.com##.size-compact.Post:has([class*="promoted"])
 kutublog.com##[href="https://freelinks.neocities.org/vn88.html"]
 ||motphjm.net/files/inorbitad.html$subdocument
