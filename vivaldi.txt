@@ -1,3 +1,5 @@
+! Bộ lọc chặn quảng cáo ở VietNam trên trình duyệt Vivaldi Android kết hợp với DNS AdGuard
+reddit.com##.size-compact.Post:has([class*="promoted"])
 kutublog.com##[href="https://freelinks.neocities.org/vn88.html"]
 ||motphjm.net/files/inorbitad.html$subdocument
 nhattruyen.com##.mrt5.container > .text-center.mrb5.mrt5 > [href]
