@@ -40,7 +40,6 @@ nettruyen.com##.text-center.mrt5.mrb5
 nhattruyen.com##.mrt5.container > .text-center.mrb5.mrt5 > [href]
 ||truyentv.net/*.gif$image
 ||truyendam.org/*.gif$image
-c.mi.com##.iseurope-pop
 truyenqq.com##img.lazy:nth-of-type(1)
 ! ---------- Generic Blocking Rules ----------
 $popup,third-party,domain=megaurl.in|hamtruyen.com|razorphimzz.com|phim1080.me|bilutivi.net
