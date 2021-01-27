@@ -27,8 +27,7 @@ nhattruyen.com##.mrt5.container > .text-center.mrb5.mrt5 > [href]
 m.medoctruyentranh.net##.activity_dialog
 m.medoctruyentranh.net###add_main_screen_guide
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
-www.reddit.com##.OuterBannerContainer
-www.reddit.com##._2pUaFeMjwDAhdxtQUwSRcQ
+reddit.com##.OuterBannerContainer
 reddit.com##.size-compact.Post:has([class*="promoted"])
 tinhte.vn##.tinhte-facts-wrapper.jsx-761266465
 tinhte.vn##.visible-md.hot-community-mobile.jsx-761266465
