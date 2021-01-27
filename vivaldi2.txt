@@ -1,5 +1,5 @@
 m.tinhhoa.net###share-btn
-reddit.com##.size-compact.Post:has([class*="Promoted"])
+reddit.com##.size-compact.Post:has([class*="promoted"])
 mb.dkn.tv###appbn
 mb.dkn.tv###float-share
 mb.dkn.tv##.share-post
