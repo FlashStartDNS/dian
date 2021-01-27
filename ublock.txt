@@ -12,7 +12,6 @@ kutublog.com##[href="https://freelinks.neocities.org/vn88.html"]
 ||bit.ly^$popup,domain=kutublog.com
 ||truyentv.net/*.gif$image
 ||truyendam.org/*.gif$image
-c.mi.com##.iseurope-pop
 vnexpress.net###banner_top
 m.baomoi.com##.footer
 m.genk.vn##.fb_share.fl
