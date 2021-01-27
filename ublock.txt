@@ -1,3 +1,4 @@
+m.tinhhoa.net###share-btn
 mb.dkn.tv###appbn
 mb.dkn.tv###float-share
 mb.dkn.tv##.share-post
