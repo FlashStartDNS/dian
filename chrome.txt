@@ -23,8 +23,7 @@ nhattruyen.com##.mrt5.container > .text-center.mrb5.mrt5 > [href]
 m.medoctruyentranh.net##.activity_dialog
 m.medoctruyentranh.net###add_main_screen_guide
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
-www.reddit.com##.OuterBannerContainer
-www.reddit.com##._2pUaFeMjwDAhdxtQUwSRcQ
+reddit.com##.OuterBannerContainer
 reddit.com##.size-compact.Post:has([class*="promoted"])
 tinhte.vn##.tinhte-facts-wrapper.jsx-761266465
 tinhte.vn##.visible-md.hot-community-mobile.jsx-761266465
@@ -40,7 +39,7 @@ tinhte.vn##div.action.jsx-3571180239:nth-of-type(2)
 tinhte.vn##.jsx-1666688243 > .subsection.jsx-350373158
 tinhte.vn##.foru-containers.jsx-2021072514
 www.publicagent.com##div:nth-of-type(8)
-||images-assets-ht.project1content.com/Fakehub/Tour/Promos/Kickoff_2021/5ff48582855820.75325577.png$image
+||images-assets-ht.project1content.com/Fakehub/Tour/
 www.publicagent.com##div.geqkhA.sc-1mhpkp8-3 > div.hmxejT.sc-1mhpkp8-0 > .jTDHcX.iz9a8b-0
 m.facebook.com###MStoriesTray
 m.facebook.com##._vi6
