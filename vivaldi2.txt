@@ -1,3 +1,4 @@
+sayhentai.net##.ads_popup
 m.tinhhoa.net###share-btn
 reddit.com##.OuterBannerContainer
 reddit.com##.size-compact.Post:has([class*="promoted"])
