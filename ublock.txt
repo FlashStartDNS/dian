@@ -1,3 +1,5 @@
+! beeng.net
+||cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
 ||fabet.info^$popup
 ||tuoinung.com/wp-content/uploads/2021/01/320x100-fcb8.gif$image
