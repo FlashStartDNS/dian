@@ -1,3 +1,4 @@
+m.facebook.com###MRoot > span
 ||truyenvn.com/wp-content/uploads/*.gif$image
 cmanga.com###popup_content
 ||poosugap.com^
