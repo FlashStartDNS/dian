@@ -1,6 +1,5 @@
 m.facebook.com###MRoot > span
-||truyenvn.com/wp-content/uploads/*.gif$image
-cmanga.com###popup_content
+||truyenvn.com/wp-contenuploads/*.gif$image
 ||poosugap.com^
 ||aparat.cam/js/pop.js
 tinhte.vn##.tinhte-facts-wrapper.jsx-761266465
