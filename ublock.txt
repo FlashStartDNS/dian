@@ -21,6 +21,7 @@ m.tinhhoa.net###share-btn
 dkn.news###appbn
 dkn.news###float-share
 dkn.news##.share-post
+dkn.news##.fixed-vid.single-post-video
 motphjm.net###mp-mb-preload
 motphjm.net##.div-control
 ||motphjm.net/files/inorbitad.html$subdocument
