@@ -7,8 +7,7 @@ tinhte.vn##.tinhte-facts-wrapper.jsx-761266465
 tinhte.vn##div.jsx-761266465:nth-of-type(6)
 ! DongPhym.com
 ||riminghoggoofy.com^
-! Beeng.net
-||cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/
+||beeng.net/libs/jquery.fancybox.pack.js
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
 ||fabet.info^$popup
 ||tuoinung.com/wp-content/uploads/2021/01/320x100-fcb8.gif$image
