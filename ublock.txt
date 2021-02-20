@@ -37,19 +37,14 @@ kutublog.com##[href="https://freelinks.neocities.org/vn88.html"]
 ||bit.ly^$popup,domain=kutublog.com
 ||truyentv.net/*.gif$image
 ||truyendam.org/*.gif$image
-vnexpress.net###banner_top
 m.baomoi.com##.footer
-m.genk.vn##.fb_share.fl
 phim1080.me##.news.bg-black
-truyenqq.com##img.lazy:nth-of-type(1)
 dongphym.com##.title-cat.trending-container
 dongphym.com##.video-footer
 nhattruyen.com##.mrt5.container > .text-center.mrb5.mrt5 > [href]
 m.medoctruyentranh.net##.activity_dialog
 m.medoctruyentranh.net###add_main_screen_guide
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
-reddit.com##.OuterBannerContainer
-reddit.com##.size-compact.Post:has([class*="promoted"])
 publicagent.com##div:nth-of-type(8)
 ||images-assets-ht.project1content.com/Fakehub/Tour/
 publicagent.com##div.geqkhA.sc-1mhpkp8-3 > div.hmxejT.sc-1mhpkp8-0 > .jTDHcX.iz9a8b-0
