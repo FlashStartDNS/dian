@@ -1,20 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202102271033
 ! Title: ABPVN List
-! Last modified: 27 Feb 2021 10:33 UTC+7
-! Expires: 1 days (update frequency)
-!
-! ABPVN List filter
-! Copyright: ABPVN
-! Homepage: https://abpvn.com/
-! License: GPLv3 (https://github.com/abpvn/abpvn/blob/master/LICENSE)
-! Please report any unblocked ads or problems by email or in our fanpage
-! Mọi thắc mắc xin gửi về email hoặc fanpage
-! Email: support@abpvn.com
-! Facebook Fanpage: https://www.facebook.com/abpvn.org
-! Forum: https://voz.vn/t/abpvn-chan-quang-cao-cho-nguoi-viet.25778/
-! Report new issue on github: https://github.com/abpvn/abpvn/issues/new
 ! ---------- Generic Blocking Rules ----------
+nettruyen.com##div.container > div.mrb5.mrt5.text-center
 $popup,third-party,domain=megaurl.in|hamtruyen.com|razorphimzz.com|phim1080.me|bilutivi.net|animehay.tv
 .codes/*.js$script,domain=nettruyen.com|nhattruyen.com|anime47.com
 .com/cpc/$script
