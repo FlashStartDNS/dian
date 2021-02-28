@@ -1,4 +1,14 @@
 ! Title: TTA
+jpmtl.com##.consent-bar
+tinhte.vn##.tinhte-facts-wrapper.jsx-1662286282
+tinhte.vn##.hero-stream-carousel.jsx-826497079
+m.comic.naver.com###flex_ad_image
+m.comic.naver.com##.v2.band_banner
+||sayhentai.net/uploads/top/*.gif$image
+||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
+! ReaperScans.com
+||media.reaperscans.com/file/reaperscans/*/banner*.gif$image
+||majorsmi.com^
 animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.tv##.shareUrl
 animetvn.tv##.thongbao20
