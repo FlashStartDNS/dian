@@ -1,6 +1,60 @@
-[Adblock Plus 2.0]
-! Title: ABPVN List
-! ---------- Generic Blocking Rules ----------
+! Title: Firefox
+jpmtl.com##.consent-bar
+tinhte.vn##.tinhte-facts-wrapper.jsx-1662286282
+tinhte.vn##.hero-stream-carousel.jsx-826497079
+m.comic.naver.com###flex_ad_image
+m.comic.naver.com##.v2.band_banner
+||sayhentai.net/uploads/top/*.gif$image
+||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
+! ReaperScans.com
+||media.reaperscans.com/file/reaperscans/*/banner*.gif$image
+||majorsmi.com^
+animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
+animetvn.tv##.shareUrl
+animetvn.tv##.thongbao20
+||newtoki95.com/data/banner/
+||translate.google.com^$domain=gocmod.com
+m.facebook.com###MRoot > span
+||truyenvn.com/wp-contenuploads/*.gif$image
+||poosugap.com^
+||aparat.cam/js/pop.js
+tinhte.vn##.tinhte-facts-wrapper.jsx-761266465
+tinhte.vn##div.jsx-761266465:nth-of-type(6)
+! DongPhym.com
+||riminghoggoofy.com^
+||beeng.net/libs/jquery.fancybox.pack.js
+chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
+||fabet.info^$popup
+||tuoinung.com/wp-content/uploads/2021/01/320x100-fcb8.gif$image
+tuoi69z.com##.logo2
+tuoi69z.com##.adspopuprightMB
+saytruyen.net##center
+saytruyen.net##.header-content-part
+saytruyen.net###top-button-bottom
+sayhentai.net##.ads_popup
+||o5fkqp2qz0gk9lw3fk7fmi8a0mxzt4cklpswt6gj8xoqrmxkzs5fjqxl2q5t.me^
+m.tinhhoa.net###share-btn
+dkn.news###appbn
+dkn.news###float-share
+dkn.news##.share-post
+dkn.news##.fixed-vid.single-post-video
+motphjm.net###mp-mb-preload
+motphjm.net##.div-control
+||motphjm.net/files/inorbitad.html$subdocument
+kutublog.com##[href="https://freelinks.neocities.org/vn88.html"]
+||truyentv.net/*.gif$image
+||truyendam.org/*.gif$image
+m.baomoi.com##.footer
+phim1080.me##.news.bg-black
+dongphym.com##.title-cat.trending-container
+dongphym.com##.video-footer
+nhattruyen.com##.mrt5.container > .text-center.mrb5.mrt5 > [href]
+m.medoctruyentranh.net##.activity_dialog
+m.medoctruyentranh.net###add_main_screen_guide
+m.medoctruyentranh.net##div.btn:nth-of-type(2)
+publicagent.com##div:nth-of-type(8)
+||images-assets-ht.project1content.com/Fakehub/Tour/$image
+publicagent.com##div.geqkhA.sc-1mhpkp8-3 > div.hmxejT.sc-1mhpkp8-0 > .jTDHcX.iz9a8b-0
 nettruyen.com##div.container > div.mrb5.mrt5.text-center
 $popup,third-party,domain=megaurl.in|hamtruyen.com|razorphimzz.com|phim1080.me|bilutivi.net|animehay.tv
 .codes/*.js$script,domain=nettruyen.com|nhattruyen.com|anime47.com
@@ -93,7 +147,7 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||bilutvzz.net^*.gif
 ||biphimz.tv^*.gif
 ||bit.ly^$domain=biphimz.tv|kingphimz.net|vphimz.net|phimmedia.info|phimmedia.me|phimmedia.tv|vkool.net|huphimz.com
-||bit.ly^$popup,domain=kingphimz.net
+||bit.ly^$popup,domain=kingphimz.net|kutublog.com
 ||blogfonts.com^$domain=hosocongty.vn,image
 ||blogspot.com^*-banner$image,domain=blogtruyen.vn
 ||blogspot.com^*.gif$domain=phim33.org|hamtruyen.com|truyensieuhay.com|hamtruyen.vn|hocvientruyentranh.net|mythethao.net|vuviphimzz.com|khophimle.tv
