@@ -10,6 +10,7 @@ m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
 hentaivn.net##.a_d_s_115
 sayhentai.net##.mheader
+sayhentai.net###content_chap > div > span
 ||sayhentai.net/uploads/top/*.gif$image
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif
 ! ReaperScans.com
