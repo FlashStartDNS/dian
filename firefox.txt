@@ -7,7 +7,6 @@ c.mi.com##.cookie-setting-bottom-bả
 dictionary.cambridge.org##.i-amphtml-layout.amp-active.i-amphtml-built.i-amphtml-layout-nodisplay.i-amphtml-element.lp-10.tc-w.hflx-c.c_not
 dictionary.cambridge.org##.topslot-container.tz0
 jpmtl.com##.consent-bar
-tinhte.vn##.tinhte-facts-wrapper.jsx-1662286282
 tinhte.vn##.hero-stream-carousel.jsx-826497079
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
