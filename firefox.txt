@@ -1,4 +1,6 @@
 ! Title: Firefox
+mp3fy.com##.fb_reset
+m.thethao247.vn###fbox-background
 ||ff.imacdn.com^
 tienganhmoingay.com##.public-promotions-wrapper.success-msg
 c.mi.com##.cookie-setting-bottom-bả
@@ -1317,7 +1319,7 @@ zingnews.vn###product_ads
 zingnews.vn###site-header
 zingnews.vn##.the-article-thumbnail
 zingnews.vn,minhngoc.net.vn,vn-z.vn,vietinfo.eu,reatimes.vn,baomoi.com##[id^="adv"]
-zingnews.vn,ngoisao.net###banner_top
+zingnews.vn,ngoisao.net,vnexpress.net###banner_top
 ||a3manga.com/wp-content/themes/a3manga/js/jw-v8/jwplayer.js
 ||a3manga.com^*.gif
 ~msn.com##.qc
