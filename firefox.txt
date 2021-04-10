@@ -1,4 +1,9 @@
 ! Title: Firefox
+phituyet.com##.supsystic-social-sharing-loaded.supsystic-social-sharing-init.supsystic-social-sharing-bottom.supsystic-social-sharing-fixed.supsystic-social-sharing-spacing.supsystic-social-sharing-package-flat.supsystic-social-sharing
+||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
+||thethao12h.net^$popup
+||bongda12h.com^$popup
+cafeland.vn##.getHeightBannerMobileFloat.text-center
 mp3fy.com##.fb_reset
 m.thethao247.vn###fbox-background
 ||ff.imacdn.com^
