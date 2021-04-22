@@ -1,4 +1,10 @@
 ! Title: ABPVN not Popup
+||hentaiz.net/images/spon/head11mb.png$image
+! DongPhym.com
+||riminghoggoofy.com^
+dongphym.net##.pl-carousel-wrapper
+dongphym.net##.video-detail > div > .title-hd
+dongphym.net,dongphym.com##.title-cat.trending-container
 phituyet.com##.supsystic-social-sharing-loaded.supsystic-social-sharing-init.supsystic-social-sharing-bottom.supsystic-social-sharing-fixed.supsystic-social-sharing-spacing.supsystic-social-sharing-package-flat.supsystic-social-sharing
 cafeland.vn##.getHeightBannerMobileFloat.text-center
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
@@ -35,8 +41,6 @@ m.facebook.com###MRoot > span
 ||aparat.cam/js/pop.js
 tinhte.vn##.tinhte-facts-wrapper.jsx-761266465
 tinhte.vn##div.jsx-761266465:nth-of-type(6)
-! DongPhym.com
-||riminghoggoofy.com^
 ||beeng.net/libs/jquery.fancybox.pack.js
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
 ||fabet.info^
@@ -62,8 +66,6 @@ kutublog.com##[href="https://freelinks.neocities.org/vn88.html"]
 ||truyendam.org/*.gif$image
 m.baomoi.com##.footer
 phim1080.me##.news.bg-black
-dongphym.com##.title-cat.trending-container
-dongphym.com##.video-footer
 nhattruyen.com##.mrt5.container > .text-center.mrb5.mrt5 > [href]
 m.medoctruyentranh.net##.activity_dialog
 m.medoctruyentranh.net###add_main_screen_guide
