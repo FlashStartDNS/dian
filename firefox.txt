@@ -1,8 +1,11 @@
 ! Title: Firefox
 ||hentaiz.net/images/spon/head11mb.png$image
+dongphym.net##.video-footer
 dongphym.net##.pl-carousel-wrapper
 dongphym.net##.video-detail > div > .title-hd
 dongphym.net,dongphym.com##.title-cat.trending-container
+dongphym.net##.movie-detail > div > h3
+dongphym.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-page
 phituyet.com##.supsystic-social-sharing-loaded.supsystic-social-sharing-init.supsystic-social-sharing-bottom.supsystic-social-sharing-fixed.supsystic-social-sharing-spacing.supsystic-social-sharing-package-flat.supsystic-social-sharing
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 ||thethao12h.net^$popup
