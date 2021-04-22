@@ -1,5 +1,7 @@
 ! Title: Firefox
 ||hentaiz.net/images/spon/head11mb.png$image
+! DongPhym.com
+||riminghoggoofy.com^
 dongphym.net##.video-footer
 dongphym.net##.pl-carousel-wrapper
 dongphym.net##.video-detail > div > .title-hd
@@ -41,8 +43,6 @@ m.facebook.com###MRoot > span
 ||aparat.cam/js/pop.js
 tinhte.vn##.tinhte-facts-wrapper.jsx-761266465
 tinhte.vn##div.jsx-761266465:nth-of-type(6)
-! DongPhym.com
-||riminghoggoofy.com^
 ||beeng.net/libs/jquery.fancybox.pack.js
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
 ||fabet.info^$popup
