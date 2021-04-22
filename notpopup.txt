@@ -13,7 +13,7 @@ mp3fy.com##.fb_reset
 m.thethao247.vn###fbox-background
 ||ff.imacdn.com^
 tienganhmoingay.com##.public-promotions-wrapper.success-msg
-c.mi.com##.cookie-setting-bottom-bả
+c.mi.com##.cookie-setting-bottom-bar
 dictionary.cambridge.org##.i-amphtml-layout.amp-active.i-amphtml-built.i-amphtml-layout-nodisplay.i-amphtml-element.lp-10.tc-w.hflx-c.c_not
 dictionary.cambridge.org##.topslot-container.tz0
 jpmtl.com##.consent-bar
