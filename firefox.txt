@@ -1,6 +1,4 @@
 ! Title: Firefox
-www.gocmod.com##.sharepost
-www.gocmod.com##.Translate.widget
 ||www.gocmod.com^$inline-script,1p
 forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
 ||hentaiz.net/images/spon/head11mb.png$image
