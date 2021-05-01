@@ -1,6 +1,4 @@
 ! Title: Firefox
-forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
-||hentaiz.net/images/spon/head11mb.png$image
 ! DongPhym.com
 ||riminghoggoofy.com^
 dongphym.net,dongphym.com##.video-footer
@@ -74,7 +72,7 @@ m.medoctruyentranh.net##.activity_dialog
 m.medoctruyentranh.net###add_main_screen_guide
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
 publicagent.com##div:nth-of-type(8)
-||images-assets-ht.project1content.com/Fakehub/Tour/$image
+||imageservice-assets-ht.project1content.com/m=bYi-b/assets/Fakehub/Tour/FakeHub/CTA/5cf91e4e072cb4.27463806.webp$image
 publicagent.com##div.geqkhA.sc-1mhpkp8-3 > div.hmxejT.sc-1mhpkp8-0 > .jTDHcX.iz9a8b-0
 nettruyen.com##div.container > div.mrb5.mrt5.text-center
 $popup,third-party,domain=megaurl.in|hamtruyen.com|razorphimzz.com|phim1080.me|bilutivi.net|animehay.tv
