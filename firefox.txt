@@ -1,11 +1,15 @@
 ! Title: Firefox
+
 mp3fy.com##.message.success.ignored.ui
+mp3fy.com##.fb_reset
+
 ! PublicAgent.com
 ||images-assets-ht.project1content.com/Fakehub/Tour/FakeHub/Catfish/5cf66564a21c31.25819615.png$image
 ||imageservice-assets-ht.project1content.com/m=bYi-b/assets/Fakehub/Tour/FakeHub/CTA/5cf91e4e072cb4.27463806.webp$image
 publicagent.com##div:nth-of-type(8)
 publicagent.com##div.geqkhA.sc-1mhpkp8-3 > div.hmxejT.sc-1mhpkp8-0 > .jTDHcX.iz9a8b-0
-! DongPhym.com
+
+! DongPhym.com (.net)
 ||riminghoggoofy.com^
 dongphym.net,dongphym.com##.video-footer
 dongphym.net##.pl-carousel-wrapper
@@ -13,12 +17,13 @@ dongphym.net##.video-detail > div > .title-hd
 dongphym.net,dongphym.com##.title-cat.trending-container
 dongphym.net##.movie-detail > div > h3
 dongphym.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-page
+
 phituyet.com##.supsystic-social-sharing-loaded.supsystic-social-sharing-init.supsystic-social-sharing-bottom.supsystic-social-sharing-fixed.supsystic-social-sharing-spacing.supsystic-social-sharing-package-flat.supsystic-social-sharing
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 ||thethao12h.net^$popup
 ||bongda12h.com^$popup
 cafeland.vn##.getHeightBannerMobileFloat.text-center
-mp3fy.com##.fb_reset
+
 m.thethao247.vn###fbox-background
 ||ff.imacdn.com^
 tinhte.vn##.top-creators.jsx-3033952516
