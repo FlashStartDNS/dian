@@ -1,12 +1,17 @@
 ! Title: ABPVN not Popup
+
+mp3fy.com##.fb_reset
 mp3fy.com##.message.success.ignored.ui
+
 ! PublicAgent.com
 ||images-assets-ht.project1content.com/Fakehub/Tour/FakeHub/Catfish/5cf66564a21c31.25819615.png$image
 ||imageservice-assets-ht.project1content.com/m=bYi-b/assets/Fakehub/Tour/FakeHub/CTA/5cf91e4e072cb4.27463806.webp$image
 publicagent.com##div:nth-of-type(8)
 publicagent.com##div.geqkhA.sc-1mhpkp8-3 > div.hmxejT.sc-1mhpkp8-0 > .jTDHcX.iz9a8b-0
+
 ||hentaiz.net/images/spon/head11mb.png$image
-! DongPhym.com
+
+! DongPhym.com (.net)
 ||riminghoggoofy.com^
 dongphym.net,dongphym.com##.video-footer
 dongphym.net##.pl-carousel-wrapper
@@ -14,11 +19,12 @@ dongphym.net##.video-detail > div > .title-hd
 dongphym.net,dongphym.com##.title-cat.trending-container
 dongphym.net##.movie-detail > div > h3
 dongphym.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-page
+
 phituyet.com##.supsystic-social-sharing-loaded.supsystic-social-sharing-init.supsystic-social-sharing-bottom.supsystic-social-sharing-fixed.supsystic-social-sharing-spacing.supsystic-social-sharing-package-flat.supsystic-social-sharing
 cafeland.vn##.getHeightBannerMobileFloat.text-center
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 ||derevya2sh8ka09.com/aas/r45d/vki/1788122/tghr.js
-mp3fy.com##.fb_reset
+
 m.thethao247.vn###fbox-background
 ||ff.imacdn.com^
 tienganhmoingay.com##.public-promotions-wrapper.success-msg
@@ -26,7 +32,7 @@ c.mi.com##.cookie-setting-bottom-bar
 dictionary.cambridge.org##.i-amphtml-layout.amp-active.i-amphtml-built.i-amphtml-layout-nodisplay.i-amphtml-element.lp-10.tc-w.hflx-c.c_not
 dictionary.cambridge.org##.topslot-container.tz0
 jpmtl.com##.consent-bar
-.vn##.tinhte-facts-wrapper.jsx-1662286282
+tinhte.vn##.tinhte-facts-wrapper.jsx-1662286282
 tinhte.vn##.hero-stream-carousel.jsx-826497079
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
