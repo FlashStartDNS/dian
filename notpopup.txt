@@ -26,7 +26,6 @@ cafeland.vn##.getHeightBannerMobileFloat.text-center
 ||derevya2sh8ka09.com/aas/r45d/vki/1788122/tghr.js
 
 m.thethao247.vn###fbox-background
-||ff.imacdn.com^
 tienganhmoingay.com##.public-promotions-wrapper.success-msg
 c.mi.com##.cookie-setting-bottom-bar
 dictionary.cambridge.org##.i-amphtml-layout.amp-active.i-amphtml-built.i-amphtml-layout-nodisplay.i-amphtml-element.lp-10.tc-w.hflx-c.c_not
@@ -43,16 +42,14 @@ sayhentai.net###content_chap > div > span
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif
 ! ReaperScans.com
 ||media.reaperscans.com/file/reaperscans/*/banner*.gif$image
-||majorsmi.com^
 animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.tv##.shareUrl
 animetvn.tv##.thongbao20
-||fontawesome.com^
+
 ||newtoki95.com/data/banner/
 ||translate.google.com^$domain=gocmod.com
 m.facebook.com###MRoot > span
 ||truyenvn.com/wp-contenuploads/*.gif$image
-||poosugap.com^
 ||aparat.cam/js/pop.js
 tinhte.vn##.tinhte-facts-wrapper.jsx-761266465
 tinhte.vn##div.jsx-761266465:nth-of-type(6)
