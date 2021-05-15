@@ -1,4 +1,8 @@
 ! Title: Firefox
+c.mi.com##.cookie-setting-bottom-bar
+
+vieon.vn##.modal-overlay
+vieon.vn##.download--app.download
 
 mp3fy.com##.message.success.ignored.ui
 mp3fy.com##.fb_reset
