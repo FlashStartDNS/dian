@@ -23,23 +23,26 @@ phituyet.com##.supsystic-social-sharing-loaded.supsystic-social-sharing-init.sup
 ||thethao12h.net^$popup
 ||bongda12h.com^$popup
 cafeland.vn##.getHeightBannerMobileFloat.text-center
-
 m.thethao247.vn###fbox-background
-||ff.imacdn.com^
+
 tinhte.vn##.top-creators.jsx-3033952516
 tinhte.vn##.hero-stream-carousel.jsx-826497079
 tinhte.vn##.tinhte-facts-wrapper.jsx-761266465
 tinhte.vn##div.jsx-761266465:nth-of-type(6)
+
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
+
 hentaivn.net##.a_d_s_115
+
 sayhentai.net##.mheader
 sayhentai.net###content_chap > div > span
 ||sayhentai.net/uploads/top/*.gif$image
+
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! ReaperScans.com
 ||media.reaperscans.com/file/reaperscans/*/banner*.gif$image
-||majorsmi.com^
+
 animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.tv##.shareUrl
 animetvn.tv##.thongbao20
@@ -47,7 +50,6 @@ animetvn.tv##.thongbao20
 ||translate.google.com^$domain=gocmod.com
 m.facebook.com###MRoot > span
 ||truyenvn.com/wp-contenuploads/*.gif$image
-||poosugap.com^
 ||aparat.cam/js/pop.js
 ||beeng.net/libs/jquery.fancybox.pack.js
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
