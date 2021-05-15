@@ -1,4 +1,5 @@
 ! Title: Firefox
+
 c.mi.com##.cookie-setting-bottom-bar
 
 vieon.vn##.modal-overlay
@@ -6,12 +7,6 @@ vieon.vn##.download--app.download
 
 mp3fy.com##.message.success.ignored.ui
 mp3fy.com##.fb_reset
-
-! PublicAgent.com
-||images-assets-ht.project1content.com/Fakehub/Tour/FakeHub/Catfish/5cf66564a21c31.25819615.png$image
-||imageservice-assets-ht.project1content.com/m=bYi-b/assets/Fakehub/Tour/FakeHub/CTA/5cf91e4e072cb4.27463806.webp$image
-publicagent.com##div:nth-of-type(8)
-publicagent.com##div.geqkhA.sc-1mhpkp8-3 > div.hmxejT.sc-1mhpkp8-0 > .jTDHcX.iz9a8b-0
 
 ! DongPhym.com (.net)
 ||riminghoggoofy.com^
