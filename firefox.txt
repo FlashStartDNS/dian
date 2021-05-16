@@ -45,7 +45,6 @@ m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
 
 hentaivn.net##.a_d_s_115
-
 sayhentai.net##.mheader
 sayhentai.net###content_chap > div > span
 ||sayhentai.net/uploads/top/*.gif$image
@@ -59,7 +58,6 @@ animetvn.tv##.shareUrl
 animetvn.tv##.thongbao20
 
 ||newtoki95.com/data/banner/
-
 m.facebook.com###MRoot > span
 ||truyenvn.com/wp-contenuploads/*.gif$image
 ||aparat.cam/js/pop.js
@@ -67,9 +65,11 @@ m.facebook.com###MRoot > span
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
 ||fabet.info^$popup
 
-tuoi69z.com##.logo2
-tuoi69z.com##.adspopuprightMB
+||sieukhungz.net/wp-content/uploads/2021/0*.gif$image
+sieukhungz.net##div.quangcaomb:nth-of-type(2)
+tuoi69z.com,sieukhungz.net##.adspopuprightMB
 tuoi69z.com##.tonghop.row > div.quangcaomb
+
 saytruyen.net##center
 saytruyen.net##.header-content-part
 saytruyen.net###top-button-bottom
@@ -79,6 +79,7 @@ sayhentai.net##.ads_popup
 m.tinhhoa.net###share-btn
 m.tinhhoa.net,m.dkn.news##.fixed-vid.single-post-video
 m.dkn.news###appbn
+||platform-api.sharethis.com/js/sharethis.js$script
 
 motphjm.net###mp-mb-preload
 motphjm.net##.div-control
