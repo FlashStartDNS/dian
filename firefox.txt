@@ -5,13 +5,8 @@ tuoi69z.com,sieukhungz.net##.adspopuprightMB
 
 ||translate.google.com/translate_a/element.js$script,domain=www.gocmod.com
 
-||site-api.project1service.com/v2/release-filters$xhr
-||static-ma-ht.project1content.com/static1/vortex.modern.min.js$script
-||static-ma-ht.project1content.com/static1/@one/blocks/async/PopupBlock.626e4add.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.eb3e6356.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.8a957a8b.js$script
-||static-ma-ht.project1content.com/static1/@one/blocks/async/ConditionalBlock.26ddffbd.js$script
-||static-ma-ht.project1content.com/static1/@one/blocks/async/FooterBlock.6f1e2ab1.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.b88f119f.js$script
 
 c.mi.com##.cookie-setting-bottom-bar
