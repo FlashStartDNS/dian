@@ -2,9 +2,9 @@
 
 ||tuoinung.com/wp-content/uploads/2021/0*.gif$image
 ||sieukhungz.net/wp-content/uploads/2021/0*.gif$image
-sieukhungz.net##div.quangcaomb:nth-of-type(2)
+sieukhungz.net,tuoi69z.con##div.quangcaomb
 tuoi69z.com,sieukhungz.net##.adspopuprightMB
-tuoi69z.com##.tonghop.row > div.quangcaomb
+
 ||translate.google.com/translate_a/element.js$script,domain=www.gocmod.com
 
 ||site-api.project1service.com/v2/release-filters$xhr
