@@ -1,6 +1,10 @@
 ! Title: Firefox
 
 ||tuoinung.com/wp-content/uploads/2021/0*.gif$image
+||sieukhungz.net/wp-content/uploads/2021/0*.gif$image
+sieukhungz.net##div.quangcaomb:nth-of-type(2)
+tuoi69z.com,sieukhungz.net##.adspopuprightMB
+tuoi69z.com##.tonghop.row > div.quangcaomb
 ||translate.google.com/translate_a/element.js$script,domain=www.gocmod.com
 
 ||site-api.project1service.com/v2/release-filters$xhr
@@ -64,11 +68,6 @@ m.facebook.com###MRoot > span
 ||beeng.net/libs/jquery.fancybox.pack.js
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
 ||fabet.info^$popup
-
-||sieukhungz.net/wp-content/uploads/2021/0*.gif$image
-sieukhungz.net##div.quangcaomb:nth-of-type(2)
-tuoi69z.com,sieukhungz.net##.adspopuprightMB
-tuoi69z.com##.tonghop.row > div.quangcaomb
 
 saytruyen.net##center
 saytruyen.net##.header-content-part
