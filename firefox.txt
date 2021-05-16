@@ -1,5 +1,7 @@
 ! Title: Firefox
 
+||translate.google.com/translate_a/element.js$script,domain=www.gocmod.com
+
 ||site-api.project1service.com/v2/release-filters$xhr
 ||static-ma-ht.project1content.com/static1/vortex.modern.min.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/PopupBlock.626e4add.js$script
@@ -54,8 +56,9 @@ sayhentai.net###content_chap > div > span
 animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.tv##.shareUrl
 animetvn.tv##.thongbao20
+
 ||newtoki95.com/data/banner/
-||translate.google.com^$domain=gocmod.com
+
 m.facebook.com###MRoot > span
 ||truyenvn.com/wp-contenuploads/*.gif$image
 ||aparat.cam/js/pop.js
