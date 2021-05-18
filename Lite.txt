@@ -1,4 +1,11 @@
-! Title: ABPVN
+! Title: Lite
+​
+xoso.com.vn###bottomMobileAdvs
+kqxs.vn##.ads-place-1
+kqxs.vn##.ads-place-2
+kqxs.vn##.ads-place-4
+kqxs.vn##.ads-footer-overlay
+||xskt.com.vn/abn/datk2.jsp$subdocument
 xosodaiphat.com##.banner-adv-wrapper
 xosodaiphat.com##.adv-side-bar
 
