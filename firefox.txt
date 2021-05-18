@@ -2,7 +2,7 @@
 xosodaiphat.com##.banner-adv-wrapper
 xosodaiphat.com##.adv-side-bar
 
-/wp-content/uploads/2021/0*.gif$image,domain=tuoi69z.com|tuoinung.com|sieukhungz.net
+/wp-content/uploads/*.gif$image,domain=tuoi69z.com|tuoinung.com|sieukhungz.net
 tuoi69z.com,sieukhungz.net##.quangcaomb
 tuoi69z.com,sieukhungz.net##.adspopuprightMB
 
