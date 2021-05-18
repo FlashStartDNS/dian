@@ -1,18 +1,19 @@
-! Title: ABPVN not Popup
+! Title: ABPVN
+xosodaiphat.com##.banner-adv-wrapper
+xosodaiphat.com##.adv-side-bar
 
-mp3fy.com##.fb_reset
+/wp-content/uploads/*.gif$image,domain=tuoi69z.com|tuoinung.com|sieukhungz.net
+tuoi69z.com,sieukhungz.net##.quangcaomb
+tuoi69z.com,sieukhungz.net##.adspopuprightMB
+
+||translate.google.com/translate_a/element.js$script,domain=www.gocmod.com
+
+vieon.vn##.download--app.download
+
 mp3fy.com##.message.success.ignored.ui
-
-! PublicAgent.com
-||images-assets-ht.project1content.com/Fakehub/Tour/FakeHub/Catfish/5cf66564a21c31.25819615.png$image
-||imageservice-assets-ht.project1content.com/m=bYi-b/assets/Fakehub/Tour/FakeHub/CTA/5cf91e4e072cb4.27463806.webp$image
-publicagent.com##div:nth-of-type(8)
-publicagent.com##div.geqkhA.sc-1mhpkp8-3 > div.hmxejT.sc-1mhpkp8-0 > .jTDHcX.iz9a8b-0
-
-||hentaiz.net/images/spon/head11mb.png$image
+mp3fy.com##.fb_reset
 
 ! DongPhym.com (.net)
-||riminghoggoofy.com^
 dongphym.net,dongphym.com##.video-footer
 dongphym.net##.pl-carousel-wrapper
 dongphym.net##.video-detail > div > .title-hd
@@ -21,55 +22,39 @@ dongphym.net##.movie-detail > div > h3
 dongphym.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-page
 
 phituyet.com##.supsystic-social-sharing-loaded.supsystic-social-sharing-init.supsystic-social-sharing-bottom.supsystic-social-sharing-fixed.supsystic-social-sharing-spacing.supsystic-social-sharing-package-flat.supsystic-social-sharing
-cafeland.vn##.getHeightBannerMobileFloat.text-center
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
-||derevya2sh8ka09.com/aas/r45d/vki/1788122/tghr.js
-
+||thethao12h.net^$popup
+||bongda12h.com^$popup
+cafeland.vn##.getHeightBannerMobileFloat.text-center
 m.thethao247.vn###fbox-background
-tienganhmoingay.com##.public-promotions-wrapper.success-msg
-c.mi.com##.cookie-setting-bottom-bar
-dictionary.cambridge.org##.i-amphtml-layout.amp-active.i-amphtml-built.i-amphtml-layout-nodisplay.i-amphtml-element.lp-10.tc-w.hflx-c.c_not
-dictionary.cambridge.org##.topslot-container.tz0
-jpmtl.com##.consent-bar
-tinhte.vn##.tinhte-facts-wrapper.jsx-1662286282
+
+tinhte.vn##.top-creators.jsx-3033952516
 tinhte.vn##.hero-stream-carousel.jsx-826497079
-m.comic.naver.com###flex_ad_image
-m.comic.naver.com##.v2.band_banner
+tinhte.vn##.tinhte-facts-wrapper.jsx-761266465
+tinhte.vn##div.jsx-761266465:nth-of-type(6)
+
 hentaivn.net##.a_d_s_115
 sayhentai.net##.mheader
 sayhentai.net###content_chap > div > span
 ||sayhentai.net/uploads/top/*.gif$image
-||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif
-! ReaperScans.com
-||media.reaperscans.com/file/reaperscans/*/banner*.gif$image
-animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
-animetvn.tv##.shareUrl
-animetvn.tv##.thongbao20
 
-||newtoki95.com/data/banner/
-||translate.google.com^$domain=gocmod.com
-m.facebook.com###MRoot > span
 ||truyenvn.com/wp-contenuploads/*.gif$image
 ||aparat.cam/js/pop.js
-tinhte.vn##.tinhte-facts-wrapper.jsx-761266465
-tinhte.vn##div.jsx-761266465:nth-of-type(6)
 ||beeng.net/libs/jquery.fancybox.pack.js
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
-||fabet.info^
-||tuoinung.com/wp-content/uploads/2021/01/320x100-fcb8.gif$image
-tuoi69z.com##.logo2
-tuoi69z.com##.adspopuprightMB
-tuoi69z.com##.tonghop.row > div.quangcaomb
+||fabet.info^$popup
+
 saytruyen.net##center
 saytruyen.net##.header-content-part
 saytruyen.net###top-button-bottom
 sayhentai.net##.ads_popup
 ||o5fkqp2qz0gk9lw3fk7fmi8a0mxzt4cklpswt6gj8xoqrmxkzs5fjqxl2q5t.me^
+
 m.tinhhoa.net###share-btn
-dkn.news###appbn
-dkn.news###float-share
-dkn.news##.share-post
-dkn.news,m.tinhhoa.net##.fixed-vid.single-post-video
+m.tinhhoa.net,m.dkn.news##.fixed-vid.single-post-video
+m.dkn.news###appbn
+||platform-api.sharethis.com/js/sharethis.js$script
+
 motphjm.net###mp-mb-preload
 motphjm.net##.div-control
 ||motphjm.net/files/inorbitad.html$subdocument
@@ -83,7 +68,7 @@ m.medoctruyentranh.net##.activity_dialog
 m.medoctruyentranh.net###add_main_screen_guide
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
 nettruyen.com##div.container > div.mrb5.mrt5.text-center
-$third-party,domain=megaurl.in|hamtruyen.com|razorphimzz.com|phim1080.me|bilutivi.net|animehay.tv
+$popup,third-party,domain=megaurl.in|hamtruyen.com|razorphimzz.com|phim1080.me|bilutivi.net|animehay.tv
 .codes/*.js$script,domain=nettruyen.com|nhattruyen.com|anime47.com
 .com/cpc/$script
 .com/qc/
@@ -130,7 +115,7 @@ $third-party,domain=megaurl.in|hamtruyen.com|razorphimzz.com|phim1080.me|bilutiv
 a3manga.com##.single-video
 a3manga.com##div[id$="-catfish"]
 safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyDDw9drCXHa0+zn9UjYCOFwAUXeJFo='
-||11bet.$third-party
+||11bet.$popup,third-party
 ||123phim.top$csp=script-src 'self' * data: 'unsafe-eval'
 ||188bongda.com^$third-party
 ||2banh.vn/igo/banner/
@@ -144,7 +129,7 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||8bongda.com^*.gif
 ||ad-*.24hstatic.com^*/upload/
 ||ads*.autodaily.vn
-||ads.8live.com^
+||ads.8live.com^$popup
 ||ads.nghenhinvietnam.vn^
 ||ahaclip.com^*.gif$domain=mmo4me.com
 ||ahaphim.com/images/sva/
@@ -158,7 +143,7 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||assets-global.website-files.com/*.gif$image
 ||aydieso.90.link^*.gif
 ||bachngocsach.com/forum/styles/fox9/qc-
-||banthang.live/ads/
+||banthang.live/ads/$popup
 ||banthangtv.b-cdn.net^*.gif
 ||baobongda.net/files/*.gif
 ||baobongda.net/files/m88-
@@ -169,11 +154,12 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||batdongsan.com.vn/*/Banner/
 ||batdongsan.com.vn/scripts/banner*.js
 ||bblink.com/img/
-||bilutivi.net/ads/
-||bilutivi.net/wp-content/uploads/2020/04/logo_bilutv_newss.png
+||bilutivi.net/ads/$popup
+||bilutivi.net/wp-content/uploads/2020/04/logo_bilutv_newss.png$popup
 ||bilutvzz.net^*.gif
 ||biphimz.tv^*.gif
-||bit.ly^$domain=biphimz.tv|kingphimz.net|vphimz.net|phimmedia.info|phimmedia.me|phimmedia.tv|vkool.net|huphimz.com|kingphimz.net|kutublog.com
+||bit.ly^$domain=biphimz.tv|kingphimz.net|vphimz.net|phimmedia.info|phimmedia.me|phimmedia.tv|vkool.net|huphimz.com
+||bit.ly^$popup,domain=kingphimz.net|kutublog.com
 ||blogfonts.com^$domain=hosocongty.vn,image
 ||blogspot.com^*-banner$image,domain=blogtruyen.vn
 ||blogspot.com^*.gif$domain=phim33.org|hamtruyen.com|truyensieuhay.com|hamtruyen.vn|hocvientruyentranh.net|mythethao.net|vuviphimzz.com|khophimle.tv
@@ -210,7 +196,7 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||chophanthiet.us/chau/$image
 ||chophanthiet.us/images/banner
 ||chophanthiet.us/images/phanthiet.jpg
-||chothuexenanggiare.com^$third-party,domain=font.vn
+||chothuexenanggiare.com^$popup,third-party,domain=font.vn
 ||chovinh.com/data/Siropu/*.gif$image
 ||chungket.net/*.gif
 ||chuyendetienganh.com/ads
@@ -237,14 +223,15 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||explus.vn/gooima.js
 ||facebook.com/v2.9/plugins/video.php?app_id=658710251144761$domain=khoaitvz.com
 ||fb88sports.com/Creative/banner$image
+||fptplay.org/api/$popup
 ||fptplay.vn/js/adsplay_plugins.js
 ||fptplay.vn/js/tracker/tracker.js
 ||fptshop.com.vn^*/Banner/
 ||fshare.vn/lib/jwplayer/jwplayer.js
 ||fshare.vn/lib/video/fshare.mp4
 ||fshare.vn/media/banner_Fshare/
-||fun120.com^$third-party
-||fun88asia.com^*aff=$third-party
+||fun120.com^$popup,third-party
+||fun88asia.com^*aff=$popup,third-party
 ||gaixinh18z.com^*gif$image
 ||game8.vn/partial/adv*=
 ||geniee.$third-party
@@ -266,7 +253,7 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||hamtruyen.com/bannerqc/
 ||hamtruyen.com/ytb.html
 ||hayghes.com/players/ads/
-||hayghes.com/players/ads/
+||hayghes.com/players/ads/$popup
 ||hayghes.com^*.gif
 ||haynhucnhoi.tv/api$third-party
 ||hinhso.com^$domain=diendanmaychu.vn,image
@@ -304,7 +291,7 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||inet.vn/images/banner
 ||js-agent.newrelic.com
 ||js.pmcontent.com/js/ambient/client.js
-||k8wap.com^$third-party
+||k8wap.com^$popup,third-party
 ||kenhvideoz.net^*.gif
 ||khogamepc.com/wp-content/plugins/simple-adblock-notice-pro/
 ||khogamepc.com/wp-content/uploads/*.gif
@@ -322,7 +309,7 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||linksvip.net/images/*banner
 ||linksvip.net/vip/index_files/linksvip.js
 ||loinhacsong.com/images/banner
-||loptelink.pro^$~third-party
+||loptelink.pro^$popup,~third-party
 ||luatminhkhue.vn/common/adshowleft
 ||luatvietnam.vn*/uploaded/*.gif
 ||m.vkool.tv/js/pov.js
@@ -361,7 +348,7 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||petrotimes.vn/adsfw^
 ||phim1080.me/banner/
 ||phim1080.me/sponsor
-||phim7z.tv/ads/popup.html
+||phim7z.tv/ads/popup.html$popup
 ||phimchonz.com/ads/
 ||phimhans.com/ads/
 ||phimmedia.info^*.xml$~third-party
@@ -399,7 +386,7 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||salaphim.com^*.gif$image
 ||salaphim.com^*.php$xmlhttprequest
 ||salaphim.com^*ads-$media
-||santruongit.com^$third-party
+||santruongit.com^$popup,third-party
 ||sapo.vn/blog/wp-content/uploads/2018/07/Banner-Gift.gif$image
 ||senpay.vn/widget/
 ||sg-test-11.slatic.net/other/lzd-ad/
@@ -439,7 +426,7 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||stc.nas.nixcdn.com^*.gif
 ||storage.fshare.vn/images/$third-party
 ||taboola.com^$script,third-party
-||tai.go88.com^$third-party
+||tai.go88.com^$popup,third-party
 ||tangthuvien.vn/forum/images/$domain=~tangthuvien.vn
 ||tangthuvien.vn/forum/supervip$image
 ||tapchihuongviet.eu/*banners$image
@@ -530,15 +517,16 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||xoso.com.vn^*.gif
 ||xoso.com/images/banners/
 ||yeah1.com/native-ads/
+||yeuphimmoiz.com/src/$popup
 ||yeuphimmoiz.com/src/pu.js
 ||yeuquanvot.vn/chau/$image,domain=chophanthiet.us
 ||youtube.com/embed/$subdocument,domain=truyentranhth.net|truyentranh86.com
-||zbet.fun/promotions
+||zbet.fun/promotions$popup
 ||zingnews.vn/interactive^$subdocument
 ||zjs.zadn.vn/zplayer/ads.js
 ! ---------- Ad domain ----------
-||360game.vn^third-party
-||3xviet.com^
+||360game.vn^$popup,third-party
+||3xviet.com^$popup
 ||7isu18su.org^
 ||88vwin.com^
 ||ad360.vn^$third-party
@@ -569,6 +557,7 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||an.xemvtv.net^
 ||anthill.vn^$third-party
 ||ants.vn^$third-party
+||anycar.vn^$popup
 ||api.adfly.vn^
 ||api.dable.io^
 ||api.flygame.io^$third-party
@@ -577,11 +566,11 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||as.gamevui.com^
 ||asecdn.w88media.com^
 ||auweelta.net^
-||b52.live^
+||b52.live^$popup
 ||bam.nr-data.net
 ||banner.5giay.vn^
 ||bidgear-syndication.com^
-||binomo.com^$third-party
+||binomo.com^$popup,third-party
 ||bluemaulpuffs.com^
 ||blueseed.tv^$third-party
 ||brand.ad^
@@ -595,15 +584,15 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||d2ho1n52p59mwv.cloudfront.net^
 ||d3t5ngjixpjdho.cloudfront.net^
 ||data.videonow.ru^
-||debet.com^$third-party
+||debet.com^$popup,third-party
 ||drawnperink.com^
 ||duamilsyr.com^
 ||easiesttangle.com^
 ||elitistrawirresistible.com^
 ||embed.dugout.com^
-||fabet.com^$third-party
+||fabet.com^$popup,third-party
 ||filmphil.net^$subdocument
-||five88.com^$third-party
+||five88.com^$popup,third-party
 ||gadsabs.com^
 ||gammaplatform.com^$third-party
 ||genieesspv.jp^$third-party
@@ -611,15 +600,15 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||gsspat.jp^$third-party
 ||gssprt.jp^$third-party
 ||hackelevensol.com^
-||ir3.xyz^
-||jbo039.com^$third-party
+||ir3.xyz^$popup
+||jbo039.com^$popup,third-party
 ||mavq.net^
 ||meta.vn^$third-party
 ||neuvoo.com^$subdocument,third-party
 ||ngankvn2.wufoo.com^$domain=blogtruyen.vn
-||nhanthuong88.com^$third-party
+||nhanthuong88.com^$popup,third-party
 ||nicksstevmark.com^
-||one88.com^$third-party
+||one88.com^$popup,third-party
 ||popclck.org^
 ||presbanise.pw^
 ||pub.lavanetwork.net^$third-party
@@ -627,7 +616,7 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||qc.mibet.com^$third-party
 ||qc.tclup.com^
 ||qc.violet.vn^
-||qc.x8vn.club^
+||qc.x8vn.club^$popup
 ||qccoccocmedia.vn^
 ||qcv5.blogtruyen.vn^
 ||recutsparrymo.pro^
@@ -635,28 +624,28 @@ safedownload.net$csp=script-src self * data: unsafe-eval 'sha256-Fd/Qv7k3A0GqeyD
 ||s.mnet-ad.net^
 ||s1block.com^$third-party
 ||sbbanner.com^
-||sbobet.com^$third-party
+||sbobet.com^$popup,third-party
 ||serving-sys.com^
 ||shortlink360.com^$image,third-party
-||somo.vn^
+||somo.vn^$popup
 ||static.novanet.vn^
 ||steadfastsystem.com^
 ||strapolan.com^$third-party
 ||syncwowsails.com^
-||tai789.net^
-||thethaovip.vip^
-||tozoruaon.com^
-||tttd.vn^$third-party
-||unreshiramor.com^
+||tai789.net^$popup
+||thethaovip.vip^$popup
+||tozoruaon.com^$popup
+||tttd.vn^$popup,third-party
+||unreshiramor.com^$popup
 ||v9banners.com^
 ||vietnamnetad.vn^$third-party
-||vw220.com^
+||vw220.com^$popup
 ||waust.at^$script
 ||yoads.net^
 ||yoads.network^
 ||yogar2ti8nf09.com^
 ||yomedia.vn^$third-party
-||zbet.vn^$third-party
+||zbet.vn^$popup,third-party
 ||zebuaridromps.com^
 !---------------Element Hiding--------------
 ###banner-top
@@ -1449,7 +1438,7 @@ vtvgiaitri.vn#@#.pub_300x250
 vtvgiaitri.vn#@#.pub_300x250m
 vtvgiaitri.vn#@#.pub_728x90
 !------ ABPVN Adult block -------
-$domain=hoihentai.com|viet69.co
+$popup,domain=hoihentai.com|viet69.co
 /plugins/vast-$script
 ||coolboy112233.github.io/unknowbastard/
 ||greenupload.com^*.gif$image,domain=thienvadia.net
@@ -1458,7 +1447,7 @@ $domain=hoihentai.com|viet69.co
 ||hentaivn.net/qc/
 ||hentaiz.net/images/sponsor/
 ||laidauni.com^
-||lucky88.com^$third-party
+||lucky88.com^$popup,third-party
 ||sexhayvc.com/popjs/$script
 ||static.htvncdn.net/js/custom-popup-1.js
 ||tinhmotdem.asia$csp=script-src * self data: 'unsafe-eval'
