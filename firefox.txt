@@ -72,7 +72,7 @@ m.dkn.news###appbn
 motphjm.net###mp-mb-preload
 motphjm.net##.div-control
 ||motphjm.net/files/inorbitad.html$subdocument
-kutublog.com##[href="https://freelinks.neocities.org/vn88.html"]
+
 m.baomoi.com##.footer
 phim1080.me##.news.bg-black
 
