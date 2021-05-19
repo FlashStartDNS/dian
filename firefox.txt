@@ -18,7 +18,6 @@ mp3fy.com##.message.success.ignored.ui
 mp3fy.com##.fb_reset
 
 ! DongPhym.com (.net)
-||riminghoggoofy.com^
 dongphym.net,dongphym.com##.video-footer
 dongphym.net##.pl-carousel-wrapper
 dongphym.net##.video-detail > div > .title-hd
