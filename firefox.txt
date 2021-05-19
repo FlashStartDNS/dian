@@ -11,11 +11,7 @@ tuoi69z.com,sieukhungz.net##.adspopuprightMB
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.b88f119f.js$script
 
 c.mi.com##.cookie-setting-bottom-bar
-
-vieon.vn##.download--app.download
-
 mp3fy.com##.message.success.ignored.ui
-mp3fy.com##.fb_reset
 
 ! DongPhym.com (.net)
 dongphym.net,dongphym.com##.video-footer
