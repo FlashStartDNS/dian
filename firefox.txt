@@ -6,9 +6,9 @@ tuoi69z.com,sieukhungz.net##.adspopuprightMB
 
 ||translate.google.com/translate_a/element.js$script,domain=www.gocmod.com
 
-||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.eb3e6356.js$script
-||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.8a957a8b.js$script
-||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.b88f119f.js$script
+||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
+||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
+||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 
 c.mi.com##.cookie-setting-bottom-bar
 mp3fy.com##.message.success.ignored.ui
