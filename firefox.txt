@@ -21,7 +21,7 @@ dongphym.net##.movie-detail > div > h3
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 ||thethao12h.net^$popup
 ||bongda12h.com^$popup
-cafeland.vn##.getHeightBannerMobileFloat.text-center
+cafeland.vn##.getHeightBannerMobileFloat
 
 tinhte.vn##.top-creators.jsx-3033952516
 tinhte.vn##.hero-stream-carousel.jsx-826497079
