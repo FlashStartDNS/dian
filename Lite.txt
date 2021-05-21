@@ -24,10 +24,10 @@ dongphym.net##.movie-detail > div > h3
 ||bongda12h.com^$popup
 cafeland.vn##.getHeightBannerMobileFloat.text-center
 
-tinhte.vn##.top-creators.jsx-3033952516
-tinhte.vn##.hero-stream-carousel.jsx-826497079
-tinhte.vn##.tinhte-facts-wrapper.jsx-761266465
-tinhte.vn##div.jsx-761266465:nth-of-type(6)
+tinhte.vn##.tinhte-facts-wrapper
+tinhte.vn##.hot-community-mobile
+tinhte.vn##.top-creators
+tinhte.vn##.hero-stream-carousel
 
 hentaivn.net##.a_d_s_115
 sayhentai.net##.mheader
