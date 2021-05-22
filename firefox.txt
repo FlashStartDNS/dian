@@ -4,7 +4,7 @@
 tuoi69z.com,sieukhungz.net##.quangcaomb
 tuoi69z.com,sieukhungz.net##.adspopuprightMB
 
-||translate.google.com/translate_a/element.js$script,domain=www.gocmod.com
+||translate.google.com/translate_a/element.js$script,domain=gocmod.com
 ! PublicAgent.com
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
