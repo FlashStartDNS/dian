@@ -1,5 +1,4 @@
 ! Title: Firefox
-nettruyentop.com,nhattruyentranh.com##div.container > div.mrb5.mrt5
 
 /wp-content/uploads/*.gif$image,domain=tuoi69z.com|tuoinung.com|sieukhungz.net
 tuoi69z.com,sieukhungz.net##.quangcaomb
