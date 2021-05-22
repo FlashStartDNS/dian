@@ -1,5 +1,4 @@
 ! Title: Firefox
-nettruyentop.com,nhattruyentranh.com##div.container > div.text-center.mrt5.mrb5
 
 reddit.com##._2pUaFeMjwDAhdxtQUwSRcQ
 reddit.com##.TopNav__promoButton
