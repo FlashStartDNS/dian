@@ -55,8 +55,7 @@ sayhentai.net###content_chap > div > span
 
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! ReaperScans.com
-||media.reaperscans.com/file/reaperscans/*/banner*.gif$image
-
+||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
 animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.tv##.shareUrl
 animetvn.tv##.thongbao20
