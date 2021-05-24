@@ -14,8 +14,6 @@ motphimmoi.net##.gnarty-offads
 vieon.vn###MODAL
 vieon.vn##html:style(overflow:auto !important)
 
-pops.vn##.ad__video
-
 /wp-content/uploads/*.gif$image,domain=tuoi69z.com|tuoinung.com|sieukhungz.net
 tuoi69z.com,sieukhungz.net##.quangcaomb
 tuoi69z.com,sieukhungz.net##.adspopuprightMB
@@ -66,7 +64,6 @@ m.facebook.com###MRoot > span
 ||aparat.cam/js/pop.js
 ||beeng.net/libs/jquery.fancybox.pack.js
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
-||fabet.info^$popup
 
 saytruyen.net##center
 saytruyen.net##.header-content-part
