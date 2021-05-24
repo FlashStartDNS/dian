@@ -6,6 +6,7 @@ reddit.com##.TopNav__promoButton
 m.facebook.com##div._4g34:nth-of-type(4)
 m.facebook.com###MComposer
 m.facebook.com##._435z
+m.facebook.com##._3iyw
 m.facebook.com##._35au._5gh8._5rgr._55wo
 
 ||motphimmoi.net^$popup
