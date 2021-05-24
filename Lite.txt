@@ -37,7 +37,6 @@ sayhentai.net###content_chap > div > span
 ||aparat.cam/js/pop.js
 ||beeng.net/libs/jquery.fancybox.pack.js
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
-||fabet.info^$popup
 
 saytruyen.net##center
 saytruyen.net##.header-content-part
