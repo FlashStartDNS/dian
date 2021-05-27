@@ -21,7 +21,6 @@ dongphym.net##.movie-detail > div > h3
 ||bongda12h.com^$popup
 cafeland.vn##.getHeightBannerMobileFloat
 
-hentaivn.net##.a_d_s_115
 sayhentai.net##.mheader
 sayhentai.net###content_chap > div > span
 ||sayhentai.net/uploads/top/*.gif$image
