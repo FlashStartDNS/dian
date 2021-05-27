@@ -1,4 +1,9 @@
 ! Title: Firefox
+
+nettruyentop.com,nhattruyentranh.com##.container > div.mrb5.mrt5.text-center > [href]
+! TruyenQQ .com/net
+truyenqq.com,truyenqq.net##.mobile-banner-item
+
 mobile.twitter.com##.r-97e31f.r-urgr8i.css-1dbjc4n
 reddit.com##._2pUaFeMjwDAhdxtQUwSRcQ
 reddit.com##.TopNav__promoButton
@@ -26,7 +31,7 @@ tuoinung.com###hide_float_right
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 
 c.mi.com##.cookie-setting-bottom-bar
-! DongPhym.com (.net)
+! DongPhym .com/net
 dongphym.net,dongphym.com##.video-footer
 dongphym.net##.pl-carousel-wrapper
 dongphym.net##.video-detail > div > .title-hd
