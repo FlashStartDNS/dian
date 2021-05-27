@@ -1,16 +1,14 @@
 ! Title: Lite
-
+truyenqq.com,truyenqq.net##.mobile-banner-item
 kqxs.vn##.ads-place-1
 kqxs.vn##.ads-place-2
 kqxs.vn##.ads-place-4
 kqxs.vn##.ads-footer-overlay
 ||xskt.com.vn/abn/datk2.jsp$subdocument
 xoso.com.vn###bottomMobileAdvs
-
 /wp-content/uploads/*.gif$image,domain=tuoi69z.com|tuoinung.com|sieukhungz.net
 tuoi69z.com,sieukhungz.net##.quangcaomb
 tuoi69z.com,sieukhungz.net##.adspopuprightMB
-
 ||translate.google.com/translate_a/element.js$script,domain=www.gocmod.com
 ! DongPhym.com (.net)
 dongphym.net,dongphym.com##.video-footer
@@ -18,17 +16,14 @@ dongphym.net##.pl-carousel-wrapper
 dongphym.net##.video-detail > div > .title-hd
 dongphym.net,dongphym.com##.title-cat.trending-container
 dongphym.net##.movie-detail > div > h3
-
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 ||thethao12h.net^$popup
 ||bongda12h.com^$popup
 cafeland.vn##.getHeightBannerMobileFloat.text-center
-
 tinhte.vn##.tinhte-facts-wrapper
 tinhte.vn##.hot-community-mobile
 tinhte.vn##.top-creators
 tinhte.vn##.hero-stream-carousel
-
 hentaivn.net##.a_d_s_115
 sayhentai.net##.mheader
 sayhentai.net###content_chap > div > span
@@ -37,23 +32,18 @@ sayhentai.net###content_chap > div > span
 ||aparat.cam/js/pop.js
 ||beeng.net/libs/jquery.fancybox.pack.js
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
-
 saytruyen.net##center
 saytruyen.net##.header-content-part
 saytruyen.net###top-button-bottom
 sayhentai.net##.ads_popup
 ||o5fkqp2qz0gk9lw3fk7fmi8a0mxzt4cklpswt6gj8xoqrmxkzs5fjqxl2q5t.me^
-
 m.tinhhoa.net,m.dkn.news##.fixed-vid.single-post-video
 m.dkn.news###appbn
-
 motphjm.net###mp-mb-preload
 motphjm.net##.div-control
 ||motphjm.net/files/inorbitad.html$subdocument
-
 m.baomoi.com##.footer
 phim1080.me##.news.bg-black
-
 m.medoctruyentranh.net##.activity_dialog
 m.medoctruyentranh.net###add_main_screen_guide
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
