@@ -1,36 +1,16 @@
 ! Title: Firefox
-
 nettruyentop.com,nhattruyentranh.com##.container > div.mrb5.mrt5.text-center > [href]
 ! TruyenQQ .com/net
 truyenqq.com,truyenqq.net##.mobile-banner-item
 
-mobile.twitter.com##.r-97e31f.r-urgr8i.css-1dbjc4n
-reddit.com##._2pUaFeMjwDAhdxtQUwSRcQ
-reddit.com##.TopNav__promoButton
-m.facebook.com##div._4g34:nth-of-type(4)
-m.facebook.com###MComposer
-m.facebook.com##._435z
-m.facebook.com##._3iyw
-m.facebook.com##._35au._5gh8._5rgr._55wo
-
 ||motphimmoi.net^$popup
 motphimmoi.net##.gnarty-offads
-
-vieon.vn###MODAL
-vieon.vn##html:style(overflow:auto !important)
 
 /wp-content/uploads/*.gif$image,domain=tuoi69z.com|tuoinung.com|sieukhungz.net
 tuoi69z.com,sieukhungz.net##.quangcaomb
 tuoi69z.com,sieukhungz.net##.adspopuprightMB
 tuoinung.com###hide_float_right
 
-||translate.google.com/translate_a/element.js$script,domain=gocmod.com
-! PublicAgent.com
-||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
-||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
-||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
-
-c.mi.com##.cookie-setting-bottom-bar
 ! DongPhym .com/net
 dongphym.net,dongphym.com##.video-footer
 dongphym.net##.pl-carousel-wrapper
@@ -43,48 +23,60 @@ dongphym.net##.movie-detail > div > h3
 ||bongda12h.com^$popup
 cafeland.vn##.getHeightBannerMobileFloat
 
-tinhte.vn##.hot-community-mobile
-tinhte.vn##.top-creators
-tinhte.vn##.hero-stream-carousel
-tinhte.vn##.tinhte-facts-wrapper
-
-m.comic.naver.com###flex_ad_image
-m.comic.naver.com##.v2.band_banner
-
 hentaivn.net##.a_d_s_115
 sayhentai.net##.mheader
 sayhentai.net###content_chap > div > span
 ||sayhentai.net/uploads/top/*.gif$image
 
-||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
-! ReaperScans.com
-||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
-animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
-animetvn.tv##.shareUrl
-animetvn.tv##.thongbao20
-
 ||newtoki95.com/data/banner/
-m.facebook.com###MRoot > span
 ||truyenvn.com/wp-contenuploads/*.gif$image
 ||aparat.cam/js/pop.js
 ||beeng.net/libs/jquery.fancybox.pack.js
-chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
 
 saytruyen.net##center
 saytruyen.net##.header-content-part
 saytruyen.net###top-button-bottom
 sayhentai.net##.ads_popup
 
-m.tinhhoa.net,m.dkn.news##.fixed-vid.single-post-video
-m.dkn.news###appbn
-
 motphjm.net###mp-mb-preload
 motphjm.net##.div-control
 ||motphjm.net/files/inorbitad.html$subdocument
 
-m.baomoi.com##.footer
-phim1080.me##.news.bg-black
-
 m.medoctruyentranh.net##.activity_dialog
 m.medoctruyentranh.net###add_main_screen_guide
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
+
+m.baomoi.com##.footer
+phim1080.me##.news.bg-black
+animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
+animetvn.tv##.shareUrl
+animetvn.tv##.thongbao20
+||translate.google.com/translate_a/element.js$script,domain=gocmod.com
+! PublicAgent.com
+||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
+||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
+||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
+vieon.vn###MODAL
+vieon.vn##html:style(overflow:auto !important)
+c.mi.com##.cookie-setting-bottom-bar
+tinhte.vn##.hot-community-mobile
+tinhte.vn##.top-creators
+tinhte.vn##.hero-stream-carousel
+tinhte.vn##.tinhte-facts-wrapper
+m.comic.naver.com###flex_ad_image
+m.comic.naver.com##.v2.band_banner
+||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
+! ReaperScans.com
+||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
+chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
+m.tinhhoa.net,m.dkn.news##.fixed-vid.single-post-video
+m.dkn.news###appbn
+mobile.twitter.com##.r-97e31f.r-urgr8i.css-1dbjc4n
+reddit.com##._2pUaFeMjwDAhdxtQUwSRcQ
+reddit.com##.TopNav__promoButton
+m.facebook.com###MRoot > span
+m.facebook.com##div._4g34:nth-of-type(4)
+m.facebook.com###MComposer
+m.facebook.com##._435z
+m.facebook.com##._3iyw
+m.facebook.com##._35au._5gh8._5rgr._55wo
