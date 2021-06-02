@@ -1,8 +1,10 @@
 ! Title: FFirefox
 ||m.youtube.com/s/player/*/player-plasma-ias-phone-vi_VN.vflset/ad.js$script,~third-party
+babla.vn##.info-panel
+rung.vn##div.mb-3:nth-of-type(3)
 m.afamily.vn###adm-slot-7234
 ||m.phimsexsub.info/pp/puinfo.js$xhr
-m.phimsexsub.info###clck_ntv
+m.phimsexsub.info,sexcotrang.net###clck_ntv
 
 huphimzz.com##.ads
 huphimzz.com##.banner-top-mobile
@@ -49,7 +51,8 @@ motphjm.net##.div-control
 m.medoctruyentranh.net##.activity_dialog
 m.medoctruyentranh.net###add_main_screen_guide
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
-
+! My rules
+dictionary.cambridge.org##.topslot-container.tz0
 m.baomoi.com##.footer
 phim1080.me##.news.bg-black
 animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
