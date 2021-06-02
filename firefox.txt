@@ -3,15 +3,13 @@
 babla.vn##.info-panel
 rung.vn##div.mb-3:nth-of-type(3)
 m.afamily.vn###adm-slot-7234
+
 ||m.phimsexsub.info/pp/puinfo.js$xhr
 m.phimsexsub.info,sexcotrang.net###clck_ntv
+m.phimsexsub.info##.clipxx
 
 huphimzz.com##.ads
 huphimzz.com##.banner-top-mobile
-m.phimsexsub.info##.clipxx
-
-nettruyentop.com,nhattruyentranh.com##.container > div.mrb5.mrt5.text-center > [href]
-truyenqq.com,truyenqq.net##.mobile-banner-item
 
 ||motphimmoi.net^$popup
 motphimmoi.net##.gnarty-offads
