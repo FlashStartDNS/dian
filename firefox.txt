@@ -14,7 +14,6 @@ huphimzz.com##.banner-top-mobile
 ||motphimmoi.net^$popup
 motphimmoi.net##.gnarty-offads
 
-/wp-content/uploads/*.gif$image,domain=tuoi69z.com|tuoinung.com|sieukhungz.net
 tuoi69z.com,sieukhungz.net##.quangcaomb
 tuoi69z.com,sieukhungz.net##.adspopuprightMB
 tuoinung.com###hide_float_right
