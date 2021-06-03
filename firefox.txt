@@ -8,13 +8,8 @@ m.afamily.vn###adm-slot-7234
 m.phimsexsub.info,sexcotrang.net###clck_ntv
 m.phimsexsub.info##.clipxx
 
-huphimzz.com##.ads
-huphimzz.com##.banner-top-mobile
-
 ||motphimmoi.net^$popup
 motphimmoi.net##.gnarty-offads
-
-tuoinung.com###hide_float_right
 
 dongphym.net,dongphym.com##.video-footer
 dongphym.net##.pl-carousel-wrapper
@@ -30,6 +25,7 @@ cafeland.vn##.getHeightBannerMobileFloat
 sayhentai.net##.mheader
 sayhentai.net###content_chap > div > span
 ||sayhentai.net/uploads/top/*.gif$image
+
 ||truyenvn.com/wp-contenuploads/*.gif$image
 ||aparat.cam/js/pop.js
 ||beeng.net/libs/jquery.fancybox.pack.js
@@ -46,6 +42,7 @@ motphjm.net##.div-control
 m.medoctruyentranh.net##.activity_dialog
 m.medoctruyentranh.net###add_main_screen_guide
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
+
 ! My rules
 dictionary.cambridge.org##.topslot-container.tz0
 m.baomoi.com##.footer
