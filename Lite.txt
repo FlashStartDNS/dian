@@ -14,7 +14,6 @@ kqxs.vn##.ads-place-4
 kqxs.vn##.ads-footer-overlay
 ||xskt.com.vn/abn/datk2.jsp$subdocument
 xoso.com.vn###bottomMobileAdvs
-/wp-content/uploads/*.gif$image,domain=tuoi69z.com|tuoinung.com|sieukhungz.net
 tuoi69z.com,sieukhungz.net##.quangcaomb
 tuoi69z.com,sieukhungz.net##.adspopuprightMB
 ||translate.google.com/translate_a/element.js$script,domain=www.gocmod.com
