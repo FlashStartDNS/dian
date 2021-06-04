@@ -1,41 +1,5 @@
 ! Title: Firefox
 
-babla.vn##.info-panel
-rung.vn##div.mb-3:nth-of-type(3)
-
-||motphimmoi.net^$popup,domain=motphimmoi.net
-motphimmoi.net##.gnarty-offads
-
-dongphym.net,dongphym.com##.video-footer
-dongphym.net##.pl-carousel-wrapper
-dongphym.net##.video-detail > div > .title-hd
-dongphym.net,dongphym.com##.title-cat.trending-container
-dongphym.net##.movie-detail > div > h3
-
-cafeland.vn##.getHeightBannerMobileFloat
-
-sayhentai.net##.mheader
-sayhentai.net###content_chap > div > span
-||sayhentai.net/uploads/top/*.gif$image
-
-||truyenvn.com/wp-contenuploads/*.gif$image
-||aparat.cam/js/pop.js
-||beeng.net/libs/jquery.fancybox.pack.js
-
-saytruyen.net##center
-saytruyen.net##.header-content-part
-saytruyen.net###top-button-bottom
-sayhentai.net##.ads_popup
-
-motphjm.net###mp-mb-preload
-motphjm.net##.div-control
-||motphjm.net/files/inorbitad.html$subdocument
-
-m.medoctruyentranh.net##.activity_dialog
-m.medoctruyentranh.net###add_main_screen_guide
-m.medoctruyentranh.net##div.btn:nth-of-type(2)
-
-! My rules
 dictionary.cambridge.org##.topslot-container.tz0
 m.baomoi.com##.footer
 
@@ -48,15 +12,20 @@ animetvn.tv##.thongbao20
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
+
 vieon.vn###MODAL
 vieon.vn##html:style(overflow:auto !important)
+
 c.mi.com##.cookie-setting-bottom-bar
+
 tinhte.vn##.hot-community-mobile
 tinhte.vn##.top-creators
 tinhte.vn##.hero-stream-carousel
 tinhte.vn##.tinhte-facts-wrapper
+
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
+
 ||newtoki95.com/data/banner/
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! ReaperScans.com
