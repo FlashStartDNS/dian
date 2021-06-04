@@ -1,8 +1,7 @@
-! Title: FFirefox
+! Title: Firefox
 
 babla.vn##.info-panel
 rung.vn##div.mb-3:nth-of-type(3)
-m.afamily.vn###adm-slot-7234
 
 ||motphimmoi.net^$popup,domain=motphimmoi.net
 motphimmoi.net##.gnarty-offads
@@ -39,10 +38,11 @@ m.medoctruyentranh.net##div.btn:nth-of-type(2)
 ! My rules
 dictionary.cambridge.org##.topslot-container.tz0
 m.baomoi.com##.footer
-phim1080.me##.news.bg-black
+
 animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.tv##.shareUrl
 animetvn.tv##.thongbao20
+
 ||translate.google.com/translate_a/element.js$script,domain=gocmod.com
 ! PublicAgent.com
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
