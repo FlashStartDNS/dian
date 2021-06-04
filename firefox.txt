@@ -4,7 +4,7 @@ babla.vn##.info-panel
 rung.vn##div.mb-3:nth-of-type(3)
 m.afamily.vn###adm-slot-7234
 
-||motphimmoi.net^$popup
+||motphimmoi.net^$popup,domain=motphimmoi.net
 motphimmoi.net##.gnarty-offads
 
 dongphym.net,dongphym.com##.video-footer
