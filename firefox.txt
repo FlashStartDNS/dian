@@ -1,5 +1,9 @@
 ! Title: Firefox
 
+truyentranhaudio.com##.in.fade.modal
+truyentranhaudio.com##.in.fade.modal-backdrop
+truyentranhaudio.com##html:style(height: auto !important; overflow: auto !important)
+
 dictionary.cambridge.org##.topslot-container.tz0
 m.baomoi.com##.footer
 
