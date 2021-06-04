@@ -1,21 +1,14 @@
 ! Title: Lite
-||m.youtube.com/s/player/*/player-plasma-ias-phone-vi_VN.vflset/ad.js$script,~third-party
 rung.vn##div.mb-3:nth-of-type(3)
 babla.vn##.info-panel
 m.afamily.vn###adm-slot-7234
 ||m.phimsexsub.info/pp/puinfo.js$xhr
-m.phimsexsub.info,sexcotrang.net###clck_ntv
-huphimzz.com##.ads
-huphimzz.com##.banner-top-mobile
-m.phimsexsub.info##.clipxx
 kqxs.vn##.ads-place-1
 kqxs.vn##.ads-place-2
 kqxs.vn##.ads-place-4
 kqxs.vn##.ads-footer-overlay
 ||xskt.com.vn/abn/datk2.jsp$subdocument
 xoso.com.vn###bottomMobileAdvs
-tuoi69z.com,sieukhungz.net##.quangcaomb
-tuoi69z.com,sieukhungz.net##.adspopuprightMB
 ||translate.google.com/translate_a/element.js$script,domain=www.gocmod.com
 dongphym.net,dongphym.com##.video-footer
 dongphym.net##.pl-carousel-wrapper
@@ -23,8 +16,6 @@ dongphym.net##.video-detail > div > .title-hd
 dongphym.net,dongphym.com##.title-cat.trending-container
 dongphym.net##.movie-detail > div > h3
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
-||thethao12h.net^$popup
-||bongda12h.com^$popup
 cafeland.vn##.getHeightBannerMobileFloat.text-center
 tinhte.vn##.tinhte-facts-wrapper
 tinhte.vn##.hot-community-mobile
@@ -41,14 +32,10 @@ saytruyen.net##center
 saytruyen.net##.header-content-part
 saytruyen.net###top-button-bottom
 sayhentai.net##.ads_popup
-||o5fkqp2qz0gk9lw3fk7fmi8a0mxzt4cklpswt6gj8xoqrmxkzs5fjqxl2q5t.me^
 m.tinhhoa.net,m.dkn.news##.fixed-vid.single-post-video
 m.dkn.news###appbn
 motphjm.net###mp-mb-preload
-motphjm.net##.div-control
-||motphjm.net/files/inorbitad.html$subdocument
 m.baomoi.com##.footer
-phim1080.me##.news.bg-black
 m.medoctruyentranh.net##.activity_dialog
 m.medoctruyentranh.net###add_main_screen_guide
 m.medoctruyentranh.net##div.btn:nth-of-type(2)
