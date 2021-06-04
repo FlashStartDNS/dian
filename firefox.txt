@@ -1,12 +1,8 @@
 ! Title: FFirefox
-||m.youtube.com/s/player/*/player-plasma-ias-phone-vi_VN.vflset/ad.js$script,~third-party
+
 babla.vn##.info-panel
 rung.vn##div.mb-3:nth-of-type(3)
 m.afamily.vn###adm-slot-7234
-
-||m.phimsexsub.info/pp/puinfo.js$xhr
-m.phimsexsub.info,sexcotrang.net###clck_ntv
-m.phimsexsub.info##.clipxx
 
 ||motphimmoi.net^$popup
 motphimmoi.net##.gnarty-offads
@@ -17,9 +13,6 @@ dongphym.net##.video-detail > div > .title-hd
 dongphym.net,dongphym.com##.title-cat.trending-container
 dongphym.net##.movie-detail > div > h3
 
-||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
-||thethao12h.net^$popup
-||bongda12h.com^$popup
 cafeland.vn##.getHeightBannerMobileFloat
 
 sayhentai.net##.mheader
