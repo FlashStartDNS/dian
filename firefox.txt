@@ -1,4 +1,7 @@
 ! Title: Firefox
+! PhimGiz.net
+||whowhipi.net^
+
 forum.vivaldi.net##div[widget-area="header"]
 dictionary.cambridge.org##.topslot-container.tz0
 m.baomoi.com##.footer
