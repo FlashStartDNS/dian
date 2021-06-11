@@ -1,6 +1,6 @@
 ! Title: Firefox
 ! PhimGiz.net
-||whowhipi.net^
+||whowhipi.net^$third-party
 
 forum.vivaldi.net##div[widget-area="header"]
 dictionary.cambridge.org##.topslot-container.tz0
