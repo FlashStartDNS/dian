@@ -1,4 +1,5 @@
 ! Title: Lite
+feedly.com##.Leftnav
 feedly.com##.fixed-bar.fx
 feedly.com##.row.header
 babla.vn##.info-panel
