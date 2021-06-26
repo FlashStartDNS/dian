@@ -1,4 +1,6 @@
 ! Title: Lite
+feedly.com##.fixed-bar.fx
+feedly.com##.row.header
 babla.vn##.info-panel
 kqxs.vn##.ads-place-1
 kqxs.vn##.ads-place-2
