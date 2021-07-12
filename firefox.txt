@@ -4,7 +4,7 @@
 
 forum.vivaldi.net##div[widget-area="header"]
 dictionary.cambridge.org##.topslot-container.tz0
-m.baomoi.com##.footer
+m.baomoi.com##footer
 
 animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.tv##.shareUrl
