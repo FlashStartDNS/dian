@@ -1,7 +1,5 @@
 ! Title: Lite
-feedly.com##.Leftnav
-feedly.com##.fixed-bar.fx
-feedly.com##.row.header
+m.baomoi.com##footer
 babla.vn##.info-panel
 kqxs.vn##.ads-place-1
 kqxs.vn##.ads-place-2
