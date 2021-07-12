@@ -24,4 +24,3 @@ chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
 m.tinhhoa.net,m.dkn.news##.fixed-vid.single-post-video
 m.dkn.news###appbn
 motphjm.net###mp-mb-preload
-m.baomoi.com##.footer
