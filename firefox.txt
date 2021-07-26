@@ -1,8 +1,36 @@
 ! Title: Firefox
+||linksvip.net/images/momo.png$image
+
+voca.vn##.center-content
+
+dafulbrightteachers.org###ads_1234
+
+anhngumshoa.com##.phonering-alo-show.phonering-alo-green.phonering-alo-phone
+
+||cdnstepup.r.worldssl.net/wp-content/uploads/2020/08/app-vua*.jpg$image
+
+ielts-fighter.com##.pnleft
+
+vi.duolingo.com##._120kx
+forum.duolingo.com##.GB_SB
+forum.duolingo.com##div.ReactModalPortal:nth-of-type(6)
+
+||saigonvina.edu.vn/uploads/images/news/1620362810_newsng$image
+
+vlxx.tube##.banner-inflow.ff-banner
+vlxx.tube##.fads
+
+edu2review.com###mobile-footer
+edu2review.com##.hide-xl-more.flex-center.fluid
+
+www.hotcourses.vn###ckieOvrlayDiv
+
 ! PhimGiz.net
 ||whowhipi.net^$third-party
 
 forum.vivaldi.net##div[widget-area="header"]
+
+dictionary.cambridge.org##.hax.bb
 dictionary.cambridge.org##.topslot-container.tz0
 m.baomoi.com##footer
 
@@ -35,7 +63,7 @@ m.comic.naver.com##.v2.band_banner
 ||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
 m.tinhhoa.net,m.dkn.news##.fixed-vid.single-post-video
-m.dkn.news###appbn
+m.dkn.news,mb.dkn.tv###appbn
 mobile.twitter.com##.r-97e31f.r-urgr8i.css-1dbjc4n
 reddit.com##._2pUaFeMjwDAhdxtQUwSRcQ
 reddit.com##.TopNav__promoButton
