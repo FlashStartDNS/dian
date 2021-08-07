@@ -1,4 +1,5 @@
 ! Title: Lite
+vnexpress.net##.center.section
 m.baomoi.com##footer
 babla.vn##.info-panel
 kqxs.vn##.ads-place-1
