@@ -1,4 +1,5 @@
 ! Title: Firefox
+vnexpress.net##.center.section
 ||linksvip.net/images/momo.png$image
 
 voca.vn##.center-content
