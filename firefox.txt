@@ -1,15 +1,11 @@
 ! Title: Firefox
+chromestory.com##.widget-area.custom-widget
 vnexpress.net##.center.section
 ||linksvip.net/images/momo.png$image
-
 voca.vn##.center-content
-
 dafulbrightteachers.org###ads_1234
-
 anhngumshoa.com##.phonering-alo-show.phonering-alo-green.phonering-alo-phone
-
 ||cdnstepup.r.worldssl.net/wp-content/uploads/2020/08/app-vua*.jpg$image
-
 ielts-fighter.com##.pnleft
 
 vi.duolingo.com##._120kx
@@ -24,7 +20,7 @@ vlxx.tube##.fads
 edu2review.com###mobile-footer
 edu2review.com##.hide-xl-more.flex-center.fluid
 
-www.hotcourses.vn###ckieOvrlayDiv
+hotcourses.vn###ckieOvrlayDiv
 
 ! PhimGiz.net
 ||whowhipi.net^$third-party
