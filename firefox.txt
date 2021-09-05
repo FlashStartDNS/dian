@@ -63,9 +63,3 @@ m.dkn.news,mb.dkn.tv###appbn
 mobile.twitter.com##.r-97e31f.r-urgr8i.css-1dbjc4n
 reddit.com##._2pUaFeMjwDAhdxtQUwSRcQ
 reddit.com##.TopNav__promoButton
-m.facebook.com###MRoot > span
-m.facebook.com##div._4g34:nth-of-type(4)
-m.facebook.com###MComposer
-m.facebook.com##._435z
-m.facebook.com##._3iyw
-m.facebook.com##._35au._5gh8._5rgr._55wo
