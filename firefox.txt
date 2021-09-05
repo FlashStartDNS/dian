@@ -1,4 +1,5 @@
 ! Title: Firefox
+||vlogtruyen.net/images/logo.png^$popup
 chromestory.com##.widget-area.custom-widget
 vnexpress.net##.center.section
 ||linksvip.net/images/momo.png$image
