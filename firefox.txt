@@ -1,4 +1,10 @@
 ! Title: Firefox
+truyenqqtop.com###ads_mobile
+truyenqqtop.com##.mobile-banner
+truyenqqtop.com##div[id^="image_popup_"]
+||agacelebir.com^$popup
+vlxx.sex##.banner-inflow.ff-banner
+vlxx.sex##.fads
 ||vlogtruyen.net/images/logo.png$popup
 chromestory.com##.widget-area.custom-widget
 vnexpress.net##.center.section
