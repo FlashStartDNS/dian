@@ -2,7 +2,7 @@
 
 ! m.lxhentai.com
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
-||bongda12.com^$popup
+||bongda12h.com^$popup
 ||hotgirl18.net^$popup
 m.lxhentai.com##div:nth-of-type(4)
 m.lxhentai.com###content_chap > div:nth-of-type(3)
