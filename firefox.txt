@@ -8,50 +8,48 @@ m.lxhentai.com##div:nth-of-type(4)
 m.lxhentai.com###content_chap > div:nth-of-type(3)
 m.lxhentai.com###content_chap > div:nth-of-type(2)
 m.lxhentai.com##.alert-warning.alert
-sayhentai.net##center
-mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
+ond-sidebar.c-sidebar
+
 truyenqqtop.com###ads_mobile
 truyenqqtop.com##.mobile-banner
 truyenqqtop.com##div[id^="image_popup_"]
+
+sayhentai.net##center
+mangaonlineteam.com##.wp-manga.c-top-sec
 ||agacelebir.com^$popup
-vlxx.sex##.banner-inflow.ff-banner
-vlxx.sex##.fads
 ||vlogtruyen.net/images/logo.png$popup
 chromestory.com##.widget-area.custom-widget
-vnexpress.net##.center.section
 ||linksvip.net/images/momo.png$image
 voca.vn##.center-content
 dafulbrightteachers.org###ads_1234
 anhngumshoa.com##.phonering-alo-show.phonering-alo-green.phonering-alo-phone
 ||cdnstepup.r.worldssl.net/wp-content/uploads/2020/08/app-vua*.jpg$image
 ielts-fighter.com##.pnleft
+hotcourses.vn###ckieOvrlayDiv
+||saigonvina.edu.vn/uploads/images/news/1620362810_newsng$image
+||translate.google.com/translate_a/element.js$script,domain=gocmod.com
+c.mi.com##.cookie-setting-bottom-bar
+forum.vivaldi.net##div[widget-area="header"]
+vnexpress.net##.center.section
+m.baomoi.com##footer
 
 vi.duolingo.com##._120kx
 forum.duolingo.com##.GB_SB
 forum.duolingo.com##div.ReactModalPortal:nth-of-type(6)
 
-||saigonvina.edu.vn/uploads/images/news/1620362810_newsng$image
-
-vlxx.tube##.banner-inflow.ff-banner
-vlxx.tube##.fads
+vlxx.sex##.banner-inflow.ff-banner
+vlxx.sex##.fads
 
 edu2review.com###mobile-footer
 edu2review.com##.hide-xl-more.flex-center.fluid
 
-hotcourses.vn###ckieOvrlayDiv
-
 ! PhimGiz.net
 ||whowhipi.net^$third-party
-
-forum.vivaldi.net##div[widget-area="header"]
-
-m.baomoi.com##footer
 
 animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.tv##.shareUrl
 animetvn.tv##.thongbao20
 
-||translate.google.com/translate_a/element.js$script,domain=gocmod.com
 ! PublicAgent.com
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
@@ -59,8 +57,6 @@ animetvn.tv##.thongbao20
 
 vieon.vn###MODAL
 vieon.vn##html:style(overflow:auto !important)
-
-c.mi.com##.cookie-setting-bottom-bar
 
 tinhte.vn##.hot-community-mobile
 tinhte.vn##.top-creators
