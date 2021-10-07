@@ -1,7 +1,6 @@
 ! Title: Firefox
-
+.gif$image,domain=vuianime.net|lxhentai.com|phimtop.net
 ! m.lxhentai.com
-||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 ||bongda12h.com^$all
 ||hotgirl18.net^$all
 m.lxhentai.com##.alert-warning.alert
@@ -13,7 +12,7 @@ truyenqqtop.com##div[id^="image_popup_"]
 
 sayhentai.net##center
 mangaonlineteam.com##.wp-manga.c-top-sec
-||agacelebir.com^$popup
+||agacelebir.com^$all
 ||vlogtruyen.net/images/logo.png$popup
 chromestory.com##.widget-area.custom-widget
 ||linksvip.net/images/momo.png$image
@@ -41,7 +40,7 @@ edu2review.com###mobile-footer
 edu2review.com##.hide-xl-more.flex-center.fluid
 
 ! PhimGiz.net
-||whowhipi.net^$third-party
+||whowhipi.net^$all
 
 animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.tv##.shareUrl
