@@ -1,13 +1,14 @@
 ! Title: Firefox
 ||vuianime.net/catfish_26.gif$image
-! phimtop.net
+
 ||phimtop.net/iframe/mobi_top.html$subdocument
 ||i.imgur.com/IlJAihD.gif$image
+phimtop.net###player_message
 
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
 
-! m.lxhentai.com
+! m.LxHentai.com
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 ||bongda12h.com^$all
 ||hotgirl18.net^$all
