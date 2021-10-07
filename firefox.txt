@@ -1,4 +1,5 @@
 ! Title: Firefox
+||vuianime.net/catfish_26.gif$image
 ! phimtop.net
 ||phimtop.net/iframe/mobi_top.html$subdocument
 ||i.imgur.com/IlJAihD.gif$image
