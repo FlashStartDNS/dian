@@ -48,9 +48,6 @@ vlxx.sex##.fads
 edu2review.com###mobile-footer
 edu2review.com##.hide-xl-more.flex-center.fluid
 
-! PhimGiz.net
-||whowhipi.net^$all
-
 animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.tv##.shareUrl
 animetvn.tv##.thongbao20
