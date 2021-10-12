@@ -1,5 +1,4 @@
 ! Title: Firefox
-||fabet.me^$all
 ||vuianime.net/catfish_26.gif$image
 
 ||phimtop.net/iframe/mobi_top.html$subdocument
@@ -11,8 +10,6 @@ motchill.net##.container > .film-note
 
 ! m.LxHentai.com
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
-||bongda12h.com^$all
-||hotgirl18.net^$all
 m.lxhentai.com##.alert-warning.alert
 ond-sidebar.c-sidebar
 
