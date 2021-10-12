@@ -1,4 +1,5 @@
 ! Title: Firefox
+luatvietnam.vn##.main > .advHolder
 ||vuianime.net/catfish_26.gif$image
 
 ||phimtop.net/iframe/mobi_top.html$subdocument
