@@ -56,9 +56,6 @@ animetvn.tv##.thongbao20
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 
-vieon.vn###MODAL
-vieon.vn##html:style(overflow:auto !important)
-
 tinhte.vn##.hot-community-mobile
 tinhte.vn##.top-creators
 tinhte.vn##.hero-stream-carousel
