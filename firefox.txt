@@ -1,4 +1,5 @@
 ! Title: Firefox
+||phimtop.net/apihrx/8.8.5/vast.js
 ||berlipurplin.com^$domain=phimtop.net
 luatvietnam.vn##.main > .advHolder
 
