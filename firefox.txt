@@ -1,11 +1,9 @@
 ! Title: Firefox
 luatvietnam.vn##.main > .advHolder
-||vuianime.net/catfish_26.gif$image
-vuianime.net##body > div:nth-of-type(5)
-vuianime.net##body > center
 
+||vuianime.net/catfish_26.gif$image
 ||phimtop.net/iframe/mobi_top.html$subdocument
-phimtop.net##body > center
+phimtop.net,vuianime.net##center
 phimtop.net###player_message
 phimtop.net##.sticky_bottom
 
