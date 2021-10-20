@@ -2,6 +2,8 @@
 luatvietnam.vn##.main > .advHolder
 
 ||vuianime.net/catfish_26.gif$image
+vuianime.net##body > div:nth-of-type(5)
+vuianime.net###main-content > div:nth-of-type(3)
 ||phimtop.net/iframe/mobi_top.html$subdocument
 phimtop.net,vuianime.net##center
 phimtop.net###player_message
