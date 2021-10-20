@@ -1,12 +1,12 @@
 ! Title: Firefox
-||phimtop.net/apihrx/8.8.5/vast.js
+anonyviet.com##.adsbygoogle
 luatvietnam.vn##.main > .advHolder
 
 ||vuianime.net/catfish_26.gif$image
 vuianime.net##body > div:nth-of-type(5)
 vuianime.net###main-content > div:nth-of-type(3)
 ||phimtop.net/iframe/mobi_top.html$subdocument
-phimtop.net,vuianime.net##center
+phimtop.net,vuianime.net,sayhentai.net##center
 phimtop.net###player_message
 phimtop.net##.sticky_bottom
 
@@ -22,7 +22,6 @@ truyenqqtop.com###ads_mobile
 truyenqqtop.com##.mobile-banner
 truyenqqtop.com##div[id^="image_popup_"]
 
-sayhentai.net##center
 mangaonlineteam.com##.wp-manga.c-top-sec
 ||agacelebir.com^$all
 ||vlogtruyen.net/images/logo.png$popup
