@@ -7,6 +7,7 @@ vuianime.net##body > center
 ||phimtop.net/iframe/mobi_top.html$subdocument
 phimtop.net##body > center
 phimtop.net###player_message
+phimtop.net##.sticky_bottom
 
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
