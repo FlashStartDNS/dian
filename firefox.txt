@@ -1,6 +1,7 @@
 ! Title: Firefox
 luatvietnam.vn##.main > .advHolder
 ||vuianime.net/catfish_26.gif$image
+vuianime.net##.ab1
 
 ||phimtop.net/iframe/mobi_top.html$subdocument
 ||i.imgur.com/IlJAihD.gif$image
