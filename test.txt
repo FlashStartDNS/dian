@@ -1,1 +1,1 @@
-*.gif$image,domain=vuianime.net|phimtop.net
+||*.gif$image,domain=vuianime.net|phimtop.net
