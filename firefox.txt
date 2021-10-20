@@ -1,4 +1,5 @@
 ! Title: Firefox
+||berlipurplin.com^$domain=phimtop.net
 luatvietnam.vn##.main > .advHolder
 
 ||vuianime.net/catfish_26.gif$image
