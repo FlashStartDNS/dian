@@ -5,7 +5,7 @@ vuianime.net##body > div:nth-of-type(5)
 vuianime.net##body > center
 
 ||phimtop.net/iframe/mobi_top.html$subdocument
-||i.imgur.com/IlJAihD.gif$image
+phimtop.net##body > center
 phimtop.net###player_message
 
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
