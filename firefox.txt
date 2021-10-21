@@ -7,20 +7,18 @@ vuianime.net##body > div:nth-of-type(5)
 vuianime.net###main-content > div:nth-of-type(3)
 ||phimtop.net/iframe/mobi_top.html$subdocument
 phimtop.net,vuianime.net,sayhentai.net##center
-phimtop.net###player_message
 phimtop.net##.sticky_bottom
+phimtop.net###player_message
 
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
 
 ! m.LxHentai.com
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
-m.lxhentai.com##.alert-warning.alert
-ond-sidebar.c-sidebar
 
-truyenqqtop.com###ads_mobile
 truyenqqtop.com##.mobile-banner
 truyenqqtop.com##div[id^="image_popup_"]
+truyenqqtop.com###ads_mobile
 
 mangaonlineteam.com##.wp-manga.c-top-sec
 ||agacelebir.com^$all
@@ -39,41 +37,34 @@ c.mi.com##.cookie-setting-bottom-bar
 forum.vivaldi.net##div[widget-area="header"]
 vnexpress.net##.center.section
 m.baomoi.com##footer
+vlxx.sex##.fads, .banner-inflow.ff-banner
 
 vi.duolingo.com##._120kx
 forum.duolingo.com##.GB_SB
 forum.duolingo.com##div.ReactModalPortal:nth-of-type(6)
 
-vlxx.sex##.banner-inflow.ff-banner
-vlxx.sex##.fads
-
 edu2review.com###mobile-footer
 edu2review.com##.hide-xl-more.flex-center.fluid
 
 animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
-animetvn.tv##.shareUrl
-animetvn.tv##.thongbao20
+animetvn.tv##.shareUrl, .thongbao20
 
 ! PublicAgent.com
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 
-tinhte.vn##.hot-community-mobile
-tinhte.vn##.top-creators
-tinhte.vn##.hero-stream-carousel
-tinhte.vn##.tinhte-facts-wrapper
-
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
+
+m.dkn.news,mb.dkn.tv###appbn
+m.tinhhoa.net,m.dkn.news##.fixed-vid.single-post-video
 
 ||newtoki95.com/data/banner/
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! ReaperScans.com
 ||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
-m.tinhhoa.net,m.dkn.news##.fixed-vid.single-post-video
-m.dkn.news,mb.dkn.tv###appbn
+tinhte.vn##.top-creators, .hero-stream-carousel, .hot-community-mobile, .tinhte-facts-wrapper
 mobile.twitter.com##.r-97e31f.r-urgr8i.css-1dbjc4n
-reddit.com##._2pUaFeMjwDAhdxtQUwSRcQ
-reddit.com##.TopNav__promoButton
+reddit.com##.TopNav__promoButton, ._2pUaFeMjwDAhdxtQUwSRcQ
