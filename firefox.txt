@@ -1,6 +1,6 @@
 ! Title: Firefox
 anonyviet.com##.adsbygoogle
-luatvietnam.vn##.main > .advHolder
+luatvietnam.vn##.advHolder
 
 ||vuianime.net/catfish_26.gif$image
 vuianime.net##body > div:nth-of-type(5)
