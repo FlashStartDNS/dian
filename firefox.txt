@@ -1,7 +1,15 @@
 ! Title: Firefox
+youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
+facebook.com##[role="feed"]>div:has-text(/^(Suggested|Recommended|Post You May Like|Gợi ý cho bạn)/)
+www.techz.vn##.mt-4.d-flex.list-five-news
+dictionary.cambridge.org##.topslot-container.tz0
+!
+www.24h.com.vn##.xocbg.atclRdSbIn
+www.24h.com.vn##.event-box.xocbg.vidItm
+!
 anonyviet.com##.adsbygoogle
 luatvietnam.vn##.advHolder
-
+!
 ||vuianime.net/catfish_26.gif$image
 vuianime.net##body > div:nth-of-type(5)
 vuianime.net###main-content > div:nth-of-type(3)
@@ -10,17 +18,17 @@ phimtop.net,vuianime.net,sayhentai.net##center
 phimtop.net##.sticky_bottom
 phimtop.net###player_message
 ||i.imgur.com^*.gif$domain=phimtop.net
-
+!
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
-
+!
 ! m.LxHentai.com
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
-
+!
 truyenqqtop.com##.mobile-banner
 truyenqqtop.com##div[id^="image_popup_"]
 truyenqqtop.com###ads_mobile
-
+!
 mangaonlineteam.com##.wp-manga.c-top-sec
 ||agacelebir.com^$all
 ||vlogtruyen.net/images/logo.png$popup
