@@ -62,7 +62,8 @@ edu2review.com###mobile-footer
 edu2review.com##.hide-xl-more.flex-center.fluid
 
 animetvn.tv##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
-animetvn.tv##.shareUrl, .thongbao20
+animetvn.tv##.shareUrl
+animetvn.tv##.thongbao20
 
 ! PublicAgent.com
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
