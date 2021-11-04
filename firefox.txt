@@ -3,9 +3,6 @@
 youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
 facebook.com##[role="feed"]>div:has-text(/^(Suggested|Recommended|Post You May Like|Gợi ý cho bạn)/)
 
-www.24h.com.vn##.xocbg.atclRdSbIn
-www.24h.com.vn##.event-box.xocbg.vidItm
-
 ||vuianime.net/catfish_26.gif$image
 vuianime.net##body > div:nth-of-type(5)
 vuianime.net###main-content > div:nth-of-type(3)
@@ -53,6 +50,7 @@ phim1080z.com##.news.bg-black
 ||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
 www.techz.vn##.mt-4.d-flex.list-five-news
 dictionary.cambridge.org##.topslot-container.tz0
+www.24h.com.vn##.xocbg.atclRdSbIn, .event-box.xocbg.vidItm
 
 vi.duolingo.com##._120kx
 forum.duolingo.com##.GB_SB
