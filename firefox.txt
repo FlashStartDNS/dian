@@ -26,8 +26,8 @@ truyenqqtop.com##.mobile-banner
 truyenqqtop.com##div[id^="image_popup_"]
 truyenqqtop.com###ads_mobile
 
+www.manga-raw.club##.adsbox
 mangaonlineteam.com##.wp-manga.c-top-sec
-||agacelebir.com^$all
 ||vlogtruyen.net/images/logo.png$popup
 chromestory.com##.widget-area.custom-widget
 ||linksvip.net/images/momo.png$image
@@ -79,5 +79,4 @@ m.tinhhoa.net,m.dkn.news##.fixed-vid.single-post-video
 ||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
 tinhte.vn##.top-creators, .hero-stream-carousel, .hot-community-mobile, .tinhte-facts-wrapper
-mobile.twitter.com##.r-97e31f.r-urgr8i.css-1dbjc4n
 reddit.com##.TopNav__promoButton, ._2pUaFeMjwDAhdxtQUwSRcQ
