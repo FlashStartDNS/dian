@@ -18,7 +18,6 @@ motchill.net##.container > .film-note
 
 ||sayhentai.net/uploads/000.jpg$image
 ||sayhentai.net/app/manga/uploads/credit.jpg$image
-
 ! m.LxHentai.com
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 
@@ -26,7 +25,7 @@ truyenqqtop.com##.mobile-banner
 truyenqqtop.com##div[id^="image_popup_"]
 truyenqqtop.com###ads_mobile
 
-www.manga-raw.club##.adsbox
+manga-raw.club##.adsbox
 mangaonlineteam.com##.wp-manga.c-top-sec
 ||vlogtruyen.net/images/logo.png$popup
 chromestory.com##.widget-area.custom-widget
