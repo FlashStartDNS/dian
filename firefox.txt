@@ -21,13 +21,20 @@ motchill.net##.container > .film-note
 ! m.LxHentai.com
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 
+vlogtruyen.net##.relate-manga.box-dinh-ky
+||vlogtruyen.net/images/logo.png$popup
+||cdn.vlogtruyen.net/cdn/chapter/2021/11/05/0567224862_Output3_015.jpg$image
+
 truyenqqtop.com##.mobile-banner
 truyenqqtop.com##div[id^="image_popup_"]
 truyenqqtop.com###ads_mobile
 
+
+||media.viezone.vn/prod/2021/9/19/running_man_mobile_007048e98f.mp4$media
+vi.xiaomitoday.it##.__lxG__size_fixed.__lxG__loading_block
+getdroidtips.com##.ai-viewport-4.ai-viewport-3.code-block
 manga-raw.club##.adsbox
 mangaonlineteam.com##.wp-manga.c-top-sec
-||vlogtruyen.net/images/logo.png$popup
 chromestory.com##.widget-area.custom-widget
 ||linksvip.net/images/momo.png$image
 voca.vn##.center-content
