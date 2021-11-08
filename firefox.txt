@@ -29,7 +29,6 @@ truyenqqtop.com##.mobile-banner
 truyenqqtop.com##div[id^="image_popup_"]
 truyenqqtop.com###ads_mobile
 
-
 ||media.viezone.vn/prod/2021/9/19/running_man_mobile_007048e98f.mp4$media
 vi.xiaomitoday.it##.__lxG__size_fixed.__lxG__loading_block
 getdroidtips.com##.ai-viewport-4.ai-viewport-3.code-block
@@ -54,9 +53,9 @@ anonyviet.com##.adsbygoogle
 luatvietnam.vn##.advHolder
 phim1080z.com##.news.bg-black
 ||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
-www.techz.vn##.mt-4.d-flex.list-five-news
+techz.vn##.mt-4.d-flex.list-five-news
 dictionary.cambridge.org##.topslot-container.tz0
-www.24h.com.vn##.xocbg.atclRdSbIn, .event-box.xocbg.vidItm
+24h.com.vn##.xocbg.atclRdSbIn, .event-box.xocbg.vidItm
 
 vi.duolingo.com##._120kx
 forum.duolingo.com##.GB_SB
