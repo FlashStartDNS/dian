@@ -7,7 +7,7 @@ facebook.com##[role="feed"]>div:has-text(/^(Suggested|Recommended|Post You May L
 vuianime.net##body > div:nth-of-type(5)
 vuianime.net###main-content > div:nth-of-type(3)
 ||phimtop.net/iframe/mobi_top.html$subdocument
-phimtop.net,vuianime.net,sayhentai.net##center
+phimtop.net,vuianime.net,sayhentai.net,saytruyen.net##center
 phimtop.net##.sticky_bottom
 phimtop.net###player_message
 ||i.imgur.com^*.gif$domain=phimtop.net|sextop18.com
