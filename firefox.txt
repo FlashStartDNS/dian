@@ -21,8 +21,8 @@ motchill.net##.container > .film-note
 ! m.LxHentai.com
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 
+vlogtruyen.net##.hrefBanner
 vlogtruyen.net##.relate-manga.box-dinh-ky
-||vlogtruyen.net/images/logo.png$popup
 ||cdn.vlogtruyen.net/cdn/chapter/2021/11/05/0567224862_Output3_015.jpg$image
 
 truyenqqtop.com##.mobile-banner
