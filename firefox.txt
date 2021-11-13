@@ -1,7 +1,7 @@
 ! Title: Firefox
 youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
 facebook.com##[role="feed"]>div:has-text(/^(Suggested|Recommended|Post You May Like|Gợi ý cho bạn)/)
-facebook.com##p:has-text(Danh sách cửa hàng Big C)
+facebook.com##p:has-text(Danh sách cửa hàng)
 facebook.com##p:has-text(Dịch vụ đặt hàng GO!)
 
 ||vuianime.net/catfish_26.gif$image
@@ -22,7 +22,7 @@ motchill.net##.container > .film-note
 ! m.LxHentai.com
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 
-vlogtruyen.net##.hrefBanner
+vlogtruyen.net##.mobile-catfish
 vlogtruyen.net##.relate-manga.box-dinh-ky
 ||cdn.vlogtruyen.net/cdn/chapter/2021/11/05/0567224862_Output3_015.jpg$image
 
