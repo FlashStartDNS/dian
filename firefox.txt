@@ -1,8 +1,7 @@
 ! Title: Firefox
 youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
 facebook.com##[role="feed"]>div:has-text(/^(Suggested|Recommended|Post You May Like|Gợi ý cho bạn)/)
-facebook.com##p:has-text(Danh sách cửa hàng)
-facebook.com##p:has-text(Dịch vụ đặt hàng GO!)
+facebook.com##p:has-text(/(Danh sách cửa hàng GO|Dịch vụ đặt hàng GO!|Khu vực miền Bắc:)/)
 
 ||vuianime.net/catfish_26.gif$image
 vuianime.net##body > div:nth-of-type(5)
