@@ -3,6 +3,9 @@ youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size
 facebook.com##[role="feed"]>div:has-text(/^(Suggested|Recommended|Post You May Like|Gợi ý cho bạn)/)
 facebook.com##p:has-text(/(Danh sách cửa hàng GO|Dịch vụ đặt hàng GO!|Khu vực miền Bắc:)/)
 
+m.sexcotrang.net###juiky2021
+||ww1.javbabe.net/x1x/*.html$subdocument
+
 ||vuianime.net/catfish_26.gif$image
 vuianime.net##body > div:nth-of-type(5)
 vuianime.net###main-content > div:nth-of-type(3)
