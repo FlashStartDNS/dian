@@ -1,4 +1,5 @@
 ! Title: Firefox
+www.thegioididong.com##li:has-text(/(BlueJi|trang sức|đồng hồ|MacBook)/)
 youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
 facebook.com##[role="feed"]>div:has-text(/^(Suggested|Recommended|Post You May Like|Gợi ý cho bạn)/)
 facebook.com##p:has-text(/(Danh sách cửa hàng GO|Dịch vụ đặt hàng GO!|Khu vực miền Bắc:)/)
