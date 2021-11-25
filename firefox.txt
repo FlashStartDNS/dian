@@ -1,5 +1,5 @@
 ! Title: Firefox
-thegioididong.com##li:has-text(/(BlueJi|trang sức|Đồng hồ|đồng hồ|MacBook|Huawei|Honor)/)
+thegioididong.com##li:has-text(/(BlueJi|trang sức|Đồng hồ|đồng hồ|MacBook|Huawei|Honor|Motorola)/)
 ||cdn.tgdd.vn/2021/11/banner/bluejibanner-640x200.jpg$image
 ||cdn.tgdd.vn/2021/11/banner/640x200-v23e-640x200.jpg$image
 
