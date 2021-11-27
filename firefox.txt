@@ -6,6 +6,8 @@ thegioididong.com##li:has-text(/(BlueJi|trang sức|Đồng hồ|đồng hồ|Ma
 wall.alphacoders.com##.ads-bottom-center-infinite.center
 wall.alphacoders.com##.ads-top-center-mobile.center
 
+m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(SIÊU THỬ THÁCH)
+m.youtube.com##ytm-compact-video-renderer.item:has-text(SIÊU THỬ THÁCH)
 youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
 
 facebook.com##[role="feed"]>div:has-text(/^(Suggested|Recommended|Post You May Like|Gợi ý cho bạn)/)
