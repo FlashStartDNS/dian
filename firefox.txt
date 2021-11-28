@@ -3,8 +3,7 @@ thegioididong.com##li:has-text(/(BlueJi|trang sức|Đồng hồ|đồng hồ|Ma
 ||cdn.tgdd.vn/2021/11/banner/bluejibanner-640x200.jpg$image
 ||cdn.tgdd.vn/2021/11/banner/640x200-v23e-640x200.jpg$image
 
-wall.alphacoders.com##.ads-bottom-center-infinite.center
-wall.alphacoders.com##.ads-top-center-mobile.center
+wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
 
 m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(SIÊU THỬ THÁCH)
 m.youtube.com##ytm-compact-video-renderer.item:has-text(SIÊU THỬ THÁCH)
