@@ -16,6 +16,7 @@ facebook.com##p:has-text(/(Danh sách cửa hàng GO|Dịch vụ đặt hàng GO
 m.sexcotrang.net###juiky2021
 ||ww1.javbabe.net/x1x/*.html$subdocument
 
+vuighe.net##.banner-masthead
 ||vuianime.net/catfish_26.gif$image
 vuianime.net##body > div:nth-of-type(5)
 vuianime.net###main-content > div:nth-of-type(3)
