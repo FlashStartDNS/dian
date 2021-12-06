@@ -2,6 +2,7 @@
 thegioididong.com##li:has-text(/(AFF|smartwatch|BlueJi|trang sức|Đồng hồ|đồng hồ|MacBook|Huawei|Honor|Motorola|ZTE|iPhone)/)
 thegioididong.com##.latest
 
+reddit.com##.xpromolistingclickmodal
 androidpolice.com##.js-content.browse-clip:has-text(Chrome OS)
 happymoddownload.com##.ad-wap
 wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
