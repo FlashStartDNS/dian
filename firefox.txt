@@ -13,6 +13,7 @@ youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size
 
 facebook.com##[role="feed"]>div:has-text(/^(Suggested|Recommended|Post You May Like|Gợi ý cho bạn)/)
 facebook.com##p:has-text(/(Danh sách cửa hàng GO|Dịch vụ đặt hàng GO!|Khu vực miền Bắc:)/)
+m.facebook.com##article:has-text(/(MIỀN TRUNG|MIỀN BẮC|GO! HUẾ|GO! BÀ RỊA)|GO! Ninh Bình/)
 
 m.sexcotrang.net###juiky2021
 ||ww1.javbabe.net/x1x/*.html$subdocument
