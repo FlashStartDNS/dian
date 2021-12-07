@@ -1,7 +1,8 @@
 ! Title: Firefox
-thegioididong.com##li:has-text(/(AFF|smartwatch|BlueJi|trang sức|Đồng hồ|đồng hồ|MacBook|Huawei|Honor|Motorola|ZTE|iPhone)/)
+thegioididong.com##li:has-text(/(macOS|AFF|smartwatch|BlueJi|trang sức|Đồng hồ|đồng hồ|MacBook|Huawei|Honor|Motorola|ZTE|iPhone)/)
 thegioididong.com##.latest
 
+congan.com.vn##.adMobileHeader
 reddit.com##.xpromolistingclickmodal
 androidpolice.com##.js-content.browse-clip:has-text(Chrome OS)
 happymoddownload.com##.ad-wap
