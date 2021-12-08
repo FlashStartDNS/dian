@@ -1,4 +1,7 @@
 ! Title: Firefox
+nettruyengo.com##.mrb5.text-center.container
+nettruyengo.com##div.container > .mrb5.mrt5.text-center
+
 thegioididong.com##li:has-text(/(macOS|AFF|smartwatch|BlueJi|trang sức|Đồng hồ|đồng hồ|MacBook|Huawei|Honor|Motorola|ZTE|iPhone)/)
 thegioididong.com##.latest
 
