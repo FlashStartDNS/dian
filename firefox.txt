@@ -11,8 +11,8 @@ androidpolice.com##.js-content.browse-clip:has-text(Chrome OS)
 happymoddownload.com##.ad-wap
 wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
 
-m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(SIÊU THỬ THÁCH)
-m.youtube.com##ytm-compact-video-renderer.item:has-text(SIÊU THỬ THÁCH)
+m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+m.youtube.com##ytm-compact-video-renderer.item:has-text(/(Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/) 
 youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
 
 facebook.com##[role="feed"]>div:has-text(/^(Suggested|Recommended|Post You May Like|Gợi ý cho bạn)/)
