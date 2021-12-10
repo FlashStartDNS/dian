@@ -2,6 +2,7 @@
 nettruyengo.com##.mrb5.text-center.container
 nettruyengo.com##div.container > .mrb5.mrt5.text-center
 
+fptshop.com.vn##div.item-ver.news-hor__item:has-text(/(Apple|iPhone|iOS|Mac)/i)
 thegioididong.com##li:has-text(/(AFF|Watch|BlueJi|trang sức|Đồng hồ|Mac|Huawei|Honor|Moto|ZTE|iPhone)/i)
 thegioididong.com##.latest
 
