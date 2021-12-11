@@ -1,6 +1,4 @@
 ! Title: Firefox
-nettruyengo.com##.mrb5.text-center.container
-nettruyengo.com##div.container > .mrb5.mrt5.text-center
 
 fptshop.com.vn##div.item-ver.news-hor__item:has-text(/(Apple|iPhone|iOS|Mac)/i)
 thegioididong.com##li:has-text(/(Apple|AFF|Watch|BlueJi|trang sức|Đồng hồ|Mac|Huawei|Honor|Moto|ZTE|iPhone)/i)
