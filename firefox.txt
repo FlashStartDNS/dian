@@ -3,12 +3,17 @@
 m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(Pvoil Cup|Hà Nội ghi nhận|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 m.youtube.com##ytm-compact-video-renderer.item:has-text(/(Pvoil Cup|Hà Nội ghi nhận|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 
+reddit.com##.XPromoPopup
+reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
+reddit.com##.XPromoInFeed
+amp.reddit.com##.AppSelectorModal__body
+amp.reddit.com##.upsell_banner
+
 fptshop.com.vn##div.item-ver.news-hor__item:has-text(/(Apple|iPhone|iOS|Mac)/i)
 thegioididong.com##li:has-text(/(Apple|AFF|Watch|BlueJi|trang sức|Đồng hồ|Mac|Huawei|Honor|Moto|ZTE|iPhone)/i)
 thegioididong.com##.latest
 
 congan.com.vn##.adMobileHeader
-reddit.com##.xpromolistingclickmodal
 androidpolice.com##.js-content.browse-clip:has-text(Chrome OS)
 happymoddownload.com##.ad-wap
 wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
