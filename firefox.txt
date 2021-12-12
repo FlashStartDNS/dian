@@ -3,11 +3,11 @@ facebook.com##[role="article"]>div:has-text(/(bong da|MALAYSIA|Malaysia|ĐÀ L�
 m.facebook.com##article:has-text(/(bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
 
 ! Mobile
-m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(Bắc Bộ|đội tuyển Việt Nam|ĐT Việt Nam|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
-m.youtube.com##ytm-compact-video-renderer.item:has-text(/(Bắc Bộ|đội tuyển Việt Nam|ĐT Việt Nam|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(Malaysia|Bắc Bộ|đội tuyển Việt Nam|ĐT Việt Nam|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+m.youtube.com##ytm-compact-video-renderer.item:has-text(/(Malaysia|Bắc Bộ|đội tuyển Việt Nam|ĐT Việt Nam|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 ! Destop
-www.youtube.com##[page-subtype="subscriptions"] ytd-item-section-renderer.ytd-section-list-renderer.style-scope:has-text(/(Bắc Bộ|đội tuyển Việt Nam|ĐT Việt Nam|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
-www.youtube.com##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:has-text(/(Bắc Bộ|đội tuyển Việt Nam|ĐT Việt Nam|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+www.youtube.com##[page-subtype="subscriptions"] ytd-item-section-renderer.ytd-section-list-renderer.style-scope:has-text(/(Malaysia|Bắc Bộ|đội tuyển Việt Nam|ĐT Việt Nam|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+www.youtube.com##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:has-text(/(Malaysia|Bắc Bộ|đội tuyển Việt Nam|ĐT Việt Nam|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 
 reddit.com##.XPromoPopup
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
