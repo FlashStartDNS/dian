@@ -16,7 +16,7 @@ amp.reddit.com##.AppSelectorModal__body
 amp.reddit.com##.upsell_banner
 
 fptshop.com.vn##div.item-ver.news-hor__item:has-text(/(Apple|iPhone|iOS|Mac)/i)
-thegioididong.com##li:has-text(/(Apple|AFF|Watch|BlueJi|trang sức|Đồng hồ|Mac|Huawei|Honor|Moto|ZTE|iPhone)/i)
+thegioididong.com##li:has-text(/(Apple|AFF|Watch|BlueJi|trang sức|Đồng hồ|Mac|Huawei|Honor|Moto|ZTE|iPhone|iOS|PUBG)/i)
 thegioididong.com##.latest
 
 congan.com.vn##.adMobileHeader
