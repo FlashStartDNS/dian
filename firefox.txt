@@ -1,6 +1,7 @@
 ! Title: Firefox
-facebook.com##[role="article"]>div:has-text(/(ĐÀ LẠT|GO! HẢI PHÒNG|GO! GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|GO! HUẾ|GO! BÀ RỊA)|GO! Ninh Bình|GO! NAM ĐỊNH/)
-m.facebook.com##[class="m displayed"]>div.m:has-text(/(ĐÀ LẠT|GO! HẢI PHÒNG|GO! GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|GO! HUẾ|GO! BÀ RỊA)|GO! Ninh Bình|GO! NAM ĐỊNH/)
+facebook.com##[role="article"]>div:has-text(/(MALAYSIA|ĐÀ LẠT|GO! HẢI PHÒNG|GO! GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|GO! HUẾ|GO! BÀ RỊA)|GO! Ninh Bình|GO! NAM ĐỊNH/)
+m.facebook.com##article:has-text(/(MALAYSIA|ĐÀ LẠT|GO! HẢI PHÒNG|GO! GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|GO! HUẾ|GO! BÀ RỊA)|GO! Ninh Bình|GO! NAM ĐỊNH/)
+facebook.com##p:has-text(/(Danh sách cửa hàng GO|Dịch vụ đặt hàng GO!|Khu vực miền Bắc:)/)
 
 ! Mobile
 m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(Pvoil Cup|Hà Nội ghi nhận|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
@@ -25,10 +26,6 @@ happymoddownload.com##.ad-wap
 wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
 
 youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
-
-facebook.com##[role="feed"]>div:has-text(/^(Suggested|Recommended|Post You May Like|Gợi ý cho bạn)/)
-facebook.com##p:has-text(/(Danh sách cửa hàng GO|Dịch vụ đặt hàng GO!|Khu vực miền Bắc:)/)
-m.facebook.com##article:has-text(/(GO! HẢI PHÒNG|GO! GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|GO! HUẾ|GO! BÀ RỊA)|GO! Ninh Bình|GO! NAM ĐỊNH/)
 
 m.sexcotrang.net###juiky2021
 ||ww1.javbabe.net/x1x/*.html$subdocument
