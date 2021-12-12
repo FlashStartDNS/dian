@@ -1,6 +1,6 @@
 ! Title: Firefox
-facebook.com##[role="article"]>div:has-text(/(bong da|MALAYSIA|Malaysia|ĐÀ LẠT|GO! HẢI PHÒNG|GO! GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|GO! HUẾ|GO! BÀ RỊA)|GO! Ninh Bình|GO! NAM ĐỊNH/)
-m.facebook.com##article:has-text(/(bong da|MALAYSIA|Malaysia|ĐÀ LẠT|GO! HẢI PHÒNG|GO! GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|GO! HUẾ|GO! BÀ RỊA)|GO! Ninh Bình|GO! NAM ĐỊNH/)
+facebook.com##[role="article"]>div:has-text(/(bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
+m.facebook.com##article:has-text(/(bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
 
 ! Mobile
 m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(Pvoil Cup|Hà Nội ghi nhận|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
