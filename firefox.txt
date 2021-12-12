@@ -1,7 +1,10 @@
 ! Title: Firefox
-
+! Mobile
 m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(Pvoil Cup|Hà Nội ghi nhận|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 m.youtube.com##ytm-compact-video-renderer.item:has-text(/(Pvoil Cup|Hà Nội ghi nhận|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+! Destop
+www.youtube.com##[page-subtype="subscriptions"] ytd-item-section-renderer.ytd-section-list-renderer.style-scope:has-text(/(Pvoil Cup|Hà Nội ghi nhận|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+www.youtube.com##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:has-text(/(Pvoil Cup|Hà Nội ghi nhận|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 
 reddit.com##.XPromoPopup
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
