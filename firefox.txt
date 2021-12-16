@@ -1,4 +1,5 @@
 ! Title: Firefox
+thegioididong.com##li:has-text(/(bị đeo|laptop|Apple|AFF|Watch|BlueJi|trang sức|Đồng hồ|Mac|Huawei|Honor|Moto|ZTE|iPhone|iOS|PUBG)/i)
 facebook.com##[role="article"]>div:has-text(/(AFF|tuyển Việt|Mac|Apple|Messi|bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
 m.facebook.com##article:has-text(/(AFF|tuyển Việt|Mac|Apple|Messi|bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
 
@@ -16,7 +17,6 @@ amp.reddit.com##.AppSelectorModal__body
 amp.reddit.com##.upsell_banner
 
 fptshop.com.vn##div.item-ver.news-hor__item:has-text(/(Apple|iPhone|iOS|Mac)/i)
-thegioididong.com##li:has-text(/(bị đeo|laptop|Apple|AFF|Watch|BlueJi|trang sức|Đồng hồ|Mac|Huawei|Honor|Moto|ZTE|iPhone|iOS|PUBG)/i)
 thegioididong.com##.latest
 
 congan.com.vn##.adMobileHeader
