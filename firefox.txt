@@ -47,6 +47,8 @@ motchill.net##.container > .film-note
 ||sayhentai.net/app/manga/uploads/credit.jpg$image
 ! m.LxHentai.com
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
+||www3.cbox.ws/box/$subdocument
+m.lxhentai.com##.alert-warning.alert
 
 vlogtruyen.net##.mobile-catfish, .relate-manga.box-dinh-ky
 ||cdn.vlogtruyen.net/cdn/chapter/2021/11/05/0567224862_Output3_015.jpg$image
