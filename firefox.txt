@@ -20,7 +20,7 @@ thegioididong.com##li:has-text(/(Apple|AFF|Watch|BlueJi|trang sức|Đồng hồ
 thegioididong.com##.latest
 
 congan.com.vn##.adMobileHeader
-androidpolice.com##.js-content.browse-clip:has-text(Chrome OS)
+androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
 happymoddownload.com##.ad-wap
 wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
 
