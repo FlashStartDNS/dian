@@ -4,11 +4,11 @@ facebook.com##[role="article"]>div:has-text(/(AFF|tuyển Việt|Mac|Apple|Messi
 m.facebook.com##article:has-text(/(AFF|tuyển Việt|Mac|Apple|Messi|bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
 
 ! Mobile
-m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
-m.youtube.com##ytm-compact-video-renderer.item:has-text(/(Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+m.youtube.com##ytm-compact-video-renderer.item:has-text(/(CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 ! Destop
-www.youtube.com##[page-subtype="subscriptions"] ytd-item-section-renderer.ytd-section-list-renderer.style-scope:has-text(/(Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
-www.youtube.com##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:has-text(/(Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+www.youtube.com##[page-subtype="subscriptions"] ytd-item-section-renderer.ytd-section-list-renderer.style-scope:has-text(/(CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+www.youtube.com##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:has-text(/(CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 
 reddit.com##.XPromoPopup
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
