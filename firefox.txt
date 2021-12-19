@@ -1,14 +1,14 @@
 ! Title: Firefox
-thegioididong.com##li:has-text(/(Citizen|VinFast|bị đeo|laptop|Apple|AFF|Watch|BlueJi|trang sức|Đồng hồ|Mac|Huawei|Honor|Moto|ZTE|iPhone|iOS|PUBG)/i)
+thegioididong.com##li:has-text(/(iQOO|Citizen|VinFast|bị đeo|laptop|Apple|AFF|Watch|BlueJi|trang sức|Đồng hồ|Mac|Huawei|Honor|Moto|ZTE|iPhone|iOS|PUBG)/i)
 facebook.com##[role="article"]>div:has-text(/(ĐT Campuchia|AFF|tuyển Việt|Mac|Apple|Messi|bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
-m.facebook.com##article:has-text(/(ĐT Campuchia|AFF|tuyển Việt|Mac|Apple|Messi|bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
+m.facebook.com##article:has-text(/(Campuchia|AFF|tuyển Việt|Mac|Apple|Messi|bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
 
 ! Mobile
-m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
-m.youtube.com##ytm-compact-video-renderer.item:has-text(/(Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+m.youtube.com##ytm-compact-video-renderer.item:has-text(/(Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 ! Destop
-www.youtube.com##[page-subtype="subscriptions"] ytd-item-section-renderer.ytd-section-list-renderer.style-scope:has-text(/(Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
-www.youtube.com##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:has-text(/(Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+www.youtube.com##[page-subtype="subscriptions"] ytd-item-section-renderer.ytd-section-list-renderer.style-scope:has-text(/(Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+www.youtube.com##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:has-text(/(Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 
 reddit.com##.XPromoPopup
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
