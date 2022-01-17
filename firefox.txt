@@ -1,4 +1,15 @@
 ! Title: Firefox
+nettruyengo.com##div.container > .mrb5.mrt5.text-center
+nettruyengo.com##.scroll-up.scroll-to-fixed-fixed.chapter-nav
+
+www.timki.vn##.adsJH09
+! didongviet.vn
+||page.widget.zalo.me/$subdocument
+
+thienvadia.vip##.js-notices.notices--block.notices
+! khophim18.net
+||static.rapphimhd.com/images/22-01-03/320x50.gif$image
+
 thegioididong.com##li:has-text(/(iQOO|Citizen|VinFast|bị đeo|laptop|Apple|AFF|Watch|BlueJi|trang sức|Đồng hồ|Mac|Huawei|Honor|Moto|ZTE|iPhone|iOS|PUBG)/i)
 facebook.com##[role="article"]>div:has-text(/(Indonesia|UEFA|Campuchia|AFF|tuyển Việt|Mac|Apple|Messi|bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
 m.facebook.com##article:has-text(/(Indonesia|UEFA|Campuchia|AFF|tuyển Việt|Mac|Apple|Messi|bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
@@ -43,6 +54,7 @@ sextop18.com###preload
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
 
+||sayhentai.net/storage/images/banner/vn999.gif$image
 ||sayhentai.net/uploads/000.jpg$image
 ||sayhentai.net/app/manga/uploads/credit.jpg$image
 ! m.LxHentai.com
