@@ -2,6 +2,7 @@
 nettruyengo.com##div.container > .mrb5.mrt5.text-center
 nettruyengo.com##.scroll-up.scroll-to-fixed-fixed.chapter-nav
 
+||theundergroundclub.net/wp-content/uploads/2021/11/*.gif$image
 www.timki.vn##.adsJH09
 ! didongviet.vn
 ||page.widget.zalo.me/$subdocument
