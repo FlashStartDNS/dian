@@ -84,7 +84,6 @@ anhngumshoa.com##.phonering-alo-show.phonering-alo-green.phonering-alo-phone
 ielts-fighter.com##.pnleft
 hotcourses.vn###ckieOvrlayDiv
 ||saigonvina.edu.vn/uploads/images/news/1620362810_newsng$image
-||translate.google.com/translate_a/element.js$script,domain=gocmod.com
 c.mi.com##.cookie-setting-bottom-bar
 forum.vivaldi.net##div[widget-area="header"]
 vnexpress.net##.center.section
