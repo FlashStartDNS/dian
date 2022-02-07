@@ -3,6 +3,7 @@
 nettruyengo.com##div.container > .mrb5.mrt5.text-center
 nettruyengo.com##.scroll-up.scroll-to-fixed-fixed.chapter-nav
 
+congnghe.tuoitre.vn##div.ArfWrapper
 lightnovelpub.com##.show.sidebar-wrapper
 ||theundergroundclub.net/wp-content/uploads/2021/11/*.gif$image
 www.timki.vn##.adsJH09
