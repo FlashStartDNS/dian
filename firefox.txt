@@ -5,6 +5,7 @@ nettruyengo.com##.scroll-up.scroll-to-fixed-fixed.chapter-nav
 
 thenextweb.com##.tnw-ad-wrapper
 thenextweb.com##.lg\:hidden.c-share
+forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
 congnghe.tuoitre.vn##div.ArfWrapper
 lightnovelpub.com##.show.sidebar-wrapper
 ||theundergroundclub.net/wp-content/uploads/2021/11/*.gif$image
