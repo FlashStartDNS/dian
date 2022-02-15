@@ -3,6 +3,8 @@
 nettruyengo.com##div.container > .mrb5.mrt5.text-center
 nettruyengo.com##.scroll-up.scroll-to-fixed-fixed.chapter-nav
 
+chromeunboxed.com##.code-block-8.code-block
+chromeunboxed.com##.crp_related_block.crp_related
 thenextweb.com##.tnw-ad-wrapper
 thenextweb.com##.lg\:hidden.c-share
 forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
