@@ -1,12 +1,24 @@
 ! Title: Firefox
+
+nettruyenmoi.com##.mrb5.text-center.container
+nettruyenmoi.com##div.container > .mrb5.mrt5.text-center
+nettruyenmoi.com##.scroll-up.scroll-to-fixed-fixed.chapter-nav
+||anhtoc.org/content/image.jpg?data=urI2Q9oFVEYKf8bTtNQgM/ZTDxHIYFJQt7iDcB09aa4GGYBeIa/iF8PY4bBisQ0/1RIH8JwJbArYPXSSe3U9jefljihD/jy2kgDyRdMMrZmYe2jNXMF93Dja/l2XDVf3s6tdXDodqB89I0Mv4im1Ag==$image
+
+reality-quest.online##.essb_links_list
+reality-quest.online##.kofi-button
+
+zingvntv.com###preload-zing
+||i.imgur.com/kam9kcB.gif$image
+
+mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
 ||vlognovel.com/storage/photos/61603cb0e0e8f85708010e39/PR%20Nh%C3%B3m,%20Page/2021-12-21_081051.jpg$image
-nettruyengo.com##div.container > .mrb5.mrt5.text-center
-nettruyengo.com##.scroll-up.scroll-to-fixed-fixed.chapter-nav
 chromeunboxed.com##.desktopHeaderBanner
 chromeunboxed.com##.code-block-8.code-block
 chromeunboxed.com##.crp_related_block.crp_related
 thenextweb.com##.tnw-ad-wrapper
 thenextweb.com##.lg\:hidden.c-share
+gocmod.com##.widget-content > .adsbygoogle
 forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
 congnghe.tuoitre.vn##div.ArfWrapper
 lightnovelpub.com##.show.sidebar-wrapper
