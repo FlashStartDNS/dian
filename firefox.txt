@@ -33,7 +33,6 @@ thienvadia.vip##.js-notices.notices--block.notices
 
 thegioididong.com##li:has-text(/(mắt kính|iQOO|Citizen|VinFast|bị đeo|laptop|Apple|AFF|Watch|BlueJi|trang sức|Đồng hồ|Mac|Huawei|Honor|Moto|ZTE|iPhone|iOS|PUBG)/i)
 facebook.com##[role="article"]>div:has-text(/(Indonesia|UEFA|Campuchia|AFF|tuyển Việt|Mac|Apple|Messi|bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
-m.facebook.com##article:has-text(/(Indonesia|UEFA|Campuchia|AFF|tuyển Việt|Mac|Apple|Messi|bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
 
 ! Mobile
 m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(League Cup|Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
