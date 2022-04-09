@@ -34,6 +34,7 @@ thienvadia.vip##.js-notices.notices--block.notices
 thegioididong.com##li:has-text(/(mắt kính|iQOO|Citizen|VinFast|bị đeo|laptop|Apple|AFF|Watch|BlueJi|trang sức|Đồng hồ|Mac|Huawei|Honor|Moto|ZTE|iPhone|iOS|PUBG)/i)
 facebook.com##[role="article"]>div:has-text(/(Indonesia|UEFA|Campuchia|AFF|tuyển Việt|Mac|Apple|Messi|bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
 
+youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
 ! Mobile
 m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(League Cup|Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 m.youtube.com##ytm-compact-video-renderer.item:has-text(/(League Cup|Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
@@ -55,8 +56,6 @@ androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
 happymoddownload.com##.ad-wap
 wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
 
-youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
-
 m.sexcotrang.net###juiky2021
 ||ww1.javbabe.net/x1x/*.html$subdocument
 
@@ -75,9 +74,6 @@ bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
 
 sayhentai.tv##.ads_popup
-||sayhentai.net/storage/images/banner/vn999.gif$image
-||sayhentai.net/uploads/000.jpg$image
-||sayhentai.net/app/manga/uploads/credit.jpg$image
 ! m.LxHentai.com
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 ||www3.cbox.ws/box/$subdocument
