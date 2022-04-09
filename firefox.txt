@@ -74,6 +74,7 @@ sextop18.com###preload
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
 
+sayhentai.tv##.ads_popup
 ||sayhentai.net/storage/images/banner/vn999.gif$image
 ||sayhentai.net/uploads/000.jpg$image
 ||sayhentai.net/app/manga/uploads/credit.jpg$image
