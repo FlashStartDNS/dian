@@ -31,6 +31,7 @@ thienvadia.vip##.js-notices.notices--block.notices
 ! khophim18.net
 ||static.rapphimhd.com/images/22-01-03/320x50.gif$image
 
+fptshop.com.vn##div.item-ver.news-hor__item:has-text(/(Apple|iPhone|iOS|Mac)/i)
 thegioididong.com##li:has-text(/(mắt kính|iQOO|Citizen|VinFast|bị đeo|laptop|Apple|AFF|Watch|BlueJi|trang sức|Đồng hồ|Mac|Huawei|Honor|Moto|ZTE|iPhone|iOS|PUBG)/i)
 facebook.com##[role="article"]>div:has-text(/(Indonesia|UEFA|Campuchia|AFF|tuyển Việt|Mac|Apple|Messi|bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
 
@@ -38,18 +39,12 @@ youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size
 ! Mobile
 m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(League Cup|Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 m.youtube.com##ytm-compact-video-renderer.item:has-text(/(League Cup|Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
-! Destop
-www.youtube.com##[page-subtype="subscriptions"] ytd-item-section-renderer.ytd-section-list-renderer.style-scope:has-text(/(League Cup|Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
-www.youtube.com##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:has-text(/(League Cup|Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 
 reddit.com##.XPromoPopup
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 reddit.com##.XPromoInFeed
 amp.reddit.com##.AppSelectorModal__body
 amp.reddit.com##.upsell_banner
-
-fptshop.com.vn##div.item-ver.news-hor__item:has-text(/(Apple|iPhone|iOS|Mac)/i)
-thegioididong.com##.latest
 
 congan.com.vn##.adMobileHeader
 androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
@@ -64,7 +59,7 @@ vuighe.net##.banner-masthead
 vuianime.net##body > div:nth-of-type(5)
 vuianime.net###main-content > div:nth-of-type(3)
 ||phimtop.net/iframe/mobi_top.html$subdocument
-phimtop.net,vuianime.net,sayhentai.net,saytruyen.net##center
+phimtop.net,vuianime.net,saytruyen.net##center
 phimtop.net##.sticky_bottom
 phimtop.net###player_message
 ||i.imgur.com^*.gif$domain=phimtop.net|sextop18.com
@@ -74,6 +69,7 @@ bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
 
 sayhentai.tv##.ads_popup
+||cdn.sayhentai.tv/truyen/911/1/44.jpg$image
 ! m.LxHentai.com
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 ||www3.cbox.ws/box/$subdocument
