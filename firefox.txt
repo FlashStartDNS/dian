@@ -37,8 +37,8 @@ facebook.com##[role="article"]>div:has-text(/(Indonesia|UEFA|Campuchia|AFF|tuy�
 
 youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
 ! Mobile
-m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(League Cup|Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
-m.youtube.com##ytm-compact-video-renderer.item:has-text(/(League Cup|Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Ukraine|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(League Cup|Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
+m.youtube.com##ytm-compact-video-renderer.item:has-text(/(League Cup|Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 
 reddit.com##.XPromoPopup
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
