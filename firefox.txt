@@ -12,7 +12,6 @@ zingvntv.com###preload-zing
 ||i.imgur.com/kam9kcB.gif$image
 
 mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
-||vlognovel.com/storage/photos/61603cb0e0e8f85708010e39/PR%20Nh%C3%B3m,%20Page/2021-12-21_081051.jpg$image
 chromeunboxed.com##.desktopHeaderBanner
 chromeunboxed.com##.code-block-8.code-block
 chromeunboxed.com##.crp_related_block.crp_related
@@ -75,8 +74,10 @@ sayhentai.tv##.ads_popup
 ||www3.cbox.ws/box/$subdocument
 m.lxhentai.com##.alert-warning.alert
 
-vlogtruyen.net##.mobile-catfish, .relate-manga.box-dinh-ky
+vlogtruyen.net##.mobile-catfish
+vlogtruyen.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
 ||cdn.vlogtruyen.net/cdn/chapter/2021/11/05/0567224862_Output3_015.jpg$image
+||vlognovel.com/storage/photos/61603cb0e0e8f85708010e39/PR%20Nh%C3%B3m,%20Page/2021-12-21_081051.jpg$image
 
 truyenqqtop.com##.mobile-banner, .catfish-bottom-mobile
 truyenqqtop.com##div[id^="image_popup_"]
