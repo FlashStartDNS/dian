@@ -1,4 +1,5 @@
 ! Title: Firefox
+lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 
 nettruyenmoi.com##.mrb5.text-center.container
 nettruyenmoi.com##div.container > .mrb5.mrt5.text-center
@@ -12,6 +13,7 @@ zingvntv.com###preload-zing
 ||i.imgur.com/kam9kcB.gif$image
 
 mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
+chromestory.com##.widget-area.custom-widget
 chromeunboxed.com##.desktopHeaderBanner
 chromeunboxed.com##.code-block-8.code-block
 chromeunboxed.com##.crp_related_block.crp_related
@@ -26,6 +28,7 @@ www.timki.vn##.adsJH09
 ! didongviet.vn
 ||page.widget.zalo.me/$subdocument
 
+xvideos98.xxx##.xads
 thienvadia.vip##.js-notices.notices--block.notices
 ! khophim18.net
 ||static.rapphimhd.com/images/22-01-03/320x50.gif$image
@@ -67,6 +70,8 @@ sextop18.com###preload
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
 
+||hentaivnvip.com/wp-content/uploads/2021/07/banner-five88.gif$image
+hentaivn.moe##.qx_135
 sayhentai.tv##.ads_popup
 ||cdn.sayhentai.tv/truyen/911/1/44.jpg$image
 ! m.LxHentai.com
@@ -86,8 +91,7 @@ truyenqqtop.com##div[id^="image_popup_"]
 vi.xiaomitoday.it##.__lxG__size_fixed.__lxG__loading_block
 getdroidtips.com##.ai-viewport-4.ai-viewport-3.code-block
 manga-raw.club##.adsbox
-mangaonlineteam.com##.wp-manga.c-top-sec
-chromestory.com##.widget-area.custom-widget
+
 ||linksvip.net/images/momo.png$image
 voca.vn##.center-content
 dafulbrightteachers.org###ads_1234
