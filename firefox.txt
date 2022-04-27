@@ -1,4 +1,5 @@
 ! Title: Firefox
+m.genk.vn##.fb_share.fl
 lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 
 nettruyenmoi.com##.mrb5.text-center.container
