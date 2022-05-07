@@ -5,6 +5,7 @@ vietnamnet.vn###Mobile_AdsArticleBodyInArticle
 m.genk.vn##.fb_share.fl
 lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 
+||st.nettruyenco.com/data/sites/1/banner/$image
 nettruyenmoi.com##.mrb5.text-center.container
 nettruyenmoi.com##div.container > .mrb5.mrt5.text-center
 nettruyenmoi.com##.scroll-up.scroll-to-fixed-fixed.chapter-nav
