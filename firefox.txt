@@ -1,4 +1,7 @@
 ! Title: Firefox
+vietnamnet.vn###vmcad_inview_container
+vietnamnet.vn###Mobile_AdsArticleBodyInArticle
+
 m.genk.vn##.fb_share.fl
 lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 
