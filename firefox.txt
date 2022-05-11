@@ -6,9 +6,6 @@ m.genk.vn##.fb_share.fl
 lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 
 ||st.nettruyenco.com/data/sites/1/banner/$image
-nettruyenmoi.com##.mrb5.text-center.container
-nettruyenmoi.com##div.container > .mrb5.mrt5.text-center
-nettruyenmoi.com##.scroll-up.scroll-to-fixed-fixed.chapter-nav
 ||anhtoc.org/content/image.jpg?data=urI2Q9oFVEYKf8bTtNQgM/ZTDxHIYFJQt7iDcB09aa4GGYBeIa/iF8PY4bBisQ0/1RIH8JwJbArYPXSSe3U9jefljihD/jy2kgDyRdMMrZmYe2jNXMF93Dja/l2XDVf3s6tdXDodqB89I0Mv4im1Ag==$image
 
 reality-quest.online##.essb_links_list
@@ -77,8 +74,8 @@ motchill.net##.container > .film-note
 
 ||hentaivnvip.com/wp-content/uploads/2021/07/banner-five88.gif$image
 hentaivn.moe##.qx_135
-sayhentai.tv##.ads_popup
-||cdn.sayhentai.tv/truyen/911/1/44.jpg$image
+sayhentai.vip##.ads_popup
+||sayhentai.vip/storage/images/banner/*.gif$image
 ! m.LxHentai.com
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 ||www3.cbox.ws/box/$subdocument
