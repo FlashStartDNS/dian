@@ -26,7 +26,7 @@ chromeunboxed.com##.code-block-8.code-block
 chromeunboxed.com##.crp_related_block.crp_related
 thenextweb.com##.tnw-ad-wrapper
 thenextweb.com##.lg\:hidden.c-share
-gocmod.com##.widget-content > .adsbygoogle
+gocmod.com##.adsbygoogle
 forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
 congnghe.tuoitre.vn##div.ArfWrapper
 lightnovelpub.com##.show.sidebar-wrapper
