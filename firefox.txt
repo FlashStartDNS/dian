@@ -1,6 +1,7 @@
 ! Title: Firefox
 ! Homepage: https://raw.githubusercontent.com/DiAnTTA/dian/main/firefox.txt
 !
+phunutoday.vn##.checknotclass_mb
 tuoi69zz.com##body > .float-ckgiua
 ||tuoi69zz.com/wp-content/uploads/2022/0*/320x100-*.gif$image
 ||tuoi69zz.com/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
@@ -34,17 +35,12 @@ congnghe.tuoitre.vn##div.ArfWrapper
 lightnovelpub.com##.show.sidebar-wrapper
 ||theundergroundclub.net/wp-content/uploads/2021/11/*.gif$image
 www.timki.vn##.adsJH09
-! didongviet.vn
-||page.widget.zalo.me/$subdocument
+||page.widget.zalo.me/$subdocument,domain=didongviet.vn
 
-xvideos98.xxx##.xads
+||qph.fs.quoracdn.net/main-qimg-*$image,domain=xvideos98.xxx
 thienvadia.vip##.js-notices.notices--block.notices
 ! khophim18.net
 ||static.rapphimhd.com/images/22-01-03/320x50.gif$image
-
-fptshop.com.vn##div.item-ver.news-hor__item:has-text(/(Apple|iPhone|iOS|Mac)/i)
-thegioididong.com##li:has-text(/(mắt kính|iQOO|Citizen|VinFast|bị đeo|laptop|Apple|AFF|Watch|BlueJi|trang sức|Đồng hồ|Mac|Huawei|Honor|Moto|ZTE|iPhone|iOS|PUBG)/i)
-facebook.com##[role="article"]>div:has-text(/(Indonesia|UEFA|Campuchia|AFF|tuyển Việt|Mac|Apple|Messi|bong da|MALAYSIA|Malaysia|ĐÀ LẠT|HẢI PHÒNG|GÒ VẤP|MIỀN TRUNG|MIỀN BẮC|HUẾ|BÀ RỊA)|NAM ĐỊNH/)
 
 youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
 ! Mobile
