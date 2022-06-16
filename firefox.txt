@@ -82,7 +82,7 @@ sayhentai.vip##.ads_popup
 ||sayhentai.vip/storage/images/banner/*.gif$image
 ! m.LxHentai.com
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
-||www3.cbox.ws/box/$subdocument
+||www3.cbox.ws/box/$subdocument,domain=lxhentai.con
 m.lxhentai.com##.alert-warning.alert
 
 vlogtruyen.net##.relate-manga.box-dinh-ky
