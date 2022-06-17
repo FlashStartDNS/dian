@@ -13,7 +13,7 @@ vietnamnet.vn###Mobile_AdsArticleBodyInArticle
 m.genk.vn##.fb_share.fl
 lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 
-www.nettruyenco.com##.facebook-like
+nettruyenco.com##.facebook-like
 ||st.nettruyenco.com/data/sites/1/banner/$image
 ||anhtoc.org/content/image.jpg?data=urI2Q9oFVEYKf8bTtNQgM/ZTDxHIYFJQt7iDcB09aa4GGYBeIa/iF8PY4bBisQ0/1RIH8JwJbArYPXSSe3U9jefljihD/jy2kgDyRdMMrZmYe2jNXMF93Dja/l2XDVf3s6tdXDodqB89I0Mv4im1Ag==$image
 
@@ -21,7 +21,6 @@ reality-quest.online##.essb_links_list
 reality-quest.online##.kofi-button
 
 zingvntv.com###preload-zing
-||i.imgur.com/kam9kcB.gif$image
 
 mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
 chromestory.com##.widget-area.custom-widget
@@ -35,7 +34,7 @@ forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
 congnghe.tuoitre.vn##div.ArfWrapper
 lightnovelpub.com##.show.sidebar-wrapper
 ||theundergroundclub.net/wp-content/uploads/2021/11/*.gif$image
-www.timki.vn##.adsJH09
+timki.vn##.adsJH09
 ||page.widget.zalo.me/$subdocument,domain=didongviet.vn
 
 ||qph.fs.quoracdn.net/main-qimg-*$image,domain=xvideos98.xxx
@@ -70,7 +69,7 @@ vuianime.net###main-content > div:nth-of-type(3)
 phimtop.net,vuianime.net,saytruyen.net##center
 phimtop.net##.sticky_bottom
 phimtop.net###player_message
-||i.imgur.com^*.gif$domain=phimtop.net|sextop18.com
+||i.imgur.com^*.gif$domain=phimtop.net|sextop18.com|zingvntv.com 
 sextop18.com###preload
 
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
