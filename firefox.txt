@@ -21,7 +21,7 @@ reality-quest.online##.essb_links_list
 reality-quest.online##.kofi-button
 
 zingvntv.com###preload-zing
-
+regressorinstructionmanual.com##.code-block
 mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
 chromestory.com##.widget-area.custom-widget
 chromeunboxed.com##.desktopHeaderBanner
