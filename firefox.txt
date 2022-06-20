@@ -1,6 +1,10 @@
 ! Title: Firefox
 ! Homepage: https://raw.githubusercontent.com/DiAnTTA/dian/main/firefox.txt
 !
+gocmod.com##.adsbygoogle
+gocmod.com##.ya-share2_inited.ya-share2
+forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
+
 novelpub.com##.adsbox
 phunutoday.vn##.checknotclass_mb
 tuoi69zz.com##body > .float-ckgiua
@@ -30,8 +34,6 @@ chromeunboxed.com##.code-block-8.code-block
 chromeunboxed.com##.crp_related_block.crp_related
 thenextweb.com##.tnw-ad-wrapper
 thenextweb.com##.lg\:hidden.c-share
-gocmod.com##.adsbygoogle
-forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
 congnghe.tuoitre.vn##div.ArfWrapper
 lightnovelpub.com##.show.sidebar-wrapper
 ||theundergroundclub.net/wp-content/uploads/2021/11/*.gif$image
