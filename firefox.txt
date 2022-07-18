@@ -1,12 +1,14 @@
 ! Title: Firefox
 ! Homepage: https://raw.githubusercontent.com/DiAnTTA/dian/main/firefox.txt
 !
+@@||pagead2.googlesyndication.com$domain=gocmod.com
+gocmod.com##.ya-share2_inited.ya-share2
+forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
+
 hinative.com##.active.mod_banner_app_download_sticky_button
 hinative.com##.mod_ads_balloon.chat_content_wrapper
 topicanative.edu.vn##.sgpb-popup-dialog-main-div-wrapper
 topicanative.edu.vn##.sgpb-popup-overlay.sgpb-theme-1-overlay
-gocmod.com##.ya-share2_inited.ya-share2
-forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
 dantri.com.vn###tpmInpageContainer
 hvdic.thivien.net##.notification
 novelpub.com##.adsbox
