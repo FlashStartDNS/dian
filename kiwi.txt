@@ -1,5 +1,5 @@
-! Title: Firefox
-! Homepage: https://raw.githubusercontent.com/DiAnTTA/dian/main/firefox.txt
+! Title: Kiwi
+! Homepage: https://raw.githubusercontent.com/DiAnTTA/dian/main/kiwi.txt
 !
 apkmirror.com##.membership-text.advertisement-text
 apkmirror.com##.adslot.adsbygoogle
