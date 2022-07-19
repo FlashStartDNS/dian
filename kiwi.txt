@@ -2,7 +2,6 @@
 ! Homepage: https://raw.githubusercontent.com/DiAnTTA/dian/main/kiwi.txt
 !
 apkmirror.com##.membership-text.advertisement-text
-apkmirror.com##.adslot.adsbygoogle
 
 gocmod.com##.ya-share2_inited.ya-share2
 forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
