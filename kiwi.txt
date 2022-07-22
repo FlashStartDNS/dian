@@ -1,6 +1,7 @@
 ! Title: Kiwi
 ! Homepage: https://raw.githubusercontent.com/DiAnTTA/dian/main/kiwi.txt
 !
+glosbe.com##.border-gray-300.border.bg-gray-100.lg\:flex
 apkmirror.com##.membership-text.advertisement-text
 
 gocmod.com##.ya-share2_inited.ya-share2
