@@ -6,4 +6,4 @@ vlxx.sex##a[rel*="nofollow"]
 !
 m.genk.vn##.top-ads
 ||dk8809.com^
-vi.hinative.com##.mod_ad_container
+hinative.com##.mod_ad_container
