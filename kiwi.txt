@@ -26,8 +26,8 @@ vietnamnet.vn###Mobile_AdsArticleBodyInArticle
 m.genk.vn##.fb_share.fl
 lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 
-nettruyenco.com##.facebook-like
-||st.nettruyenco.com/data/sites/1/banner/$image
+nettruyenme.com##.facebook-like
+||st.nettruyenme.com/data/sites/1/banner/*$image
 ||anhtoc.org/content/image.jpg?data=urI2Q9oFVEYKf8bTtNQgM/ZTDxHIYFJQt7iDcB09aa4GGYBeIa/iF8PY4bBisQ0/1RIH8JwJbArYPXSSe3U9jefljihD/jy2kgDyRdMMrZmYe2jNXMF93Dja/l2XDVf3s6tdXDodqB89I0Mv4im1Ag==$image
 
 reality-quest.online##.essb_links_list
