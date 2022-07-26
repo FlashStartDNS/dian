@@ -119,6 +119,7 @@ hotcourses.vn###ckieOvrlayDiv
 c.mi.com##.cookie-setting-bottom-bar
 forum.vivaldi.net##div[widget-area="header"]
 vnexpress.net##.center.section
+m.baomoi.com###js-masthead
 m.baomoi.com##footer
 vlxx.sex##.fads, .fadsxxx, .banner-inflow.ff-banner
 anonyviet.com##.adsbygoogle
