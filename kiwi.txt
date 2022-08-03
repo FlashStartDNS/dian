@@ -1,6 +1,9 @@
 ! Title: Kiwi
 ! Homepage: https://raw.githubusercontent.com/DiAnTTA/dian/main/kiwi.txt
 !
+||qc-static.coccoc.com^
+||qc.coccoc.com^
+news.coccoc.com##._275a2205-ad
 apkmirror.com##.membership-text.advertisement-text
 
 gocmod.com##.ya-share2_inited.ya-share2
