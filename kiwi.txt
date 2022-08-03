@@ -51,6 +51,10 @@ timki.vn##.adsJH09
 thienvadia.vip##.js-notices.notices--block.notices
 ! khophim18.net
 ||static.rapphimhd.com/images/22-01-03/320x50.gif$image
+khophim1080.com###wap_bottombanner
+khophim1080.com###bn_top
+phim1080z.com##.news.bg-black
+||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
 
 youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
 ! Mobile
@@ -93,6 +97,7 @@ sayhentai.vip##.ads_popup
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 ||www3.cbox.ws/box/$subdocument,domain=lxhentai.con
 m.lxhentai.com##.alert-warning.alert
+||tructiepbongda365.com^
 
 vlogtruyen.net##.relate-manga.box-dinh-ky
 vlogtruyen.net##.mobile-catfish
@@ -124,8 +129,6 @@ m.baomoi.com##footer
 vlxx.sex##.fads, .fadsxxx, .banner-inflow.ff-banner
 anonyviet.com##.adsbygoogle
 luatvietnam.vn##.advHolder
-phim1080z.com##.news.bg-black
-||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
 techz.vn##.mt-4.d-flex.list-five-news
 dictionary.cambridge.org##.topslot-container.tz0
 24h.com.vn##.xocbg.atclRdSbIn, .event-box.xocbg.vidItm
