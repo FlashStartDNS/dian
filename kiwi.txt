@@ -50,7 +50,6 @@ lightnovelpub.com##.show.sidebar-wrapper
 timki.vn##.adsJH09
 ||page.widget.zalo.me/$subdocument,domain=didongviet.vn
 
-||qph.fs.quoracdn.net/main-qimg-*$image,domain=xvideos98.xxx
 thienvadia.vip##.js-notices.notices--block.notices
 ! khophim18.net
 ||static.rapphimhd.com/images/22-01-03/320x50.gif$image
@@ -111,7 +110,6 @@ vlogtruyen.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
 truyenqqtop.com##.mobile-banner, .catfish-bottom-mobile
 truyenqqtop.com##div[id^="image_popup_"]
 
-||media.viezone.vn/prod/2021/9/19/running_man_mobile_007048e98f.mp4$media
 vi.xiaomitoday.it##.__lxG__size_fixed.__lxG__loading_block
 getdroidtips.com##.ai-viewport-4.ai-viewport-3.code-block
 manga-raw.club##.adsbox
@@ -129,6 +127,8 @@ forum.vivaldi.net##div[widget-area="header"]
 vnexpress.net##.center.section
 m.baomoi.com###js-masthead
 m.baomoi.com##footer
+
+||qph.fs.quoracdn.net/main-qimg-*$image,domain=vlxx.sex|xvideos98.xxx
 vlxx.sex##.ads, .fads, .fadsxxx, .banner-inflow.ff-banner
 anonyviet.com##.adsbygoogle
 luatvietnam.vn##.advHolder
