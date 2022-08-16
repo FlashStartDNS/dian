@@ -19,6 +19,7 @@ hinative.com##.mod_ads_balloon.chat_content_wrapper
 topicanative.edu.vn##.sgpb-popup-dialog-main-div-wrapper
 topicanative.edu.vn##.sgpb-popup-overlay.sgpb-theme-1-overlay
 dantri.com.vn###tpmInpageContainer
+thethao247.vn##.explus_related_1404022217_left.explus_related_1404022217.expNoEdit
 hvdic.thivien.net##.notification
 novelpub.com##.adsbox
 phunutoday.vn##.checknotclass_mb
