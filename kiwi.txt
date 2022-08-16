@@ -129,7 +129,7 @@ forum.vivaldi.net##div[widget-area="header"]
 vnexpress.net##.center.section
 m.baomoi.com###js-masthead
 m.baomoi.com##footer
-vlxx.sex##.fads, .fadsxxx, .banner-inflow.ff-banner
+vlxx.sex##.ads, .fads, .fadsxxx, .banner-inflow.ff-banner
 anonyviet.com##.adsbygoogle
 luatvietnam.vn##.advHolder
 techz.vn##.mt-4.d-flex.list-five-news
