@@ -1,7 +1,6 @@
 ! Title: Kiwi
 ! Homepage: https://raw.githubusercontent.com/DiAnTTA/dian/main/kiwi.txt
 !
-
 ||qph.fs.quoracdn.net/main-qimg-*$image,domain=vlxx.sex|xvideos98.xxx
 vlxx.sex##.ads, .fads, .fadsxxx, .banner-inflow.ff-banner
 ||ci3.ggpht.com/g-uA7eYStgkDc65jL56GioBLDycAl0OlxWDDCU4WY6a5DfQADXjTqbt_4Zhf4gNF6IQozUOc4J0X8s3O7ZAv_NqfG9oZEx-Z-ZFX8lNTwttDAp4eXvZzp9zWeHF9sB3cgfJjVNMf$image
@@ -9,8 +8,8 @@ vlxx.sex##.ads, .fads, .fadsxxx, .banner-inflow.ff-banner
 ||qc-static.coccoc.com^
 ||qc.coccoc.com^
 news.coccoc.com##._275a2205-ad
-apkmirror.com##.membership-text.advertisement-text
 
+apkmirror.com##.membership-text.advertisement-text
 gocmod.com##.ya-share2_inited.ya-share2
 forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
 
@@ -42,7 +41,9 @@ reality-quest.online##.essb_links_list
 reality-quest.online##.kofi-button
 
 zingvntv.com###preload-zing
-regressorinstructionmanual.com##.code-block
+! https://questsupremacy.com/
+||ak.torioluor.com/afu.php
+questsupremacy.com,regressorinstructionmanual.com##.code-block
 mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
 chromestory.com##.widget-area.custom-widget
 chromeunboxed.com##.desktopHeaderBanner
