@@ -1,5 +1,5 @@
 ! Title: Kiwi
-! Homepage: https://raw.githubusercontent.com/DiAnTTA/dian/main/kiwi.txt
+! Homepage: https://github.com/DiAnTTA/dian/blob/main/kiwi.txt
 !
 
 ||qc-static.coccoc.com^
