@@ -1,7 +1,7 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/DiAnTTA/dian/blob/main/kiwi.txt
 !
-
+phuothanoi.com###popup_banner_beta
 ||qc-static.coccoc.com^
 ||qc.coccoc.com^
 news.coccoc.com##._275a2205-ad
