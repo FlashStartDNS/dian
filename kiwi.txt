@@ -39,6 +39,9 @@ lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 nettruyenme.com##.facebook-like
 ||st.nettruyenme.com/data/sites/1/banner/*$image
 ||anhtoc.org/content/image.jpg?data=urI2Q9oFVEYKf8bTtNQgM/ZTDxHIYFJQt7iDcB09aa4GGYBeIa/iF8PY4bBisQ0/1RIH8JwJbArYPXSSe3U9jefljihD/jy2kgDyRdMMrZmYe2jNXMF93Dja/l2XDVf3s6tdXDodqB89I0Mv4im1Ag==$image
+truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
+truyenqqpro.com##div[id^="image_popup_"]
+||truyenvua.xyz/qc-new/*$image
 
 reality-quest.online##.essb_links_list
 reality-quest.online##.kofi-button
@@ -112,9 +115,6 @@ vlogtruyen.net##.mobile-catfish
 vlogtruyen.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
 ||cdn.vlogtruyen.net/cdn/chapter/2021/11/05/0567224862_Output3_015.jpg$image
 ||vlognovel.com/storage/photos/61603cb0e0e8f85708010e39/PR%20Nh%C3%B3m,%20Page/2021-12-21_081051.jpg$image
-
-truyenqqtop.com##.mobile-banner, .catfish-bottom-mobile
-truyenqqtop.com##div[id^="image_popup_"]
 
 vi.xiaomitoday.it##.__lxG__size_fixed.__lxG__loading_block
 getdroidtips.com##.ai-viewport-4.ai-viewport-3.code-block
