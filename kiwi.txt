@@ -106,9 +106,9 @@ sayhentai.vip##.ads_popup
 ||sayhentai.vip/storage/images/banner/*.gif$image
 ! LxHentai.com !
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
-||ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js$script,domain=lxhentai.com
+||ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js$script,domain=lxhentai.com|lxhentai.org
 ||tructiepbongda365.com^
-lxhentai.com##.mt-4.glide
+lxhentai.com,lxhentai.org##.mt-4.glide
 
 vlogtruyen.net##.relate-manga.box-dinh-ky
 vlogtruyen.net##.mobile-catfish
