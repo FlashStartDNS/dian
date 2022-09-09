@@ -1,6 +1,7 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/DiAnTTA/dian/blob/main/kiwi.txt
 !
+tr-ex.me##.ads
 ||tratu.soha.vn/skins/monobook/bg-header-l.jpg$image
 phuothanoi.com###popup_banner_beta
 ||qc-static.coccoc.com^
@@ -112,6 +113,7 @@ sayhentai.vip##.ads_popup
 ||tructiepbongda365.com^
 lxhentai.com,lxhentai.org##.mt-4.glide
 
+vlogtruyen.net##.fancybox-skin
 vlogtruyen.net##.relate-manga.box-dinh-ky
 vlogtruyen.net##.mobile-catfish
 vlogtruyen.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
