@@ -35,7 +35,8 @@ phunutoday.vn##.checknotclass_mb
 vietnamnet.vn##.banner-top-mashead.vmcadszone
 vietnamnet.vn###vmcad_inview_container
 vietnamnet.vn###Mobile_AdsArticleBodyInArticle
-
+congnghe.tuoitre.vn##div.ArfWrapper
+tv.tuoitre.vn###iframe-jn1ipiie-kupj7pi3
 m.genk.vn##.fb_share.fl
 lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 
@@ -58,7 +59,6 @@ chromeunboxed.com##.code-block-8.code-block
 chromeunboxed.com##.crp_related_block.crp_related
 thenextweb.com##.tnw-ad-wrapper
 thenextweb.com##.lg\:hidden.c-share
-congnghe.tuoitre.vn##div.ArfWrapper
 lightnovelpub.com##.show.sidebar-wrapper
 ||theundergroundclub.net/wp-content/uploads/2021/11/*.gif$image
 timki.vn##.adsJH09
