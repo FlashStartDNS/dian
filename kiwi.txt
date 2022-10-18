@@ -159,6 +159,7 @@ animetvn.com##.shareUrl, .thongbao20
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
+www.publicagent.com###root > .jzQxQF.sc-yo7o1v-0 > div.hAewsL.sc-1fep8qc-0 > .dXXztf.sc-1deoyo3-0
 
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
