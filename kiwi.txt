@@ -108,7 +108,8 @@ hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
 sayhentai.vip##.ads_popup
 ||sayhentai.vip/storage/images/banner/*.gif$image
-! LxHentai.com !
+! LxHentai.com LxHentai.org
+||lxhentai.org/storage/images/banners/*.gif$image
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 ||ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js$script,domain=lxhentai.com|lxhentai.org
 ||tructiepbongda365.com^
