@@ -168,8 +168,7 @@ m.comic.naver.com##.v2.band_banner
 m.dkn.news,mb.dkn.tv###appbn
 m.tinhhoa.net,m.dkn.news##.fixed-vid.single-post-video
 
-||newtoki158.com/tokinbtoki/*.gif?_=*$image
-||newtoki157.com/tokinbtoki/*.gif?_=*$image
+/tokinbtoki/*.gif?_=*$image
 ||newtoki95.com/data/banner/
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! ReaperScans.com
