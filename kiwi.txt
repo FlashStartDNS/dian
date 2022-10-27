@@ -60,10 +60,11 @@ chromeunboxed.com##.crp_related_block.crp_related
 thenextweb.com##.tnw-ad-wrapper
 thenextweb.com##.lg\:hidden.c-share
 lightnovelpub.com##.show.sidebar-wrapper
-||theundergroundclub.net/wp-content/uploads/2021/11/*.gif$image
 timki.vn##.adsJH09
 ||page.widget.zalo.me/$subdocument,domain=didongviet.vn
 
+! 18+
+||theundergroundclub.net/wp-content/uploads/2021/11/*.gif$image
 thienvadia.vip##.js-notices.notices--block.notices
 ! khophim18.net
 ||static.rapphimhd.com/images/22-01-03/320x50.gif$image
