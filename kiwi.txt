@@ -13,7 +13,7 @@ news.coccoc.com##._275a2205-ad
 vlxx.tv##.ads, .fads, .fadsxxx, .banner-inflow.ff-banner
 ||ci3.ggpht.com/g-uA7eYStgkDc65jL56GioBLDycAl0OlxWDDCU4WY6a5DfQADXjTqbt_4Zhf4gNF6IQozUOc4J0X8s3O7ZAv_NqfG9oZEx-Z-ZFX8lNTwttDAp4eXvZzp9zWeHF9sB3cgfJjVNMf$image
 tuoi69.click##body > .float-ckgiua
-||tuoi69.click/wp-content/uploads/2022/10/320x100-*new.gif$image
+||tuoi69.click/wp-content/uploads/2022/*/320x100-*.gif$image
 ||tuoi69.click/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
 m.sexcotrang.net##.clipxx
 m.sexcotrang.net###juiky2021
