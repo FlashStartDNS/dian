@@ -107,8 +107,8 @@ motchill.net##.container > .film-note
 ||hentaivnvip.com/wp-content/uploads/2021/07/banner-five88.gif$image
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
-sayhentai.vip##.ads_popup
-||sayhentai.vip/storage/images/banner/*.gif$image
+sayhentai.us##.ads_popup
+/storage/images/banner/*.gif$image
 ! LxHentai.com LxHentai.org
 ||lxhentai.org/storage/images/banners/*.gif$image
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
