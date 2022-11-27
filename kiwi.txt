@@ -13,8 +13,8 @@ news.coccoc.com##._275a2205-ad
 vlxx.cc##.ads, .fads, .fadsxxx, .banner-inflow.ff-banner
 ||ci3.ggpht.com/g-uA7eYStgkDc65jL56GioBLDycAl0OlxWDDCU4WY6a5DfQADXjTqbt_4Zhf4gNF6IQozUOc4J0X8s3O7ZAv_NqfG9oZEx-Z-ZFX8lNTwttDAp4eXvZzp9zWeHF9sB3cgfJjVNMf$image
 tuoi69.click##body > .float-ckgiua
-||tuoi69.click/wp-content/uploads/2022/*/320x100-*.gif$image
-||tuoi69.click/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
+/wp-content/uploads/202*/*/*.gif$image,domain=tuoi69.today|theundergroundclub.net|hentaivnvip.net
+||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
 m.sexcotrang.net##.clipxx
 m.sexcotrang.net###juiky2021
 ||ww1.javbabe.net/x1x/*.html$subdocument
@@ -64,7 +64,6 @@ timki.vn##.adsJH09
 ||page.widget.zalo.me/$subdocument,domain=didongviet.vn
 
 ! 18+
-||theundergroundclub.net/wp-content/uploads/2021/11/*.gif$image
 thienvadia.vip##.js-notices.notices--block.notices
 ! khophim18.net
 ||static.rapphimhd.com/images/22-01-03/320x50.gif$image
@@ -104,7 +103,6 @@ sextop18.com###preload
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
 
-||hentaivnvip.com/wp-content/uploads/2021/07/banner-five88.gif$image
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
 sayhentai.us##.ads_popup
