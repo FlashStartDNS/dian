@@ -111,10 +111,10 @@ hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
 sayhentai.us##.ads_popup
 /storage/images/banner/*.gif$image
-! LxHentai.com LxHentai.org
+! LxHentai
 ||lxhentai.org/storage/images/banners/*.gif$image
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
-||ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js$script,domain=lxhentai.com|lxhentai.org
+||ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js$script,domain=lxhentai.com|lxhentai.org|lxmanga.com
 ||tructiepbongda365.com^
 lxhentai.com,lxhentai.org##.mt-4.glide
 
