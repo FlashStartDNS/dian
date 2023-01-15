@@ -5,6 +5,7 @@
 ||1stkissmanga.io/wp-content/themes/madara/images/bg-search.jpg$image
 ||tratu.soha.vn/skins/monobook/bg-header-l.jpg$image
 
+||tags.fly-ads.net/mtccv.js$script,domain=metruyencv.com
 goonlinetools.com##.py-1
 www-ghacks-net.translate.goog##div.box-banner
 tr-ex.me##.ads
@@ -114,7 +115,7 @@ sayhentai.us##.ads_popup
 ! LxHentai
 ||lxhentai.org/storage/images/banners/*.gif$image
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
-||ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js$script,domain=lxhentai.com|lxhentai.org|lxmanga.com|lxmanga.net
+||ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js$script,important,domain=lxhentai.com|lxhentai.org|lxmanga.com|lxmanga.net
 ||tructiepbongda365.com^
 lxhentai.com,lxhentai.org##.mt-4.glide
 
