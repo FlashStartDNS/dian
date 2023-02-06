@@ -110,7 +110,7 @@ motchill.net##.container > .film-note
 
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
-sayhentai.us##.ads_popup
+sayhentai.me##.aanetwork-flyicon-box
 /storage/images/banner/*.gif$image
 ! LxHentai
 ||lxhentai.org/storage/images/banners/*.gif$image
