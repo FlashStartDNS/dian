@@ -5,6 +5,7 @@
 ||1stkissmanga.io/wp-content/themes/madara/images/bg-search.jpg$image
 ||tratu.soha.vn/skins/monobook/bg-header-l.jpg$image
 
+doctruyenchufull.com##[src]
 ||tags.fly-ads.net/mtccv.js$script,domain=metruyencv.com
 goonlinetools.com##.py-1
 www-ghacks-net.translate.goog##div.box-banner
@@ -14,8 +15,7 @@ phuothanoi.com###popup_banner_beta
 ||qc.coccoc.com^
 news.coccoc.com##._275a2205-ad
 
-||qph.fs.quoracdn.net/main-qimg-*$image,domain=vlxx.info|xvideos98.xxx
-vlxx.info##.ads, .fads, .fadsxxx, .banner-inflow.ff-banner
+vlxx.day###adx
 ||ci3.ggpht.com/g-uA7eYStgkDc65jL56GioBLDycAl0OlxWDDCU4WY6a5DfQADXjTqbt_4Zhf4gNF6IQozUOc4J0X8s3O7ZAv_NqfG9oZEx-Z-ZFX8lNTwttDAp4eXvZzp9zWeHF9sB3cgfJjVNMf$image
 tuoi69.click##body > .float-ckgiua
 /wp-content/uploads/202*/*/*.gif$image,domain=tuoi69.today|theundergroundclub.net|hentaivnvip.net
@@ -117,7 +117,8 @@ sayhentai.us##.ads_popup
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 ||ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js$script,important,domain=lxhentai.com|lxhentai.org|lxmanga.com|lxmanga.net
 ||tructiepbongda365.com^
-lxhentai.com,lxhentai.org##.mt-4.glide
+lxmanga.net##.mt-4.glide
+lxmanga.net##.sticky-x-button
 
 vlogtruyen2.net##.fancybox-skin
 vlogtruyen2.net##.relate-manga.box-dinh-ky
