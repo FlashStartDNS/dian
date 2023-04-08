@@ -48,6 +48,7 @@ lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 
 nettruyenvi.com##.facebook-like
 /data/sites/1/banner/*$image
+||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
 ||tai.win79.me^
 ||anhtoc.org/content/image.jpg?data=urI2Q9oFVEYKf8bTtNQgM/ZTDxHIYFJQt7iDcB09aa4GGYBeIa/iF8PY4bBisQ0/1RIH8JwJbArYPXSSe3U9jefljihD/jy2kgDyRdMMrZmYe2jNXMF93Dja/l2XDVf3s6tdXDodqB89I0Mv4im1Ag==$image
 truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
