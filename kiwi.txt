@@ -46,8 +46,9 @@ tv.tuoitre.vn###iframe-jn1ipiie-kupj7pi3
 m.genk.vn##.fb_share.fl
 lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 
-nettruyenme.com##.facebook-like
+nettruyenvi.com##.facebook-like
 /data/sites/1/banner/*$image
+||tai.win79.me^
 ||anhtoc.org/content/image.jpg?data=urI2Q9oFVEYKf8bTtNQgM/ZTDxHIYFJQt7iDcB09aa4GGYBeIa/iF8PY4bBisQ0/1RIH8JwJbArYPXSSe3U9jefljihD/jy2kgDyRdMMrZmYe2jNXMF93Dja/l2XDVf3s6tdXDodqB89I0Mv4im1Ag==$image
 truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
 truyenqqpro.com##div[id^="image_popup_"]
