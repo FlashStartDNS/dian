@@ -118,6 +118,7 @@ sayhentai.me##.aanetwork-flyicon-box
 /storage/images/banner/*.gif$image
 /storage/images/banner/*.jpg
 ! LxHentai
+*##.ads-wrapper
 ||lxhentai.org/storage/images/banners/*.gif$image
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
 ||ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js$script,important,domain=lxhentai.com|lxhentai.org|lxmanga.com|lxmanga.net
