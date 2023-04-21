@@ -6,6 +6,7 @@
 ||tratu.soha.vn/skins/monobook/bg-header-l.jpg$image
 
 ||m.mayiwxw.com/1KHO3FxT/*$script
+||lua.ncyx.ltd/WH369.js$script
 doctruyenchufull.com##[src]
 ||tags.fly-ads.net/mtccv.js$script,domain=metruyencv.com
 goonlinetools.com##.py-1
