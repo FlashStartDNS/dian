@@ -48,10 +48,10 @@ tv.tuoitre.vn###iframe-jn1ipiie-kupj7pi3
 m.genk.vn##.fb_share.fl
 lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 
-nettruyenplus.com##.facebook-like
+nettruyenmax.com##.facebook-like
 /data/sites/1/banner/*$image
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
-www.nettruyenplus.com##.comment-list>div:has-text(/(𝚝.𝚖𝚎|𝐭.𝐦𝐞|𝐭.me|Link video|link avt|Clip|Video|ouo.io|web1s.info)/)
+nettruyenmax.com##.comment-list>div:has-text(/(𝚝.𝚖𝚎|𝐭.𝐦𝐞|𝐭.me|Link video|link avt|Clip|Video|ouo.io|web1s.info)/)
 ||tai.win79.me^
 ||anhtoc.org/content/image.jpg?data=urI2Q9oFVEYKf8bTtNQgM/ZTDxHIYFJQt7iDcB09aa4GGYBeIa/iF8PY4bBisQ0/1RIH8JwJbArYPXSSe3U9jefljihD/jy2kgDyRdMMrZmYe2jNXMF93Dja/l2XDVf3s6tdXDodqB89I0Mv4im1Ag==$image
 truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
@@ -120,11 +120,12 @@ sayhentai.me##.ads_popup
 sayhentai.me##.aanetwork-flyicon-box
 /storage/images/banner/*.gif$image
 /storage/images/banner/*.jpg
-! LxHentai
-*##.ads-wrapper
+! lxhentai
+||lxmanga.net/action/views$xhr,1p
+lxmanga.net##.ads-wrapper
+||lxmanga.net/storage/images/banners/*.jpg$image
 ||lxhentai.org/storage/images/banners/*.gif$image
 ||images2.imgbox.com/fd/3e/mLNbT6IN_o.gif$image
-||ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js$script,important,domain=lxhentai.com|lxhentai.org|lxmanga.com|lxmanga.net
 ||tructiepbongda365.com^
 lxmanga.net##.mt-4.glide
 lxmanga.net##.sticky-x-button
