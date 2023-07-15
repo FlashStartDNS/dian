@@ -84,9 +84,6 @@ phim1080z.com##.news.bg-black
 ||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
 
 youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
-! Mobile
-m.youtube.com##[tab-identifier="FEsubscriptions"] ytm-item-section-renderer:has-text(/(League Cup|Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
-m.youtube.com##ytm-compact-video-renderer.item:has-text(/(League Cup|Campuchia|Cây Táo Nở|Ngoại hạng|CÔNG CHIẾU|Indonesia|Man City|Champions|Malaysia|Bắc Bộ|tuyển Việt|ĐT Việt|Pvoil Cup|Hà Nội|Nguyễn Đức Chung|AFF Cup|Pele|Tottenham|Man Utd|SIÊU THỬ THÁCH)/)
 
 reddit.com##.XPromoPopup
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
@@ -121,7 +118,7 @@ sayhentai.me##.aanetwork-flyicon-box
 /storage/images/banner/*.gif$image
 /storage/images/banner/*.jpg
 ! lxhentai
-||lxmanga.net/action/views$xhr,1p
+||lxmanga.net/action/views$xhr
 lxmanga.net##.ads-wrapper
 ||lxmanga.net/storage/images/banners/*.jpg$image
 ||lxhentai.org/storage/images/banners/*.gif$image
