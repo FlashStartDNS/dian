@@ -5,6 +5,8 @@
 ||1stkissmanga.io/wp-content/themes/madara/images/bg-search.jpg$image
 ||tratu.soha.vn/skins/monobook/bg-header-l.jpg$image
 
+wallpapers.com###stickyunit
+vi.sawakinome.com###oa-360-1661537693081_jitaabgro
 ||m.mayiwxw.com/1KHO3FxT/*$script
 /WH369.js$script
 /LH370GE2.js$script
