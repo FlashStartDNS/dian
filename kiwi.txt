@@ -1,5 +1,5 @@
 ! Title: Kiwi
-! Homepage: https://github.com/DiAnTTA/dian/blob/main/kiwi.txt
+! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
 
 ! Novel
 ||m.mayiwxw.com/1KHO3FxT/*$script
