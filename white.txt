@@ -1,1 +1,7 @@
+translate.google.com
+# image Bing News
 img-s-msn-com.akamaized.net
+
+fast.com
+speedof.me
+speed.cloudflare.com
