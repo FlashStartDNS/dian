@@ -6,7 +6,6 @@
 /WH369.js$script
 /LH370GE2.js$script
 doctruyenchufull.com##[src]
-||tags.fly-ads.net/mtccv.js$script,domain=metruyencv.com
 lightnovelpub.com##.show.sidebar-wrapper
 novelpub.com##.adsbox
 
@@ -14,15 +13,15 @@ goonlinetools.com##.py-1
 www-ghacks-net.translate.goog##div.box-banner
 tr-ex.me##.ads
 phuothanoi.com###popup_banner_beta
-||qc-static.coccoc.com^
-||qc.coccoc.com^
 news.coccoc.com##._275a2205-ad
 
 vlxx.day###adx
 ||ci3.ggpht.com/g-uA7eYStgkDc65jL56GioBLDycAl0OlxWDDCU4WY6a5DfQADXjTqbt_4Zhf4gNF6IQozUOc4J0X8s3O7ZAv_NqfG9oZEx-Z-ZFX8lNTwttDAp4eXvZzp9zWeHF9sB3cgfJjVNMf$image
+
 tuoi69.click##body > .float-ckgiua
 /wp-content/uploads/202*/*/*.gif$image,domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
 ||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
+
 m.sexcotrang.net##.clipxx
 m.sexcotrang.net###juiky2021
 ||ww1.javbabe.net/x1x/*.html$subdocument
@@ -53,8 +52,7 @@ nettruyenmax.com##.facebook-like
 /data/sites/1/banner/*$image
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
 nettruyenmax.com##.comment-list>div:has-text(/(𝚝.𝚖𝚎|𝐭.𝐦𝐞|𝐭.me|Link video|link avt|Clip|Video|ouo.io|web1s.info)/)
-||tai.win79.me^
-||anhtoc.org/content/image.jpg?data=urI2Q9oFVEYKf8bTtNQgM/ZTDxHIYFJQt7iDcB09aa4GGYBeIa/iF8PY4bBisQ0/1RIH8JwJbArYPXSSe3U9jefljihD/jy2kgDyRdMMrZmYe2jNXMF93Dja/l2XDVf3s6tdXDodqB89I0Mv4im1Ag==$image
+
 truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
 truyenqqpro.com##div[id^="image_popup_"]
 ||truyenvua.xyz/qc-new/*$image
@@ -166,10 +164,10 @@ phim1080z.com##.news.bg-black
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 www.publicagent.com###root > .jzQxQF.sc-yo7o1v-0 > div.hAewsL.sc-1fep8qc-0 > .dXXztf.sc-1deoyo3-0
 
+! newtoki manhwa 
+/tokinbtoki/*.gif
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
-! Newtoki manhwa 
-/tokinbtoki/*.gif?_=*$image
 manga-raw.club##.adsbox
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! ReaperScans.com
