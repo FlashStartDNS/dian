@@ -15,17 +15,6 @@ tr-ex.me##.ads
 phuothanoi.com###popup_banner_beta
 news.coccoc.com##._275a2205-ad
 
-vlxx.day###adx
-||ci3.ggpht.com/g-uA7eYStgkDc65jL56GioBLDycAl0OlxWDDCU4WY6a5DfQADXjTqbt_4Zhf4gNF6IQozUOc4J0X8s3O7ZAv_NqfG9oZEx-Z-ZFX8lNTwttDAp4eXvZzp9zWeHF9sB3cgfJjVNMf$image
-
-tuoi69.click##body > .float-ckgiua
-/wp-content/uploads/202*/*/*.gif$image,domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
-||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
-
-m.sexcotrang.net##.clipxx
-m.sexcotrang.net###juiky2021
-||ww1.javbabe.net/x1x/*.html$subdocument
-
 apkmirror.com##.membership-text.advertisement-text
 gocmod.com##.ya-share2_inited.ya-share2
 forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
@@ -150,7 +139,18 @@ vuianime.net###main-content > div:nth-of-type(3)
 animetvn.com##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.com##.shareUrl, .thongbao20
 
-! 18+
+!!! 18+
+! https://xsub.cc
+||xsub.cc/js/xsub_pu.js$xhr,1p
+||ww1.javbabe.net/x1x/*.html$subdocument
+
+vlxx.day###adx
+||ci3.ggpht.com/g-uA7eYStgkDc65jL56GioBLDycAl0OlxWDDCU4WY6a5DfQADXjTqbt_4Zhf4gNF6IQozUOc4J0X8s3O7ZAv_NqfG9oZEx-Z-ZFX8lNTwttDAp4eXvZzp9zWeHF9sB3cgfJjVNMf$image
+
+tuoi69.click##body > .float-ckgiua
+/wp-content/uploads/202*/*/*.gif$image,domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
+||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
+
 thienvadia.vip##.js-notices.notices--block.notices
 ! khophim18.net
 ||static.rapphimhd.com/images/22-01-03/320x50.gif$image
@@ -163,6 +163,7 @@ phim1080z.com##.news.bg-black
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 www.publicagent.com###root > .jzQxQF.sc-yo7o1v-0 > div.hAewsL.sc-1fep8qc-0 > .dXXztf.sc-1deoyo3-0
+!!! 18+
 
 ! newtoki manhwa 
 /tokinbtoki/*.gif
@@ -172,6 +173,7 @@ manga-raw.club##.adsbox
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! ReaperScans.com
 ||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
+
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
 tinhte.vn##.top-creators, .hero-stream-carousel, .hot-community-mobile, .tinhte-facts-wrapper
 reddit.com##.TopNav__promoButton, ._2pUaFeMjwDAhdxtQUwSRcQ
