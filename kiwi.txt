@@ -139,8 +139,8 @@ vuianime.net###main-content > div:nth-of-type(3)
 animetvn.com##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.com##.shareUrl, .thongbao20
 
-!!! 18+
-! https://xsub.cc
+!!! xxx
+! 2023-10-30 https://xsub.cc
 ||xsub.cc/js/xsub_pu.js$xhr,1p
 ||ww1.javbabe.net/x1x/*.html$subdocument
 
@@ -163,7 +163,7 @@ phim1080z.com##.news.bg-black
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 www.publicagent.com###root > .jzQxQF.sc-yo7o1v-0 > div.hAewsL.sc-1fep8qc-0 > .dXXztf.sc-1deoyo3-0
-!!! 18+
+!!! xxx
 
 ! newtoki manhwa 
 /tokinbtoki/*.gif
