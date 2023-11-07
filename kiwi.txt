@@ -37,12 +37,15 @@ m.genk.vn##.fb_share.fl
 lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 congan.com.vn##.adMobileHeader
 
-! 2023-11-01 NetTruyen
+! 2023-11-01 nettruyen
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 nettruyenus.com##.fb-like
 /data/sites/1/banner/*$image
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
 nettruyenus.com##.comment-list>div:has-text(/(𝚝.𝚖𝚎|𝐭.𝐦𝐞|𝐭.me|Link video|link avt|Clip|Video|ouo.io|web1s.info)/)
+
+! 2023-11-07 https://tutientruyen.com
+tutientruyen.com###popup_banner_beta
 
 truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
 truyenqqpro.com##div[id^="image_popup_"]
