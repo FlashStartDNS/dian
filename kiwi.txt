@@ -43,8 +43,7 @@ nettruyenus.com##.fb-like
 /data/sites/1/banner/*$image
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
 nettruyenus.com##.comment-list>div:has-text(/(𝚝.𝚖𝚎|𝐭.𝐦𝐞|𝐭.me|Link video|link avt|Clip|Video|ouo.io|web1s.info)/)
-
-! 2023-11-07 https://tutientruyen.com
+! 2023-11-07
 tutientruyen.com###popup_banner_beta
 
 truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
@@ -83,6 +82,7 @@ reddit.com##body.scroll-disabled:style(overflow: visible!important; position: st
 reddit.com##.XPromoInFeed
 amp.reddit.com##.AppSelectorModal__body
 amp.reddit.com##.upsell_banner
+reddit.com##.TopNav__promoButton, ._2pUaFeMjwDAhdxtQUwSRcQ
 
 wallpapers.com###stickyunit
 wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
@@ -165,7 +165,7 @@ phim1080z.com##.news.bg-black
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 www.publicagent.com###root > .jzQxQF.sc-yo7o1v-0 > div.hAewsL.sc-1fep8qc-0 > .dXXztf.sc-1deoyo3-0
-!!! xxx
+!!!
 
 ! newtoki manhwa 
 /tokinbtoki/*.gif
@@ -178,8 +178,9 @@ manga-raw.club##.adsbox
 
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
 tinhte.vn##.top-creators, .hero-stream-carousel, .hot-community-mobile, .tinhte-facts-wrapper
-reddit.com##.TopNav__promoButton, ._2pUaFeMjwDAhdxtQUwSRcQ
 
 ! Chế độ tối:
 ||1stkissmanga.io/wp-content/themes/madara/images/bg-search.jpg$image
 ||tratu.soha.vn/skins/monobook/bg-header-l.jpg$image
+! 2023-11-11
+||sayhentai.fun/assets/css/images/bg-search.jpg$image
