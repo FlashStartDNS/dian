@@ -95,6 +95,12 @@ thenextweb.com##.lg\:hidden.c-share
 timki.vn##.adsJH09
 ||page.widget.zalo.me/$subdocument,domain=didongviet.vn
 
+! 2023-11-03 YouTube Mobile
+! nếu xoá "center.player-controls-middle-core-buttons" sẽ làm mất nút fullsreen trên Firefox
+m.youtube.com##.center.player-controls-middle-core-buttons > button.icon-button:nth-of-type(1)
+m.youtube.com##button.icon-button:nth-of-type(5)
+m.youtube.com##.ytm-autonav-toggle-button-container
+! YouTube Desktop
 youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
 
 reddit.com##.XPromoPopup
