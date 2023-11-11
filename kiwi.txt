@@ -9,6 +9,53 @@ doctruyenchufull.com##[src]
 lightnovelpub.com##.show.sidebar-wrapper
 novelpub.com##.adsbox
 
+! GROUP:TRUYEN
+! 2023-11-01 NetTruyen
+||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
+||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
+nettruyenus.com##.fb-like
+/data/sites/1/banner/*$image
+nettruyenus.com##.comment-list>div:has-text(/(𝚝.𝚖𝚎|𝐭.𝐦𝐞|𝐭.me|Link video|link avt|Clip|Video|ouo.io|web1s.info)/)
+! 2023-11-07 TuTienTruyen
+tutientruyen.com###popup_banner_beta
+
+truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
+truyenqqpro.com##div[id^="image_popup_"]
+||truyenvua.xyz/qc-new/*$image
+
+vlogtruyen2.net##.fancybox-skin
+vlogtruyen2.net##.relate-manga.box-dinh-ky
+vlogtruyen2.net##.mobile-catfish
+vlogtruyen2.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
+||cdn.vlogtruyen.net/cdn/chapter/2021/11/05/0567224862_Output3_015.jpg$image
+||vlognovel.com/storage/photos/61603cb0e0e8f85708010e39/PR%20Nh%C3%B3m,%20Page/2021-12-21_081051.jpg$image
+
+! newtoki manhwa
+/tokinbtoki/*.gif
+m.comic.naver.com###flex_ad_image
+m.comic.naver.com##.v2.band_banner
+manga-raw.club##.adsbox
+||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
+! ReaperScans.com
+||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
+
+reality-quest.online##.essb_links_list
+reality-quest.online##.kofi-button
+! https://questsupremacy.com/
+||ak.torioluor.com/afu.php
+questsupremacy.com,regressorinstructionmanual.com##.code-block
+mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
+
+hentaivn.la##.qx_135
+||static.htvncdn.net/icon/debut-light.png$image
+sayhentai.me##.ads_popup
+sayhentai.me##.aanetwork-flyicon-box
+/storage/images/banner/
+||360buyimg.com/jdsurvey/jfs/t1/*.gif$image
+||vipads.live^$subdocument,domain=sayhentai.me
+||vipads.cc^$domain=sayhentai.me
+! END-GROUP
+
 goonlinetools.com##.py-1
 www-ghacks-net.translate.goog##div.box-banner
 tr-ex.me##.ads
@@ -36,33 +83,6 @@ tv.tuoitre.vn###iframe-jn1ipiie-kupj7pi3
 m.genk.vn##.fb_share.fl
 lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 congan.com.vn##.adMobileHeader
-
-! 2023-11-01 nettruyen
-||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
-nettruyenus.com##.fb-like
-/data/sites/1/banner/*$image
-||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
-nettruyenus.com##.comment-list>div:has-text(/(𝚝.𝚖𝚎|𝐭.𝐦𝐞|𝐭.me|Link video|link avt|Clip|Video|ouo.io|web1s.info)/)
-! 2023-11-07
-tutientruyen.com###popup_banner_beta
-
-truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
-truyenqqpro.com##div[id^="image_popup_"]
-||truyenvua.xyz/qc-new/*$image
-
-vlogtruyen2.net##.fancybox-skin
-vlogtruyen2.net##.relate-manga.box-dinh-ky
-vlogtruyen2.net##.mobile-catfish
-vlogtruyen2.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
-||cdn.vlogtruyen.net/cdn/chapter/2021/11/05/0567224862_Output3_015.jpg$image
-||vlognovel.com/storage/photos/61603cb0e0e8f85708010e39/PR%20Nh%C3%B3m,%20Page/2021-12-21_081051.jpg$image
-
-reality-quest.online##.essb_links_list
-reality-quest.online##.kofi-button
-! https://questsupremacy.com/
-||ak.torioluor.com/afu.php
-questsupremacy.com,regressorinstructionmanual.com##.code-block
-mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
 
 androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
 chromestory.com##.widget-area.custom-widget
@@ -95,15 +115,6 @@ phimtop.net###player_message
 ||i.imgur.com^*.gif$domain=phimtop.net|zingvntv.com
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
-
-hentaivn.la##.qx_135
-||static.htvncdn.net/icon/debut-light.png$image
-sayhentai.me##.ads_popup
-sayhentai.me##.aanetwork-flyicon-box
-/storage/images/banner/
-||360buyimg.com/jdsurvey/jfs/t1/*.gif$image
-||vipads.live^$subdocument,domain=sayhentai.me
-||vipads.cc^$domain=sayhentai.me
 
 c.mi.com##.cookie-setting-bottom-bar
 vi.xiaomitoday.it##.__lxG__size_fixed.__lxG__loading_block
@@ -144,7 +155,7 @@ vuianime.net###main-content > div:nth-of-type(3)
 animetvn.com##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.com##.shareUrl, .thongbao20
 
-!!! xxx
+! GROUP:XXX
 ! 2023-10-30 https://xsub.cc
 ||xsub.cc/js/xsub_pu.js$xhr,1p
 ||ww1.javbabe.net/x1x/*.html$subdocument
@@ -159,22 +170,14 @@ thienvadia.vip##.js-notices.notices--block.notices
 khophim1080.com###wap_bottombanner
 khophim1080.com###bn_top
 phim1080z.com##.news.bg-black
-||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image 
+||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
+
 ! PublicAgent.com
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 www.publicagent.com###root > .jzQxQF.sc-yo7o1v-0 > div.hAewsL.sc-1fep8qc-0 > .dXXztf.sc-1deoyo3-0
-!!!
-
-! newtoki manhwa 
-/tokinbtoki/*.gif
-m.comic.naver.com###flex_ad_image
-m.comic.naver.com##.v2.band_banner
-manga-raw.club##.adsbox
-||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
-! ReaperScans.com
-||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
+! END
 
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
 tinhte.vn##.top-creators, .hero-stream-carousel, .hot-community-mobile, .tinhte-facts-wrapper
