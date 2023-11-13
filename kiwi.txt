@@ -162,6 +162,9 @@ animetvn.com##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.com##.shareUrl, .thongbao20
 
 ! GROUP:XXX
+! 2023-11-13 vlxx.cam - uBlock filters – Ads
+/aas/r45d/vki/*$script,redirect-rule=noop.js
+
 ! 2023-10-30 https://xsub.cc
 ||xsub.cc/js/xsub_pu.js$xhr,1p
 ||ww1.javbabe.net/x1x/*.html$subdocument
