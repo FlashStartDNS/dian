@@ -1,7 +1,5 @@
-translate.google.com
-# image Bing News
+#ZaloPay(2023-11-13)
+analytics.google.com
+www.googletagmanager.com
+#Bing-News_image
 img-s-msn-com.akamaized.net
-
-fast.com
-speedof.me
-speed.cloudflare.com
