@@ -8,6 +8,9 @@
 doctruyenchufull.com##[src]
 lightnovelpub.com##.show.sidebar-wrapper
 novelpub.com##.adsbox
+! 2023-02-20
+wap.ibiquge.la###strl
+||banyueya.top/bkk.html
 
 ! GROUP:TRUYEN
 ! 2023-11-01 NetTruyen
@@ -18,18 +21,21 @@ nettruyenus.com##.fb-like
 nettruyenus.com##.comment-list>div:has-text(/(𝚝.𝚖𝚎|𝐭.𝐦𝐞|𝐭.me|Link video|link avt|Clip|Video|ouo.io|web1s.info)/)
 ! 2023-11-07 TuTienTruyen
 tutientruyen.com###popup_banner_beta
-
+!
 truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
 truyenqqpro.com##div[id^="image_popup_"]
 ||truyenvua.xyz/qc-new/*$image
-
+!
 vlogtruyen2.net##.fancybox-skin
 vlogtruyen2.net##.relate-manga.box-dinh-ky
 vlogtruyen2.net##.mobile-catfish
 vlogtruyen2.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
 ||cdn.vlogtruyen.net/cdn/chapter/2021/11/05/0567224862_Output3_015.jpg$image
 ||vlognovel.com/storage/photos/61603cb0e0e8f85708010e39/PR%20Nh%C3%B3m,%20Page/2021-12-21_081051.jpg$image
-
+! 2023-08-19 Pops.vn
+||cdn.popsww.com/popsapp/static/pops-video-v1.mp4$media
+pops.vn##.wrapper-videojs_popsVideo__tuLfR.vjs-root-dom
+pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
 ! newtoki manhwa
 /tokinbtoki/*.gif
 m.comic.naver.com###flex_ad_image
@@ -38,24 +44,33 @@ manga-raw.club##.adsbox
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! ReaperScans.com
 ||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
-
+!
 reality-quest.online##.essb_links_list
 reality-quest.online##.kofi-button
-! https://questsupremacy.com/
+! questsupremacy.com
 ||ak.torioluor.com/afu.php
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
-
+!
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
+! Sayhentai
 sayhentai.me##.ads_popup
 sayhentai.me##.aanetwork-flyicon-box
 /storage/images/banner/
 ||360buyimg.com/jdsurvey/jfs/t1/*.gif$image
 ||vipads.live^$subdocument,domain=sayhentai.me
 ||vipads.cc^$domain=sayhentai.me
+||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
+||uk88.top^
+! 2023-07-27 Lxmanga.net
+||l.linklyhq.com/l/1oOoo
 ! END-GROUP
 
+! 2023-11-16 https://acb.com.vn
+acb.com.vn##div:nth-of-type(8)
+! 2023-08-31 https://dvn.com.vn
+dvn.com.vn##.iosAdsiosAds-layout
 goonlinetools.com##.py-1
 www-ghacks-net.translate.goog##div.box-banner
 tr-ex.me##.ads
@@ -113,6 +128,12 @@ reddit.com##.TopNav__promoButton, ._2pUaFeMjwDAhdxtQUwSRcQ
 wallpapers.com###stickyunit
 wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
 
+! GROUP:PHIM
+! 2023-05-03 PhimMoi
+phimmoiz1.net###popup-giua-man-hinh
+phimmoiz1.net##.container > .right-box
+phimmoiz1.net###catfish
+!
 zingvntv.com###preload-zing
 ||phimtop.net/iframe/mobi_top.html$subdocument
 phimtop.net,vuianime.net,saytruyen.net##center
@@ -121,6 +142,8 @@ phimtop.net###player_message
 ||i.imgur.com^*.gif$domain=phimtop.net|zingvntv.com
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
+! 2023-07-21 XemPhim8k.com
+||qph.cf2.quoracdn.net/main-qimg-*$image,domain=xemphim8k.com
 
 c.mi.com##.cookie-setting-bottom-bar
 vi.xiaomitoday.it##.__lxG__size_fixed.__lxG__loading_block
@@ -164,15 +187,14 @@ animetvn.com##.shareUrl, .thongbao20
 ! GROUP:XXX
 ! 2023-11-13 vlxx.cam - uBlock filters – Ads
 /aas/r45d/vki/*$script,redirect-rule=noop.js
-
 ! 2023-10-30 https://xsub.cc
 ||xsub.cc/js/xsub_pu.js$xhr,1p
 ||ww1.javbabe.net/x1x/*.html$subdocument
-
+!
 tuoi69.click##body > .float-ckgiua
 /wp-content/uploads/202*/*/*.gif$image,domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
 ||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
-
+!
 thienvadia.vip##.js-notices.notices--block.notices
 ! khophim18.net
 ||static.rapphimhd.com/images/22-01-03/320x50.gif$image
@@ -180,7 +202,6 @@ khophim1080.com###wap_bottombanner
 khophim1080.com###bn_top
 phim1080z.com##.news.bg-black
 ||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
-
 ! PublicAgent.com
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
