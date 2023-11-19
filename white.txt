@@ -1,3 +1,5 @@
+#Shopee(2023-11-19)
+log-collector.shopee.vn
 #ZaloPay(2023-11-13)
 analytics.google.com
 www.googletagmanager.com
