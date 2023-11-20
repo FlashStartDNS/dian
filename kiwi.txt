@@ -51,7 +51,7 @@ reality-quest.online##.kofi-button
 ||ak.torioluor.com/afu.php
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
-!
+! HENTAI
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
 ! Sayhentai
@@ -65,8 +65,6 @@ sayhentai.me##.aanetwork-flyicon-box
 ||uk88.top^
 ! 2023-07-27 Lxmanga.net
 ||l.linklyhq.com/l/1oOoo
-lxmanga.net#@#.preload-banner
-lxmanga.net#@#.preload-backdrop
 ! END-GROUP
 
 ! 2023-11-16 https://acb.com.vn
