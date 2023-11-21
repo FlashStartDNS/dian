@@ -1,7 +1,9 @@
-#Shopee(2023-11-19)
+# Shopee 2023-11-19
 log-collector.shopee.vn
-#ZaloPay(2023-11-13)
+
+# ZaloPay 2023-11-13
 analytics.google.com
 www.googletagmanager.com
-#Bing-News_image
+
+# Bing-News_image
 img-s-msn-com.akamaized.net
