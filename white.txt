@@ -1,3 +1,7 @@
+# Title: Bui-Lang's Allowlist
+# Description: The list contains incorrectly blocked domains that limit functionality
+# Homepage: https://github.com/bui-lang/dian/edit/main/white.txt
+
 # Shopee 2023-11-19
 log-collector.shopee.vn
 
