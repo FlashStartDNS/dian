@@ -2,8 +2,9 @@
 # Description: The list contains incorrectly blocked domains that limit functionality
 # Homepage: https://github.com/bui-lang/dian/edit/main/white.txt
 
-# 2023 Click Download LienQuan (https://app.appsflyer.com/com.garena.game.kgvn)
-app.appsflyer.com
+# 2023-11-24
+app.adjust.com # click download Edge browser Android
+app.appsflyer.com # click download LienQuan
 
 # Shopee 2023-11-19
 log-collector.shopee.vn
