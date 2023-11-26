@@ -1,17 +1,14 @@
 # Title: Bui-Lang's Allowlist
 # Description: The list contains incorrectly blocked domains that limit functionality
 # Homepage: https://github.com/bui-lang/dian/edit/main/white.txt
-
-# 2023-11-24
-app.adjust.com # click download Edge browser Android
-app.appsflyer.com # click download LienQuan
-
-# Shopee 2023-11-19
+// click download Edge Android (2023-11-24)
+app.adjust.com
+// click download LienQuan
+app.appsflyer.com
+// Shopee 2023-11-19
 log-collector.shopee.vn
-
-# ZaloPay 2023-11-13
+// ZaloPay 2023-11-13
 analytics.google.com
 www.googletagmanager.com
-
-# Bing-News_image
+// Bing-News_image
 img-s-msn-com.akamaized.net
