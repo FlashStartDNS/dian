@@ -2,7 +2,7 @@
 # Description: The list contains incorrectly blocked domains that limit functionality
 # Homepage: https://github.com/bui-lang/dian/edit/main/white.txt
 // click download Edge Android (2023-11-24)
-@@||app.adjust.com^|
+adjust.com
 // click download LienQuan
 app.appsflyer.com
 // Shopee 2023-11-19
