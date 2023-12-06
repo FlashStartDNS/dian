@@ -145,8 +145,6 @@ phimtop.net###player_message
 ||i.imgur.com^*.gif$domain=phimtop.net|zingvntv.com
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
-! 2023-07-21 XemPhim8k.com
-||qph.cf2.quoracdn.net/main-qimg-*$image,domain=xemphim8k.com
 
 c.mi.com##.cookie-setting-bottom-bar
 vi.xiaomitoday.it##.__lxG__size_fixed.__lxG__loading_block
@@ -188,6 +186,10 @@ animetvn.com##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.com##.shareUrl, .thongbao20
 
 ! GROUP:XXX
+! 2023-12-06 lonxxx.com
+||qph.cf2.quoracdn.net/main-qimg-*$image,domain=lonxxx.com
+lonxxx.com###popup
+!
 ! 2023-11-13 vlxx.cam - uBlock filters – Ads
 /aas/r45d/vki/*$script,redirect-rule=noop.js
 ! 2023-10-30 https://xsub.cc
