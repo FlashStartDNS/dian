@@ -1,9 +1,10 @@
-# Title: Bui-Lang's Allowlist
+# Title: bui-lang의 Allowlist
 # Description: The list contains incorrectly blocked domains that limit functionality
 # Homepage: https://github.com/bui-lang/dian/edit/main/white.txt
+nextdns.io
 // click download Edge Android (2023-11-24)
 adjust.com
-// click download LienQuan
+// click download LienQuan Mobile trên https://lienquan.garena.vn/
 app.appsflyer.com
 // Shopee 2023-11-19
 log-collector.shopee.vn
