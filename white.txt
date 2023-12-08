@@ -13,3 +13,4 @@ analytics.google.com
 www.googletagmanager.com
 // Bing-News_image
 img-s-msn-com.akamaized.net
+c.msn.com
