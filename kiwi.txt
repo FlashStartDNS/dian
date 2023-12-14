@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
 ! CHUNG
 /wp-content/uploads/202*/*/*.gif$image,domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
-||qph.cf2.quoracdn.net/main-qimg-*$image,domain=lonxxx.com|sayhentai.fun
+||qph.cf2.quoracdn.net/main-qimg-*$image,domain=lonxxx.com|pheclip.com|sayhentai.fun
 ! Novel
 ||m.mayiwxw.com/1KHO3FxT/*$script
 /WH369.js$script
@@ -148,6 +148,7 @@ phimtop.net###player_message
 ||i.imgur.com^*.gif$domain=phimtop.net|zingvntv.com
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
+! END GROUP
 
 c.mi.com##.cookie-setting-bottom-bar
 vi.xiaomitoday.it##.__lxG__size_fixed.__lxG__loading_block
@@ -189,10 +190,9 @@ animetvn.com##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.com##.shareUrl, .thongbao20
 
 ! GROUP:XXX
-! 2023-12-06 lonxxx.com
+! 2023-12-14
 lonxxx.com###popup
 pheclip.com###popup
-!
 ! vlxx.cam 2023-11-13 (uBlock filters – Ads)
 /aas/r45d/vki/*$script,redirect-rule=noop.js
 ! xsub.cc 2023-10-30
@@ -203,11 +203,9 @@ tuoi69.click##body > .float-ckgiua
 ||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
 !
 thienvadia.vip##.js-notices.notices--block.notices
-! khophim18.net
-||static.rapphimhd.com/images/22-01-03/320x50.gif$image
-khophim1080.com###wap_bottombanner
-khophim1080.com###bn_top
-phim1080z.com##.news.bg-black
+! MePhim18 2023-12-14
+mephim18.com###backgroundPopupp
+||media.discordapp.net/attachments/918179438494101527/11*.gif$image,domain=mephim18.com
 ||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
 ! PublicAgent.com
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
