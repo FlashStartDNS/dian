@@ -1,6 +1,8 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
-
+! CHUNG
+/wp-content/uploads/202*/*/*.gif$image,domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
+||qph.cf2.quoracdn.net/main-qimg-*$image,domain=lonxxx.com|sayhentai.fun
 ! Novel
 ||m.mayiwxw.com/1KHO3FxT/*$script
 /WH369.js$script
@@ -21,11 +23,11 @@ nettruyenus.com##.fb-like
 nettruyenus.com##.comment-list>div:has-text(/(𝚝.𝚖𝚎|𝐭.𝐦𝐞|𝐭.me|Link video|link avt|Clip|Video|ouo.io|web1s.info)/)
 ! 2023-11-07 TuTienTruyen
 tutientruyen.com###popup_banner_beta
-!
+! TruyenQQ
 truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
 truyenqqpro.com##div[id^="image_popup_"]
 ||truyenvua.xyz/qc-new/*$image
-!
+! VlogTruyen
 vlogtruyen2.net##.fancybox-skin
 vlogtruyen2.net##.relate-manga.box-dinh-ky
 vlogtruyen2.net##.mobile-catfish
@@ -57,13 +59,14 @@ mangabtt.com##div.reading-control
 ! HENTAI
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
-! Sayhentai
+! Sayhentai 2023-12-14
 sayhentai.me##.ads_popup
 sayhentai.me##.aanetwork-flyicon-box
 /storage/images/banner/
+||imgsrc.baidu.com/forum/pic/item/*.gif$image,domain=sayhentai.fun
 ||360buyimg.com/jdsurvey/jfs/t1/*.gif$image
-||vipads.live^$subdocument,domain=sayhentai.me
-||vipads.cc^$domain=sayhentai.me
+||vipads.live^$subdocument,domain=sayhentai.fun
+||vipads.cc^$domain=sayhentai.fun
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
 ||uk88.top^
 ! 2023-07-27 Lxmanga.net
@@ -187,17 +190,15 @@ animetvn.com##.shareUrl, .thongbao20
 
 ! GROUP:XXX
 ! 2023-12-06 lonxxx.com
-||qph.cf2.quoracdn.net/main-qimg-*$image,domain=lonxxx.com
 lonxxx.com###popup
 !
-! 2023-11-13 vlxx.cam - uBlock filters – Ads
+! 2023-11-13 vlxx.cam (uBlock filters – Ads)
 /aas/r45d/vki/*$script,redirect-rule=noop.js
 ! 2023-10-30 https://xsub.cc
 ||xsub.cc/js/xsub_pu.js$xhr,1p
 ||ww1.javbabe.net/x1x/*.html$subdocument
 !
 tuoi69.click##body > .float-ckgiua
-/wp-content/uploads/202*/*/*.gif$image,domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
 ||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
 !
 thienvadia.vip##.js-notices.notices--block.notices
