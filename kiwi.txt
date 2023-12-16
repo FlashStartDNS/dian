@@ -60,8 +60,8 @@ mangabtt.com##div.reading-control
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
 ! Sayhentai 2023-12-14
-sayhentai.me##.ads_popup
-sayhentai.me##.aanetwork-flyicon-box
+sayhentai.fun##.ads_popup
+sayhentai.fun##.aanetwork-flyicon-box
 /storage/images/banner/
 ||imgsrc.baidu.com/forum/pic/item/*.gif$image,domain=sayhentai.fun
 ||360buyimg.com/jdsurvey/jfs/t1/*.gif$image
