@@ -38,8 +38,9 @@ vlogtruyen2.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
 ||cdn.popsww.com/popsapp/static/pops-video-v1.mp4$media
 pops.vn##.wrapper-videojs_popsVideo__tuLfR.vjs-root-dom
 pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
-! newtoki manhwa
+! newtoki manhwa 2023-12-18
 /tokinbtoki/*.gif
+||newtoki.help/banner/*g$image
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
 manga-raw.club##.adsbox
