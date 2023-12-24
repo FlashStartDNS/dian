@@ -5,8 +5,8 @@
 /wp-content/uploads/202*/*/*.gif$image,domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=lonxxx.com|pheclip.com|sayhentai.fun
 ||static.xx.fbcdn.net^$domain=nettruyenus.com|sayhentai.fun
-||www.facebook.com^$domain=nettruyenus.com|sayhentai.fun
-||connect.facebook.net^$domain=nettruyenus.com
+||facebook.com^$domain=nettruyenus.com|sayhentai.fun
+||facebook.net^$domain=nettruyenus.com
 
 ! NOVEL
 ||m.mayiwxw.com/1KHO3FxT/*$script
