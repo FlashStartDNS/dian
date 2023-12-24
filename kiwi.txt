@@ -4,7 +4,11 @@
 ! CHUNG
 /wp-content/uploads/202*/*/*.gif$image,domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=lonxxx.com|pheclip.com|sayhentai.fun
-! Novel
+||static.xx.fbcdn.net^$domain=nettruyenus.com|sayhentai.fun
+||www.facebook.com^$domain=nettruyenus.com|sayhentai.fun
+||connect.facebook.net^$domain=nettruyenus.com
+
+! NOVEL
 ||m.mayiwxw.com/1KHO3FxT/*$script
 /WH369.js$script
 /LH370GE2.js$script
@@ -15,13 +19,14 @@ novelpub.com##.adsbox
 wap.ibiquge.la###strl
 ||banyueya.top/bkk.html
 
-! GROUP:TRUYEN
+! GROUP_TRUYEN
 ! 2023-11-01 NetTruyen
+/data/sites/1/banner/*$image
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
+! 2023-12-25 xoa-anh-gif
+||p.ntcdntempv26.com/content/image.jpg$image
 nettruyenus.com##.fb-like
-/data/sites/1/banner/*$image
-nettruyenus.com##.comment-list>div:has-text(/(𝚝.𝚖𝚎|𝐭.𝐦𝐞|𝐭.me|Link video|link avt|Clip|Video|ouo.io|web1s.info)/)
 ! 2023-11-07 TuTienTruyen
 tutientruyen.com###popup_banner_beta
 ! TruyenQQ
@@ -66,6 +71,8 @@ hentaivn.la##.qx_135
 ||039vip0.com^
 ||rw8899.com^
 ||uk88.top^
+! 2023-12-24 xoa-anh-gif
+||sayhentai.fun/img/$image
 sayhentai.fun##.ads_popup
 /storage/images/banner/
 ||imgsrc.baidu.com/forum/pic/item/*.gif$image,domain=sayhentai.fun
@@ -75,7 +82,7 @@ sayhentai.fun##.ads_popup
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
 ! 2023-07-27 Lxmanga.net
 ||l.linklyhq.com/l/1oOoo
-! END-GROUP
+! END_GROUP
 
 ! 2023-11-16 https://acb.com.vn
 acb.com.vn##div:nth-of-type(8)
