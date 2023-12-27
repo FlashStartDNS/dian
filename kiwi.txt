@@ -2,8 +2,8 @@
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
 
 ! CHUNG
-/wp-content/uploads/202*/*/*.gif$image,domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
-||qph.cf2.quoracdn.net/main-qimg-*$image,domain=lonxxx.com|pheclip.com|sayhentai.fun
+/wp-content/uploads/202*/*/*.gif$domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
+||qph.cf2.quoracdn.net/main-qimg-*$domain=lonxxx.com|pheclip.com|sayhentai.fun
 ||static.xx.fbcdn.net^$domain=nettruyenus.com|sayhentai.fun
 ||facebook.com^$domain=nettruyenus.com|sayhentai.fun
 ||facebook.net^$domain=nettruyenus.com
@@ -25,8 +25,7 @@ wap.ibiquge.la###strl
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
 ! 2023-12-25 xoa-anh-gif
-||p.ntcdntempv26.com/content/image.jpg$image
-nettruyenus.com##.fb-like
+||p.ntcdntempv26.com/content/image.jpg$domain=nettruyen.us
 ! 2023-11-07 TuTienTruyen
 tutientruyen.com###popup_banner_beta
 ! TruyenQQ
@@ -66,15 +65,14 @@ mangabtt.com##div.reading-control
 ! HENTAI
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
-! Sayhentai 2023-12-14
+! Sayhentai 2023-12-27
 ||039vnd.com^
 ||039vip0.com^
 ||rw8899.com^
 ||uk88.top^
-! 2023-12-24 xoa-anh-gif
-||sayhentai.fun/img/$image
+||sayhentai.fun/img/
+||ak-d.tripcdn.com/images/*.gif$domain=sayhentai.fun
 sayhentai.fun##.ads_popup.hidden-ads
-/storage/images/banner/
 ||imgsrc.baidu.com/forum/pic/item/*.gif$image,domain=sayhentai.fun
 ||360buyimg.com/jdsurvey/jfs/t1/*.gif$image
 ||vipads.live^$domain=sayhentai.fun
@@ -132,8 +130,6 @@ timki.vn##.adsJH09
 m.youtube.com##.center.player-controls-middle-core-buttons > button.icon-button:nth-of-type(1)
 m.youtube.com##button.icon-button:nth-of-type(5)
 m.youtube.com##.ytm-autonav-toggle-button-container
-! YouTube Desktop
-youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-640, .ytp-ce-element-show, .ytp-chrome-top, .branding-img-container
 
 reddit.com##.XPromoPopup
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
