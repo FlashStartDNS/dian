@@ -73,7 +73,7 @@ hentaivn.la##.qx_135
 ||uk88.top^
 ! 2023-12-24 xoa-anh-gif
 ||sayhentai.fun/img/$image
-sayhentai.fun##.ads_popup
+sayhentai.fun##.ads_popup.hidden-ads
 /storage/images/banner/
 ||imgsrc.baidu.com/forum/pic/item/*.gif$image,domain=sayhentai.fun
 ||360buyimg.com/jdsurvey/jfs/t1/*.gif$image
