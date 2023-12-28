@@ -4,9 +4,8 @@
 ! CHUNG
 /wp-content/uploads/202*/*/*.gif$domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
 ||qph.cf2.quoracdn.net/main-qimg-*$domain=lonxxx.com|pheclip.com|sayhentai.fun
-||static.xx.fbcdn.net^$domain=nettruyenus.com|sayhentai.fun
-||facebook.com^$domain=nettruyenus.com|sayhentai.fun
-||facebook.net^$domain=nettruyenus.com
+||static.xx.fbcdn.net^$domain=nettruyenbing.com|sayhentai.fun
+||facebook.com^$domain=nettruyenbing.com|sayhentai.fun
 
 ! NOVEL
 ||m.mayiwxw.com/1KHO3FxT/*$script
@@ -19,12 +18,14 @@ novelpub.com##.adsbox
 wap.ibiquge.la###strl
 ||banyueya.top/bkk.html
 
-! GROUP_TRUYEN
-! NetTruyen 27-12-2023
-/data/sites/1/banner/*$image
+! GROUP_Truyen
+! NetTruyen 28-12-2023
+||st.nettruyenbing.com/data/sites/1/banner/*$image
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
-||p.ntcdntempv26.com/content/image.jpg$domain=nettruyenus.com
+||p.ntcdntempv26.com/content/image.jpg$domain=nettruyenbing.com
+||facebook.net^$domain=nettruyenbing.com
+
 ! TuTienTruyen 07-11-2023
 tutientruyen.com###popup_banner_beta
 ! TruyenQQ
