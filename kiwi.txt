@@ -219,6 +219,8 @@ mephim18.com###backgroundPopupp
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 www.publicagent.com###root > .jzQxQF.sc-yo7o1v-0 > div.hAewsL.sc-1fep8qc-0 > .dXXztf.sc-1deoyo3-0
+! 2023-12-30 https://thefap.net
+thefap.net###popupContactU
 ! END
 
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
