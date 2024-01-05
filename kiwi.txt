@@ -50,7 +50,6 @@ pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
 manga-raw.club##.adsbox
-||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! 9. ReaperScans.com
 ||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
 ! 10.
@@ -59,7 +58,7 @@ reality-quest.online##.kofi-button
 ! 11. questsupremacy.com
 ||ak.torioluor.com/afu.php
 mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
-! 2023-11-22 mangabtt.com
+! 12. Mangabtt.com (2023-11-22)
 ||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
 mangabtt.com##div.reading-control
 ! HENTAI
@@ -80,6 +79,7 @@ sayhentai.fun##.ads_popup.hidden-ads
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
 ! 2023-07-27 Lxmanga.net
 ||l.linklyhq.com/l/1oOoo
+||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! END_GROUP
 
 ! 2023-11-16 https://acb.com.vn
