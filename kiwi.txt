@@ -61,10 +61,10 @@ mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
 ! 12. Mangabtt.com (2023-11-22)
 ||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
 mangabtt.com##div.reading-control
-! HENTAI
+! 13. HENTAI
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
-! Sayhentai 2023-12-27
+! 14. Sayhentai 2023-12-27
 ||039vnd.com^
 ||039vip0.com^
 ||rw8899.com^
@@ -77,12 +77,13 @@ sayhentai.fun##.ads_popup.hidden-ads
 ||vipads.live^$domain=sayhentai.fun
 ||vipads.cc^$domain=sayhentai.fun
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
-! 2023-07-27 Lxmanga.net
+! 15. Lxmanga.net (2023-07-27)
 ||l.linklyhq.com/l/1oOoo
+! 16.
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! END_GROUP
 
-! 2023-11-16 https://acb.com.vn
+! ACB - Á Châu Bank (2023-11-16)
 acb.com.vn##div:nth-of-type(8)
 ! 2023-08-31 https://dvn.com.vn
 dvn.com.vn##.iosAdsiosAds-layout
