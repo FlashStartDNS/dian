@@ -91,6 +91,7 @@ www-ghacks-net.translate.goog##div.box-banner
 tr-ex.me##.ads
 phuothanoi.com###popup_banner_beta
 news.coccoc.com##._275a2205-ad
+www.msn.com##.accent.article-cont-read-button-on-app
 
 apkmirror.com##.membership-text.advertisement-text
 gocmod.com##.ya-share2_inited.ya-share2
@@ -210,9 +211,9 @@ tuoi69.click##body > .float-ckgiua
 ||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
 !
 thienvadia.vip##.js-notices.notices--block.notices
-! MePhim18 2023-12-14
+! MePhim18 2023-01-05
 mephim18.com###backgroundPopupp
-||media.discordapp.net/attachments/918179438494101527/11*.gif$image,domain=mephim18.com
+||media.discordapp.net/attachments/918179438494101527/1*.gif$image,domain=mephim18.com
 ||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
 ! PublicAgent.com
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
