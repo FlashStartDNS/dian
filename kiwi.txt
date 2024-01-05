@@ -64,7 +64,7 @@ mangabtt.com##div.reading-control
 ! 13. HENTAI
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
-! 14. Sayhentai 2023-12-27
+! 14. Sayhentai (2023-12-27)
 ||039vnd.com^
 ||039vip0.com^
 ||rw8899.com^
@@ -83,17 +83,22 @@ sayhentai.fun##.ads_popup.hidden-ads
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! END_GROUP
 
-! ACB - Á Châu Bank (2023-11-16)
+! Á Châu Bank (2023-11-16)
 acb.com.vn##div:nth-of-type(8)
-! 2023-08-31 https://dvn.com.vn
+! DVN - trang điện máy (2023-08-31)
 dvn.com.vn##.iosAdsiosAds-layout
+
 goonlinetools.com##.py-1
 www-ghacks-net.translate.goog##div.box-banner
 tr-ex.me##.ads
+! Từ điển Hán Nôm
+hvdic.thivien.net##.notification
+
 phuothanoi.com###popup_banner_beta
 news.coccoc.com##._275a2205-ad
 www.msn.com##.accent.article-cont-read-button-on-app
 
+! APK
 apkmirror.com##.membership-text.advertisement-text
 gocmod.com##.ya-share2_inited.ya-share2
 forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
@@ -105,7 +110,7 @@ topicanative.edu.vn##.sgpb-popup-dialog-main-div-wrapper
 topicanative.edu.vn##.sgpb-popup-overlay.sgpb-theme-1-overlay
 dantri.com.vn###tpmInpageContainer
 thethao247.vn##.explus_related_1404022217_left.explus_related_1404022217.expNoEdit
-hvdic.thivien.net##.notification
+
 phunutoday.vn##.checknotclass_mb
 vietnamnet.vn##.banner-top-mashead.vmcadszone
 vietnamnet.vn###vmcad_inview_container
