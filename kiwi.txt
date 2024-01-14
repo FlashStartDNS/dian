@@ -4,8 +4,8 @@
 ! CHUNG
 /wp-content/uploads/202*/*/*.gif$domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
 ||qph.cf2.quoracdn.net/main-qimg-*$domain=lonxxx.com|pheclip.com|sayhentai.fun
-||static.xx.fbcdn.net^$domain=/^.*?nettruyen.*?$/|sayhentai.fun
-||facebook.com^$domain=/^.*?nettruyen.*?$/|sayhentai.fun
+||static.xx.fbcdn.net^$domain=nettruyenclub.com|sayhentai.fun
+||facebook.com^$domain=nettruyenclub.com|sayhentai.fun
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 
 ! NOVEL
@@ -24,9 +24,9 @@ wap.ibiquge.la###strl
 ||st.nettruyenbing.com/data/sites/1/banner/
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
-||p.ntcdntempv26.com/content/image.jpg$domain=/^.*?nettruyen.*?$/
-||bp.blogspot.com^$domain=/^.*?nettruyen.*?$/
-||facebook.net^$domain=/^.*?nettruyen.*?$/
+||p.ntcdntempv26.com/content/image.jpg$domain=nettruyenclub.com
+||bp.blogspot.com^$domain=nettruyenclub.com
+||facebook.net^$domain=nettruyenclub.com
 ! 2. TuTienTruyen 07-11-2023
 tutientruyen.com###popup_banner_beta
 ! 3. TruyenQQ
