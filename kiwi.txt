@@ -24,7 +24,7 @@ wap.ibiquge.la###strl
 ||st.nettruyenbing.com/data/sites/1/banner/
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
-||p.ntcdntempv26.com/content/image.jpg$domain=nettruyenclub.com
+||p.ntcdntempv26.com/content/image.jpg$domain=www.nettruyenclub.com
 ||bp.blogspot.com^$domain=www.nettruyenclub.com
 ||facebook.net^$domain=www.nettruyenclub.com
 nettruyenclub.com##[class^="mce-container mce-flow-layout-item mce-first mce-last mce-btn-group"]
@@ -85,6 +85,8 @@ sayhentai.fun##.ads_popup.hidden-ads
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! END_GROUP
 
+! TrueCaller (2024-01-21)
+www.truecaller.com##.left-0.top-0.z-1000.h-full.w-full.p-4.justify-center.items-center.flex.fixed.modal
 ! Á Châu Bank (2023-11-16)
 acb.com.vn##div:nth-of-type(8)
 ! DVN - trang điện máy (2023-08-31)
