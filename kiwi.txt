@@ -98,6 +98,7 @@ tr-ex.me##.ads
 ! Từ điển Hán Nôm
 hvdic.thivien.net##.notification
 
+! News
 phuothanoi.com###popup_banner_beta
 news.coccoc.com##._275a2205-ad
 www.msn.com##.accent.article-cont-read-button-on-app
@@ -124,6 +125,10 @@ tv.tuoitre.vn###iframe-jn1ipiie-kupj7pi3
 m.genk.vn##.fb_share.fl
 lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 congan.com.vn##.adMobileHeader
+
+! 2024-01-26 VuongGiaVinhDieu.com
+||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj*$image,domain=vuonggiavinhdieu.com
+www.vuonggiavinhdieu.com###overlay
 
 androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
 chromestory.com##.widget-area.custom-widget
