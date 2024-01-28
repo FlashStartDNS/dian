@@ -1245,7 +1245,7 @@ javtopxx.com##.cat-fish.a-play
 javtopxx.com##.overlay
 lxmanga.net##.ads-wrapper
 
-lxmanga.net##.preload-banner
+
 nhentaivn.com###popup_fi
 phevkl.co###mp-preload-popup-overlay
 phevkl.co##.separator
