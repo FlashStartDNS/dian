@@ -187,6 +187,8 @@ hotcourses.vn###ckieOvrlayDiv
 ||saigonvina.edu.vn/uploads/images/news/1620362810_newsng$image
 
 forum.vivaldi.net##div[widget-area="header"]
+! 2024-01-29 vnexpress.net
+vnexpress.net###BanCoTheQuanTam_PinTop_Search_Greater10Percent
 vnexpress.net##.center.section
 m.baomoi.com###js-masthead
 m.baomoi.com##footer
@@ -213,29 +215,30 @@ animetvn.com##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.com##.shareUrl, .thongbao20
 
 ! GROUP:XXX
-! 2023-12-14
-lonxxx.com###popup
-pheclip.com###popup
-! vlxx.cam 2023-11-13 (uBlock filters – Ads)
+! 1. khieudam.club 2024-01-28
+||xxxads.info^$image
+! 2. 2023-12-14
+lonxxx.com,pheclip.com###popup
+! 3. vlxx.cam 2023-11-13 (uBlock filters – Ads)
 /aas/r45d/vki/*$script,redirect-rule=noop.js
-! xsub.cc 2023-10-30
+! 4. xsub.cc 2023-10-30
 ||xsub.cc/js/xsub_pu.js$xhr,1p
 ||ww1.javbabe.net/x1x/*.html$subdocument
-!
+! 5.
 tuoi69.click##body > .float-ckgiua
 ||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
-!
+! 6.
 thienvadia.vip##.js-notices.notices--block.notices
-! MePhim18 2023-01-05
+! 7. MePhim18 2023-01-05
 mephim18.com###backgroundPopupp
 ||media.discordapp.net/attachments/918179438494101527/1*.gif$image,domain=mephim18.com
 ||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
-! PublicAgent.com
+! 8. PublicAgent.com
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 www.publicagent.com###root > .jzQxQF.sc-yo7o1v-0 > div.hAewsL.sc-1fep8qc-0 > .dXXztf.sc-1deoyo3-0
-! 2023-12-30 https://thefap.net
+! 9. thefap.net 2023-12-30
 thefap.net###popupContactU
 ! END
 
