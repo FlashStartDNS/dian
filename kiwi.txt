@@ -7,6 +7,8 @@
 ||static.xx.fbcdn.net^$domain=www.nettruyenclub.com|sayhentai.fun
 ||facebook.com^$domain=www.nettruyenclub.com|sayhentai.fun
 questsupremacy.com,regressorinstructionmanual.com##.code-block
+! 2024-02-01 popup đăng nhập google
+||accounts.google.com/gsi/iframe/select$subdocument,domain=wattpad.com|geeksforgeeks.org|vnexpress.net
 
 ! NOVEL
 ||m.mayiwxw.com/1KHO3FxT/*$script
