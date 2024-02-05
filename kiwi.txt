@@ -189,7 +189,10 @@ hotcourses.vn###ckieOvrlayDiv
 ||saigonvina.edu.vn/uploads/images/news/1620362810_newsng$image
 
 forum.vivaldi.net##div[widget-area="header"]
-! 2024-01-29 vnexpress.net
+! 2024-02-05 VnExpress.net
+vnexpress.net##.wrap-hd-adblock
+vnexpress.net##.button-adblock
+vnexpress.net##.box-taitro.box-category
 vnexpress.net###BanCoTheQuanTam_PinTop_Search_Greater10Percent
 vnexpress.net##.center.section
 m.baomoi.com###js-masthead
