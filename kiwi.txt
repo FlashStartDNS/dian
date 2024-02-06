@@ -226,8 +226,8 @@ animetvn.com##.shareUrl, .thongbao20
 lonxxx.com,pheclip.com###popup
 ! 3. vlxx.cam 2023-11-13 (uBlock filters – Ads)
 /aas/r45d/vki/*$script,redirect-rule=noop.js
-! 4. xsub.cc 2023-10-30
-||xsub.cc/js/xsub_pu.js$xhr,1p
+! 4. xsub.cc (2023-10-30) xsub.tv (2024-02-06)
+||xsub.tv/js/xsub_pu_25.js$xhr,1p
 ||ww1.javbabe.net/x1x/*.html$subdocument
 ! 5.
 tuoi69.click##body > .float-ckgiua
