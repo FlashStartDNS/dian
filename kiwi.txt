@@ -49,7 +49,9 @@ pops.vn##.wrapper-videojs_popsVideo__tuLfR.vjs-root-dom
 pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
 ! 7. Newtoki Manhwa (2023-12-18)
 /tokinbtoki/*.gif
-||newtoki.help/banner/*g$image
+||newtoki.help/banner/$image
+newtoki.help##.ba_test
+newtoki.help##.banner2
 ! 8. Naver Comic
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
