@@ -47,7 +47,7 @@ vlogtruyen2.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
 ||cdn.popsww.com/popsapp/static/pops-video-v1.mp4$media
 pops.vn##.wrapper-videojs_popsVideo__tuLfR.vjs-root-dom
 pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
-! 7. Newtoki webtoon (2023-12-18)
+! 7. Newtoki (2023-12-18)
 /tokinbtoki/*.gif
 ||newtoki.help/banner/$image
 newtoki.help##.ba_test
@@ -100,12 +100,26 @@ dvn.com.vn##.iosAdsiosAds-layout
 goonlinetools.com##.py-1
 www-ghacks-net.translate.goog##div.box-banner
 tr-ex.me##.ads
+dictionary.cambridge.org##.topslot-container.tz0
 ! DOL Dictionary (2024-02-06)
 tudien.dolenglish.vn##.modal-portal-full-screen.fjPCXk.ModalPortalFullScreen__Container-sc-8ytn78-0
 ! Từ điển Hán Nôm
 hvdic.thivien.net##.notification
 
 ! News
+! 1) VnExpress.net 2024-02-10
+! Nút tài khoản và nút thông báo ở góc trên bên phải
+||s1.vnecdn.net/myvne/j/v270/m_myvne_users_v3.js
+vnexpress.net##.wrap-hd-adblock
+vnexpress.net##.button-adblock
+vnexpress.net##.box-taitro.box-category
+vnexpress.net###BanCoTheQuanTam_PinTop_Search_Greater10Percent
+vnexpress.net##.center.section
+! 2) VietNamNet
+vietnamnet.vn##.banner-top-mashead.vmcadszone
+vietnamnet.vn###vmcad_inview_container
+vietnamnet.vn###Mobile_AdsArticleBodyInArticle
+!
 phuothanoi.com###popup_banner_beta
 news.coccoc.com##._275a2205-ad
 www.msn.com##.accent.article-cont-read-button-on-app
@@ -124,9 +138,6 @@ dantri.com.vn###tpmInpageContainer
 thethao247.vn##.explus_related_1404022217_left.explus_related_1404022217.expNoEdit
 
 phunutoday.vn##.checknotclass_mb
-vietnamnet.vn##.banner-top-mashead.vmcadszone
-vietnamnet.vn###vmcad_inview_container
-vietnamnet.vn###Mobile_AdsArticleBodyInArticle
 congnghe.tuoitre.vn##div.ArfWrapper
 tv.tuoitre.vn###iframe-jn1ipiie-kupj7pi3
 m.genk.vn##.fb_share.fl
@@ -137,6 +148,9 @@ congan.com.vn##.adMobileHeader
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj*$image,domain=vuonggiavinhdieu.com
 www.vuonggiavinhdieu.com###overlay
 
+c.mi.com##.cookie-setting-bottom-bar
+vi.xiaomitoday.it##.__lxG__size_fixed.__lxG__loading_block
+getdroidtips.com##.ai-viewport-4.ai-viewport-3.code-block
 androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
 chromestory.com##.widget-area.custom-widget
 chromeunboxed.com##.desktopHeaderBanner
@@ -180,10 +194,6 @@ bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
 ! END GROUP
 
-c.mi.com##.cookie-setting-bottom-bar
-vi.xiaomitoday.it##.__lxG__size_fixed.__lxG__loading_block
-getdroidtips.com##.ai-viewport-4.ai-viewport-3.code-block
-
 ||linksvip.net/images/momo.png$image
 voca.vn##.center-content
 dafulbrightteachers.org###ads_1234
@@ -194,18 +204,11 @@ hotcourses.vn###ckieOvrlayDiv
 ||saigonvina.edu.vn/uploads/images/news/1620362810_newsng$image
 
 forum.vivaldi.net##div[widget-area="header"]
-! 2024-02-05 VnExpress.net
-vnexpress.net##.wrap-hd-adblock
-vnexpress.net##.button-adblock
-vnexpress.net##.box-taitro.box-category
-vnexpress.net###BanCoTheQuanTam_PinTop_Search_Greater10Percent
-vnexpress.net##.center.section
 m.baomoi.com###js-masthead
 m.baomoi.com##footer
 anonyviet.com##.adsbygoogle
 luatvietnam.vn##.advHolder
 techz.vn##.mt-4.d-flex.list-five-news
-dictionary.cambridge.org##.topslot-container.tz0
 24h.com.vn##.xocbg.atclRdSbIn, .event-box.xocbg.vidItm
 m.dkn.news,mb.dkn.tv###appbn
 m.tinhhoa.net,m.dkn.news##.fixed-vid.single-post-video
