@@ -8,7 +8,7 @@
 ||facebook.com^$domain=www.nettruyenss.com|sayhentai.fun
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 ! 2024-02-01 popup đăng nhập google
-||accounts.google.com/gsi/iframe/select$subdocument,domain=wattpad.com|geeksforgeeks.org|vnexpress.net
+||accounts.google.com/gsi/iframe/select$subdocument
 
 ! NOVEL
 ||m.mayiwxw.com/1KHO3FxT/*$script
