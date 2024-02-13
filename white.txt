@@ -9,8 +9,8 @@ app.appsflyer.com
 // Shopee 2023-11-19
 log-collector.shopee.vn
 // ZaloPay 2023-11-13
-analytics.google.com
-www.googletagmanager.com
+//analytics.google.com
+//www.googletagmanager.com
 // Bing-News_image
-img-s-msn-com.akamaized.net
-c.msn.com
+//img-s-msn-com.akamaized.net
+//c.msn.com
