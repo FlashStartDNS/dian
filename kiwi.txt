@@ -26,9 +26,8 @@ wap.ibiquge.la###strl
 ||st.nettruyenbing.com/data/sites/1/banner/
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
-||p.ntcdntempv26.com/content/image.jpg$domain=www.nettruyenss.com
 ||bp.blogspot.com^$domain=www.nettruyenss.com
-||facebook.net^$domain=www.nettruyenss.com
+||facebook.net^$domain=nettruyenss.com
 nettruyenss.com##[class^="mce-container mce-flow-layout-item mce-first mce-last mce-btn-group"]
 ! 2. TuTienTruyen 07-11-2023
 tutientruyen.com###popup_banner_beta
