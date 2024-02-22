@@ -116,6 +116,7 @@ vnexpress.net##.wrap-hd-adblock
 vnexpress.net##.button-adblock
 vnexpress.net##.box-taitro.box-category
 vnexpress.net###BanCoTheQuanTam_PinTop_Search_Greater10Percent
+vnexpress.net###BanCoTheQuanTam_PinBottom_Search_Less10Percent
 vnexpress.net##.center.section
 ! 2) VietNamNet
 vietnamnet.vn##.banner-top-mashead.vmcadszone
