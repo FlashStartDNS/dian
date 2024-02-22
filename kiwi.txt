@@ -4,8 +4,8 @@
 ! CHUNG
 /wp-content/uploads/202*/*/*.gif$domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=chichnhau.me|lonxxx.com|pheclip.net|sayhentai.fun
-||static.xx.fbcdn.net^$domain=nettruyenss.com|nettruyenclub.com|sayhentai.fun
-||facebook.com^$domain=www.nettruyenss.com|sayhentai.fun
+||static.xx.fbcdn.net^$domain=nettruyenbb.com|nettruyenss.com|nettruyenclub.com|sayhentai.fun
+||facebook.com^$domain=nettruyenbb.com|nettruyenss.com|sayhentai.fun
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 ! 2024-02-01 popup đăng nhập google
 ||accounts.google.com/gsi/iframe/select$subdocument
@@ -96,6 +96,8 @@ www.truecaller.com##.left-0.top-0.z-1000.h-full.w-full.p-4.justify-center.items-
 acb.com.vn##div:nth-of-type(8)
 ! DVN - trang điện máy (2023-08-31)
 dvn.com.vn##.iosAdsiosAds-layout
+! 22-2-2024
+xosodaiphat.com##.banner-600.qc-sticky
 
 goonlinetools.com##.py-1
 www-ghacks-net.translate.goog##div.box-banner
@@ -151,7 +153,9 @@ www.vuonggiavinhdieu.com###overlay
 c.mi.com##.cookie-setting-bottom-bar
 vi.xiaomitoday.it##.__lxG__size_fixed.__lxG__loading_block
 getdroidtips.com##.ai-viewport-4.ai-viewport-3.code-block
-androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
+! Android Police (22-2-2024)
+www.androidpolice.com##.affiliate-sponsored
+www.androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
 chromestory.com##.widget-area.custom-widget
 chromeunboxed.com##.desktopHeaderBanner
 chromeunboxed.com##.code-block-8.code-block
