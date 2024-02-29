@@ -68,10 +68,12 @@ mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
 ! 12. Mangabtt.com (2023-11-22)
 ||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
 mangabtt.com##div.reading-control
-! 13. HENTAI
+! 13. baozimh.com (29-2-2024)
+www.hbmanga.com##.comic-contain > div.mobadsq
+! 14. HENTAI
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
-! 14. Sayhentai (2023-12-27)
+! 15. Sayhentai (2023-12-27)
 ||039vnd.com^
 ||039vip0.com^
 ||rw8899.com^
@@ -84,9 +86,9 @@ sayhentai.fun##.ads_popup.hidden-ads
 ||vipads.live^$domain=sayhentai.fun
 ||vipads.cc^$domain=sayhentai.fun
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
-! 15. Lxmanga.net (2023-07-27)
+! 16. Lxmanga.net (2023-07-27)
 ||l.linklyhq.com/l/1oOoo
-! 16.
+! 17.
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! END_GROUP
 
@@ -188,13 +190,15 @@ wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile
 phimmoiz1.net###popup-giua-man-hinh
 phimmoiz1.net##.container > .right-box
 phimmoiz1.net###catfish
-!
-zingvntv.com###preload-zing
+! tvzinghd.co (25-2-2024)
+tvzinghd.co###prei9ztv
+||images.weserv.nl/?url=https://i.ibb.co/T8CRFfK/320-x80f.gif&output=gif&n=-1$image
+
 ||phimtop.net/iframe/mobi_top.html$subdocument
 phimtop.net,vuianime.net,saytruyen.net##center
 phimtop.net##.sticky_bottom
 phimtop.net###player_message
-||i.imgur.com^*.gif$domain=phimtop.net|zingvntv.com
+||i.imgur.com^*.gif$domain=phimtop.net
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
 ! END GROUP
