@@ -89,6 +89,7 @@ sayhentai.fun##.ads_popup.hidden-ads
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
 ! 16. Lxmanga.net (2023-07-27)
 ||l.linklyhq.com/l/1oOoo
+||xemphim8k.com^$third-party
 ! 17.
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! END_GROUP
@@ -240,8 +241,8 @@ animetvn.com##.shareUrl, .thongbao20
 ! GROUP:XXX
 ! 1. khieudam.club 2024-01-28
 ||xxxads.info^$image
-! 2. 2023-12-14
-lonxxx.com,pheclip.com###popup
+! 2. 2024-3-04
+lonxxx.com,pheclip.com,pheclip.net,chichnhau.me###popup
 ! 3. vlxx.cam 2023-11-13 (uBlock filters – Ads)
 /aas/r45d/vki/*$script,redirect-rule=noop.js
 ! 4. xsub.cc (2023-10-30) xsub.tv (2024-02-06)
