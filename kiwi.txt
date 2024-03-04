@@ -90,6 +90,7 @@ sayhentai.fun##.ads_popup.hidden-ads
 ! 16. Lxmanga.net (2023-07-27)
 ||l.linklyhq.com/l/1oOoo
 ||xemphim8k.com^$third-party
+||bongda12h.com^$third-party
 ! 17.
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! END_GROUP
