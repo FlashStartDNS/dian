@@ -4,7 +4,7 @@
 # 1
 nextdns.io
 # 2. Download Edge Android (2023-11-24)
-adjust.com
+app.adjust.com
 # 3. Download LienQuan Mobile
 app.appsflyer.com
 # 4. Shopee 2023-11-19
