@@ -178,6 +178,12 @@ m.youtube.com##.center.player-controls-middle-core-buttons > button.icon-button:
 m.youtube.com##button.icon-button:nth-of-type(5)
 m.youtube.com##.ytm-autonav-toggle-button-container
 
+! Reddit NSFW 01-02-2024
+||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
+||www.redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
+www.reddit.com##xpromo-nsfw-blocking-modal,slot+.prompt 
+www.reddit.com##[style*="blur"]:style(filter:none!important;)
+!
 reddit.com##.XPromoPopup
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 reddit.com##.XPromoInFeed
