@@ -5,8 +5,8 @@
 ! CHUNG
 /wp-content/uploads/202*/*/*.gif$domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=chichnhau.me|lonxxx.com|pheclip.net|sayhentai.fun
-||static.xx.fbcdn.net^$domain=nettruyenbb.com|nettruyenss.com|nettruyenclub.com|sayhentai.fun
-||facebook.com^$domain=nettruyenbb.com|nettruyenss.com|sayhentai.fun
+||static.xx.fbcdn.net^$domain=nettruyenee.com|nettruyenbb.com|nettruyenss.com|nettruyenclub.com|sayhentai.fun
+||facebook.com^$domain=nettruyenee.com|nettruyenbb.com|nettruyenss.com|sayhentai.fun
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 ! 2024-02-01 popup đăng nhập google
 ||accounts.google.com/gsi/iframe/select$subdocument
