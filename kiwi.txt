@@ -75,7 +75,8 @@ www.hbmanga.com##.comic-contain > div.mobadsq
 ! 14. HENTAI
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
-! 15. Sayhentai.club (07-3-2024)
+! 15. Sayhentai.club (10-3-2024)
+||sayhentai.club/assets/css/images/bg-search.jpg$image
 ||gwemwyqugg.com^
 ||uk88.com^
 ||acmorhmiwtit.com^
@@ -284,5 +285,3 @@ tinhte.vn##.top-creators, .hero-stream-carousel, .hot-community-mobile, .tinhte-
 ! Chế độ tối:
 ||1stkissmanga.io/wp-content/themes/madara/images/bg-search.jpg$image
 ||tratu.soha.vn/skins/monobook/bg-header-l.jpg$image
-! 2023-11-11
-||sayhentai.fun/assets/css/images/bg-search.jpg$image
