@@ -1,4 +1,6 @@
-# Number of entries: 28
+# Number of entries: 29
+# 13-3-2024 Hagezi Block List
+ohay.tv
 # NetTruyenus (1-11-2023)
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 psirdain.com
