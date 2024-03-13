@@ -15,3 +15,5 @@ log-collector.shopee.vn
 # 6. Bing-News image
 //img-s-msn-com.akamaized.net
 //c.msn.com
+# 13-3-2024 Hagezi Block List
+ohay.tv
