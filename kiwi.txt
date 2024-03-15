@@ -75,7 +75,7 @@ www.hbmanga.com##.comic-contain > div.mobadsq
 ! 14. HENTAI
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
-! 15. Sayhentai.club (10-3-2024)
+! 15. Sayhentai.pro (15-3-2024)
 ||sayhentai.pro/assets/css/images/bg-search.jpg$image
 ||gwemwyqugg.com^
 ||uk88.com^
@@ -86,9 +86,9 @@ hentaivn.la##.qx_135
 ||rw8899.com^
 ||uk88.top^
 ||sayhentai.fun/img/
-||ak-d.tripcdn.com/images/*.gif$domain=sayhentai.fun|sayhentai.club|sayhentai.pro
+||ak-d.tripcdn.com/images/*.gif$domain=sayhentai.pro
 sayhentai.pro##.ads_popup.hidden-ads
-||imgsrc.baidu.com/forum/pic/item/*.gif$image,domain=sayhentai.fun|sayhentai.club|sayhentai.pro
+||imgsrc.baidu.com/forum/pic/item/*.gif$image,domain=sayhentai.pro
 ||360buyimg.com/jdsurvey/jfs/t1/*.gif$image
 ||vipads.live^
 ||vipads.cc^
