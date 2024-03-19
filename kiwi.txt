@@ -122,8 +122,8 @@ tudien.dolenglish.vn##.modal-portal-full-screen.fjPCXk.ModalPortalFullScreen__Co
 hvdic.thivien.net##.notification
 
 ! News
-! 1) VnExpress.net 2024-02-10
-! Nút tài khoản và nút thông báo ở góc trên bên phải
+! VnExpress.net 2024-02-10
+!! Nút tài khoản và nút thông báo ở góc trên bên phải
 ||s1.vnecdn.net/myvne/j/v270/m_myvne_users_v3.js
 vnexpress.net##.wrap-hd-adblock
 vnexpress.net##.button-adblock
@@ -131,14 +131,17 @@ vnexpress.net##.box-taitro.box-category
 vnexpress.net###BanCoTheQuanTam_PinTop_Search_Greater10Percent
 vnexpress.net###BanCoTheQuanTam_PinBottom_Search_Less10Percent
 vnexpress.net##.center.section
-! 2) VietNamNet
+! VietNamNet
 vietnamnet.vn##.banner-top-mashead.vmcadszone
 vietnamnet.vn###vmcad_inview_container
 vietnamnet.vn###Mobile_AdsArticleBodyInArticle
-!
+! MSN
+www.msn.com##.accent.article-cont-read-button-on-app
+!! Sponsored Content 19-3-2024
+www.msn.com##end-of-content-block
+
 phuothanoi.com###popup_banner_beta
 news.coccoc.com##._275a2205-ad
-www.msn.com##.accent.article-cont-read-button-on-app
 
 ! APK
 apkmirror.com##.membership-text.advertisement-text
