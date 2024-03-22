@@ -17,3 +17,5 @@ log-collector.shopee.vn
 //c.msn.com
 # 13-3-2024 Hagezi Block List
 ohay.tv
+# 23-3-2024 TLDs .name
+xxphim.name
