@@ -1,21 +1,23 @@
 # Title: bui-lang Allowlist
 # Description: The list contains incorrectly blocked domains that limit functionality
 # Homepage: https://github.com/bui-lang/dian/edit/main/white.txt
-# 1
+# Number of entries: 7
+# NextDNS
 nextdns.io
-# 2. Download Edge Android (2023-11-24)
+# Download Edge Android (2023-11-24)
 app.adjust.com
-# 3. Download LienQuan Mobile
+# Download LienQuan Mobile
 app.appsflyer.com
-# 4. Shopee 2023-11-19
+# Shopee load ảnh 2023-11-19
 log-collector.shopee.vn
-# 5. ZaloPay Android 2023-11-13
+# ZaloPay Android 2023-11-13
 //analytics.google.com
 //www.googletagmanager.com
-# 6. Bing-News image
+# Bing-News image
 //img-s-msn-com.akamaized.net
 //c.msn.com
 # 13-3-2024 Hagezi Block List
 ohay.tv
-# 23-3-2024 TLDs .name
+# Abused TLDs (25-3-2024)
 xxphim.name
+medium.rip
