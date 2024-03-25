@@ -1,7 +1,7 @@
 # Title: bui-lang Allowlist
 # Description: The list contains incorrectly blocked domains that limit functionality
 # Homepage: https://github.com/bui-lang/dian/edit/main/white.txt
-# Number of entries: 7
+# Number of entries: 9
 # NextDNS
 nextdns.io
 # Download Edge Android (2023-11-24)
@@ -21,3 +21,5 @@ ohay.tv
 # Abused TLDs (25-3-2024)
 xxphim.name
 medium.rip
+frame.work
+objection.lol
