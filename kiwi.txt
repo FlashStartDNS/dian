@@ -71,8 +71,9 @@ mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
 ! 12. Mangabtt.com (2023-11-22)
 ||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
 mangabtt.com##div.reading-control
-! 13. baozimh.com (29-2-2024)
+! 13. baozimh.com (26-3-2024)
 www.hbmanga.com##.comic-contain > div.mobadsq
+www.hbmanga.com###sticky_ads_frame_a
 ! 14. HENTAI
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
