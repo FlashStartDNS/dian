@@ -1,6 +1,6 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
-! Number of entries: 212
+! Number of entries: 213
 
 ! CHUNG
 /wp-content/uploads/202*/*/*.gif$domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
@@ -143,7 +143,8 @@ vietnamnet.vn###Mobile_AdsArticleBodyInArticle
 www.msn.com##.accent.article-cont-read-button-on-app
 !! Sponsored Content 19-3-2024
 www.msn.com##end-of-content-block
-
+! The old reader - 06.4.2024
+theoldreader.com##.banner
 phuothanoi.com###popup_banner_beta
 news.coccoc.com##._275a2205-ad
 
