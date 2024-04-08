@@ -1,6 +1,6 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
-! Number of entries: 211
+! Number of entries: 212
 
 ! CHUNG
 /wp-content/uploads/202*/*/*.gif$domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
@@ -8,8 +8,11 @@
 ||static.xx.fbcdn.net^$domain=nettruyenff.com|nettruyenee.com|nettruyenbb.com|nettruyenss.com|nettruyenclub.com|sayhentai.pro
 ||facebook.com^$domain=nettruyenff.com|nettruyenee.com|nettruyenbb.com|nettruyenss.com|sayhentai.pro
 questsupremacy.com,regressorinstructionmanual.com##.code-block
-! 2024-02-01 popup đăng nhập google
+
+! Popup đăng nhập Google - 01.02.2024
 ||accounts.google.com/gsi/iframe/select$subdocument
+! Popup đăng nhập FB - 14.01.2024
+m.facebook.com##.bottom.fixed-container.m
 
 ! NOVEL
 ||m.mayiwxw.com/1KHO3FxT/*$script
