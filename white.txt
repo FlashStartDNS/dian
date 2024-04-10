@@ -1,9 +1,13 @@
 # Title: bui-lang Allowlist
 # Description: The list contains incorrectly blocked domains that limit functionality
 # Homepage: https://github.com/bui-lang/dian/edit/main/white.txt
-# Number of entries: 9
+# Number of entries: 11
 # NextDNS
 nextdns.io
+# Xiaomi device updates
+update.intl.miui.com
+# Xiaomi USB debugging (Security settings)
+srv.sec.intl.miui.com
 # Download Edge Android (2023-11-24)
 app.adjust.com
 # Download LienQuan Mobile
