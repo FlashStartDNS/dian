@@ -211,7 +211,11 @@ wallpapers.com###stickyunit
 wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
 
 ! GROUP:PHIM
-! 2023-05-03 PhimMoi
+! phim.nguonc.com 
+! 2024-4-16 embed.streamc.xyz
+! 2024-4-18 embed1.streamc.xyz
+||img.nguonc.com/public/images/*.gif$image
+! PhimMoi 
 phimmoiz1.net###popup-giua-man-hinh
 phimmoiz1.net##.container > .right-box
 phimmoiz1.net###catfish
