@@ -5,6 +5,7 @@ cloudflare-gateway.com
 phim.nguonc.com
 embed.streamc.xyz
 sv1.freedoihoiccgi.top
+sv1.streamvda.top
 # Xiaomi device updates
 update.intl.miui.com
 # Xiaomi USB debugging (Security settings)
