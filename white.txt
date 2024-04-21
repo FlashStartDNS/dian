@@ -4,6 +4,7 @@ nextdns.io
 cloudflare-gateway.com
 phim.nguonc.com
 embed.streamc.xyz
+sv1.freedoihoiccgi.top
 # Xiaomi device updates
 update.intl.miui.com
 # Xiaomi USB debugging (Security settings)
