@@ -215,7 +215,10 @@ wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile
 ! 2024-4-16 embed.streamc.xyz
 ! 2024-4-18 embed1.streamc.xyz
 ||img.nguonc.com/public/images/*.gif$image
-! PhimMoi 2023-5-03
+! PhimMoi 2024-4-18
+! https://phimmoi.today
+phimmoi.today##.popUpBannerBox
+||i.postimg.cc^$image,domain=phimmoi.today
 phimmoiz1.net###popup-giua-man-hinh
 phimmoiz1.net##.container > .right-box
 phimmoiz1.net###catfish
