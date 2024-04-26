@@ -2,6 +2,7 @@
 # Description: The list contains incorrectly blocked domains that limit functionality
 nextdns.io
 cloudflare-gateway.com
+# phim.nguonc.com
 phim.nguonc.com
 embed.streamc.xyz
 sv1.freedoihoiccgi.top
@@ -29,4 +30,3 @@ xxphim.name
 medium.rip
 frame.work
 objection.lol
-hentaivn.bid
