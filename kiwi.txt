@@ -128,6 +128,9 @@ dictionary.cambridge.org##.topslot-container.tz0
 tudien.dolenglish.vn##.modal-portal-full-screen.fjPCXk.ModalPortalFullScreen__Container-sc-8ytn78-0
 ! Từ điển Hán Nôm
 hvdic.thivien.net##.notification
+! 2024-4-21 www.o-study.net
+www.o-study.net###POPUP759
+www.o-study.net###IMAGE751
 
 ! News
 ! VnExpress.net 2024-02-10
