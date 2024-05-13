@@ -9,6 +9,10 @@
 ||facebook.com^$domain=nettruyenff.com|nettruyenee.com|nettruyenbb.com|nettruyenss.com|sayhentai.pro
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 
+# redirect shope.ee (13-5-2024)
+||phimtronbo.pro^
+||watchtv.fun^
+
 ! Popup đăng nhập Google - 01.02.2024
 ||accounts.google.com/gsi/iframe/select$subdocument
 ! Popup đăng nhập FB - 14.01.2024
@@ -222,7 +226,6 @@ wallpapers.com###stickyunit
 wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
 
 ! GROUP:PHIM
-||phimtronbo.pro^
 ! phim.nguonc.com 
 ! 2024-4-16 embed.streamc.xyz
 ! 2024-4-18 embed1.streamc.xyz
