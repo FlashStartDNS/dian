@@ -12,6 +12,7 @@ questsupremacy.com,regressorinstructionmanual.com##.code-block
 # redirect shope.ee (13-5-2024)
 ||phimtronbo.pro^
 ||watchtv.fun^
+||phan2.pro^
 
 ! Popup đăng nhập Google - 01.02.2024
 ||accounts.google.com/gsi/iframe/select$subdocument
