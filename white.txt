@@ -27,6 +27,8 @@ log-collector.shopee.vn
 ohay.tv
 # Abused TLDs (26-4-2024)
 xxphim.name
+xxphim.best
+xxphim.win
 medium.rip
 frame.work
 elphago.work
