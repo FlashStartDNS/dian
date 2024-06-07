@@ -11,6 +11,8 @@ sv1.streamvda.top
 update.intl.miui.com
 # Xiaomi USB debugging (Security settings)
 srv.sec.intl.miui.com
+# Khảo sát Xiaomi
+m.beehive.in.intl.miui.com
 # Download Edge Android (2023-11-24)
 app.adjust.com
 # Download LienQuan Mobile
