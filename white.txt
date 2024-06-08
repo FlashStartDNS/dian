@@ -39,3 +39,5 @@ rphang.men
 sieudamtv.men
 animehay.bio
 meomeotv.bio
+# Blocked by Cloudflare DGA Domains 08-6-2024
+hhkungfu.app
