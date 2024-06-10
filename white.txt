@@ -27,7 +27,7 @@ log-collector.shopee.vn
 //c.msn.com
 # 13-3-2024 Hagezi Block List
 ohay.tv
-# Abused TLDs (07-6-2024)
+# Abused TLDs (10-6-2024)
 xxphim.name
 xxphim.best
 xxphim.win
@@ -39,6 +39,7 @@ rphang.men
 sieudamtv.men
 animehay.bio
 meomeotv.bio
+phimsexhay.bio
 # Blocked by Cloudflare DGA Domains 08-6-2024
 hhkungfu.app
 # Blocked by Cloudflare Cryptomining 09-6-2024
