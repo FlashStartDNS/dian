@@ -172,23 +172,26 @@ vietnamnet.vn###Mobile_AdsArticleBodyInArticle
 #4, CocCoc News
 news.coccoc.com##._275a2205-ad
 phuothanoi.com###popup_banner_beta
-#5, MSN Bing
+#5, tintuc3mien.com/ 09-6-2024
+www.tintuc3mien.com##.backdrop-popup
+www.tintuc3mien.com###SECTION_POPUP
+#6, MSN Bing
 www.msn.com##.accent.article-cont-read-button-on-app
 ! MSN Sponsored Content 19-3-2024
 www.msn.com##end-of-content-block
-#6, The old reader - 06.4.2024
+#7, The old reader - 06.4.2024
 theoldreader.com##.banner
 getdroidtips.com##.ai-viewport-4.ai-viewport-3.code-block
-#7, Android Police (22-2-2024)
+#8, Android Police (22-2-2024)
 www.androidpolice.com##.affiliate-sponsored
 www.androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
-#8, ChromeStory
+#9, ChromeStory
 chromestory.com##.widget-area.custom-widget
-#9, ChromeUnBoxed
+#10, ChromeUnBoxed
 chromeunboxed.com##.desktopHeaderBanner
 chromeunboxed.com##.code-block-8.code-block
 chromeunboxed.com##.crp_related_block.crp_related
-#10, TheNextWeb
+#11, TheNextWeb
 thenextweb.com##.tnw-ad-wrapper
 thenextweb.com##.lg\:hidden.c-share
 
