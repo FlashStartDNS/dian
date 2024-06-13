@@ -1,8 +1,14 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
 ! Number of entries: 234
+! Group1: Novel L35
+! Group2: Truyen L45-136
+! Group3: HoatHinh L308
+! Group4: News L159-199
+! Group5: Phim L256
+! Group6: XXX L323
 
-! CHUNG
+! Chung rule
 /wp-content/uploads/202*/*/*.gif$domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=chichnhau.me|lonxxx.com|pheclip.net|sayhentai.pro
 ||static.xx.fbcdn.net^$domain=nettruyenff.com|nettruyenee.com|nettruyenbb.com|nettruyenss.com|nettruyenclub.com|sayhentai.pro
@@ -305,6 +311,10 @@ forum.duolingo.com##div.ReactModalPortal:nth-of-type(6)
 edu2review.com###mobile-footer
 edu2review.com##.hide-xl-more.flex-center.fluid
 
+! Group_HoatHinh
+#1, hhtq3d.com/ 13-6-2024
+s2.truyentot.com
+#2, VuiGhe
 vuighe.net##.banner-masthead
 ||vuianime.net/catfish_26.gif$image
 vuianime.net##body > div:nth-of-type(5)
