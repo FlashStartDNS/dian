@@ -41,7 +41,8 @@ animehay.bio
 meomeotv.bio
 phimsexhay.bio
 hentaivn.bio
-# Blocked by Cloudflare DGA Domains 08-6-2024
+# Blocked by Cloudflare DGA Domains 13-6-2024
 hhkungfu.app
+hh3dhay.xyz
 # Blocked by Cloudflare Cryptomining 09-6-2024
 www.okx.com
