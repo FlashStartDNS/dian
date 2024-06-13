@@ -35,7 +35,9 @@ wap.ibiquge.la###strl
 ||banyueya.top/bkk.html
 
 ! GROUP_Truyen
-! 1. NetTruyen.com (03-3-2023)
+! 1, fastscans.net/ 28-5-2024
+||s1.fastscans.net/shopee/product*.jpg$image
+! 2, NetTruyen.com/ 03-3-2023
 ||phumsise.com^
 ||st.nettruyenbing.com/data/sites/1/banner/
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
@@ -43,31 +45,31 @@ wap.ibiquge.la###strl
 ||bp.blogspot.com^$domain=www.nettruyenff.com
 ||facebook.net^$domain=nettruyenff.com
 nettruyenff.com##[class^="mce-container mce-flow-layout-item mce-first mce-last mce-btn-group"]
-! 2. nettruyenxx.com 08-5-2024
+! 3, nettruyenxx.com/ 08-5-2024
 ! phimmoiaa.com
 hello888999.com
 66hello88.com
-! nettruyenuss.com (fake) 17-5-2024
+! 4, nettruyenuss.com (fake) 17-5-2024
 kftytkhurx.xyz
-! 3. TuTienTruyen 07-11-2023
+! 5, TuTienTruyen 07-11-2023
 tutientruyen.com###popup_banner_beta
-! 4. TruyenQQ
+! 6, TruyenQQ
 truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
 truyenqqpro.com##div[id^="image_popup_"]
 ||truyenvua.xyz/qc-new/*$image
-! 5. VlogTruyen
+! 7, VlogTruyen
 vlogtruyen2.net##.fancybox-skin
 vlogtruyen2.net##.relate-manga.box-dinh-ky
 vlogtruyen2.net##.mobile-catfish
 vlogtruyen2.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
 ||cdn.vlogtruyen.net/cdn/chapter/2021/11/05/0567224862_Output3_015.jpg$image
 ||vlognovel.com/storage/photos/61603cb0e0e8f85708010e39/PR%20Nh%C3%B3m,%20Page/2021-12-21_081051.jpg$image
-! 6. Pops.vn (2023-08-19)
+! 8, Pops.vn (2023-08-19)
 ||cdn.popsww.com/popsapp/static/pops-video-v1.mp4$media
 pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
 ! Rule bên dưới làm không xem được video ở kids.pops.vn
 !pops.vn##.wrapper-videojs_popsVideo__tuLfR.vjs-root-dom
-! 7. Newtoki 13-6-2024
+! 9, Newtoki 13-6-2024
 /tokinbtoki/*.gif
 ||newtoki.help/banner/$image
 ||xn--ph1bph0az41x.org^*.gif$image
@@ -75,34 +77,34 @@ newtoki.help##.ba_test
 newtoki.help##.banner2
 newtoki.help##.banner3
 newtoki.*###hd_pops_4
-! 8. Naver Comic
+! 10, Naver Comic
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
 manga-raw.club##.adsbox
-! 9. ReaperScans.com
+! 11, ReaperScans.com
 ||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
-! 10. reality-quest
+! 12, Reality-quest
 reality-quest.online##.essb_links_list
 reality-quest.online##.kofi-button
-! 11. questsupremacy.com
+! 13, QuestSupremacy.com
 ||ak.torioluor.com/afu.php
 mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
-! 12. Mangabtt.com (2023-11-22)
+! 14, Mangabtt.com/ 2023-11-22
 ||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
 mangabtt.com##div.reading-control
-! 13. baozimh.com (26-3-2024)
+! 15, baozimh.com/ 26-3-2024
 www.hbmanga.com##.comic-contain > div.mobadsq
 www.hbmanga.com###sticky_ads_frame_a
-! 14. HENTAI
+! 16, HENTAI
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
-! 15. Sayhentai.pro (15-3-2024)
+! 17, Sayhentai.pro (15-3-2024)
 sayhentai.pro##.float-ck-center-lt
 ||sayhentai.pro/assets/css/images/bg-search.jpg$image
 ||gwemwyqugg.com^
 ||uk88.com^
 ||acmorhmiwtit.com^
-! Sayhentai.fun (2023-12-27)
+! 18,Sayhentai.fun/ 2023-12-27
 ||039vnd.com^
 ||039vip0.com^
 ||rw8899.com^
@@ -115,11 +117,11 @@ sayhentai.pro##.ads_popup.hidden-ads
 ||vipads.live^
 ||vipads.cc^
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
-! 16. Lxmanga.net (2023-07-27)
+! 18, Lxmanga.net/ 2023-07-27
 ||l.linklyhq.com/l/1oOoo
 ||xemphim8k.com^$third-party
 ||bongda12h.com^$third-party
-! 17.
+! 19, Manhwa18.com
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! END_GROUP
 
