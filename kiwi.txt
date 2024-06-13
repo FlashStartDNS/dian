@@ -230,26 +230,30 @@ wallpapers.com###stickyunit
 wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
 
 ! GROUP:PHIM
-! phim.nguonc.com 
-! 2024-4-16 embed.streamc.xyz
-! 2024-4-18 embed1.streamc.xyz
+! 1, phim.nguonc.com/
+! embed.streamc.xyz/ 16-4-2024
+! embed1.streamc.xyz/ 18-4-2024
 ||img.nguonc.com/public/images/*.gif$image
-! PhimMoi 2024-4-18
-! https://phimmoi.today
-phimmoi.today##.popUpBannerBox
-||i.postimg.cc^$image,domain=phimmoi.today
+! 2a, phimmoi.today/ 18-4-2024
+! 2b, phimmoinet.lol/ 07-6-2024
+phimmoi.today,phimmoinet.lol##.popUpBannerBox
+||i.postimg.cc^$image,domain=phimmoi.today|phimmoinet.lol
+||linkads.xyz/i9bet/400x300.jpg$image
+||i.imgur.com/HG2ebaq.gif$image
+! 3,
 phimmoiz1.net###popup-giua-man-hinh
 phimmoiz1.net##.container > .right-box
 phimmoiz1.net###catfish
-! tvzinghd.co (25-2-2024)
+! 4, tvzinghd.co/ 25-02-2024
 tvzinghd.co###prei9ztv
 ||images.weserv.nl/?url=https://i.ibb.co/T8CRFfK/320-x80f.gif&output=gif&n=-1$image
-
+! 5,
 ||phimtop.net/iframe/mobi_top.html$subdocument
 phimtop.net,vuianime.net,saytruyen.net##center
 phimtop.net##.sticky_bottom
 phimtop.net###player_message
 ||i.imgur.com^*.gif$domain=phimtop.net
+! 6,
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
 ! END GROUP
