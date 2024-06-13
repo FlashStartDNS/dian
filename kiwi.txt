@@ -67,9 +67,10 @@ vlogtruyen2.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
 pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
 ! Rule bên dưới làm không xem được video ở kids.pops.vn
 !pops.vn##.wrapper-videojs_popsVideo__tuLfR.vjs-root-dom
-! 7. Newtoki (2023-12-18)
+! 7. Newtoki 13-6-2024
 /tokinbtoki/*.gif
 ||newtoki.help/banner/$image
+||xn--ph1bph0az41x.org^*.gif$image
 newtoki.help##.ba_test
 newtoki.help##.banner2
 newtoki.help##.banner3
