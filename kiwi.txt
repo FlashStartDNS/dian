@@ -9,10 +9,17 @@
 ||facebook.com^$domain=nettruyenff.com|nettruyenee.com|nettruyenbb.com|nettruyenss.com|sayhentai.pro
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 
-# redirect shope.ee (13-5-2024)
+# redirect Shopee (13-6-2024)
 ||phimtronbo.pro^
 ||watchtv.fun^
 ||phan2.pro^
+fecabookvn.com
+tuoitre24h.info
+tinhotnew.com
+vn-express.net
+tintuc-24h.com
+hdzonline.pro
+phimzhd.pro
 
 ! Popup đăng nhập Google - 01.02.2024
 ||accounts.google.com/gsi/iframe/select$subdocument
