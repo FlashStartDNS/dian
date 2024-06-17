@@ -32,6 +32,7 @@ xxphim.name
 xxphim.best
 xxphim.win
 medium.rip
+fuhuzz.rip
 frame.work
 elphago.work
 objection.lol
