@@ -100,3 +100,5 @@ phan2.pro
 fecabookvn.com
 hdzonline.pro
 phimzhd.pro
+# truyentuan.xyz/ shope.ee 19-6-2024
+bitly.group
