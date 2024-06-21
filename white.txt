@@ -25,8 +25,9 @@ log-collector.shopee.vn
 # Bing-News image
 //img-s-msn-com.akamaized.net
 //c.msn.com
-# 13-3-2024 Hagezi Block List
+# 17-6-2024 Hagezi Block List
 ohay.tv
+danchimviet.info
 # Abused TLDs (17-6-2024)
 xxphim.name
 xxphim.best
