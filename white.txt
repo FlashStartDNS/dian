@@ -50,3 +50,5 @@ hhkungfu.app
 hh3dhay.xyz
 # Blocked by Cloudflare Cryptomining 09-6-2024
 www.okx.com
+# Blocked by: HaGeZi's Gambling Blocklist
+xoso.mobi
