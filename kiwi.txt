@@ -15,6 +15,9 @@
 ||facebook.com^$domain=nettruyenff.com|nettruyenee.com|nettruyenbb.com|nettruyenss.com|sayhentai.pro
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 
+! voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-chromium.682181/post-32472237
+||polyfill.io^
+
 # redirect Shopee (13-6-2024)
 ||phimtronbo.pro^
 ||watchtv.fun^
@@ -30,7 +33,7 @@ phimzhd.pro
 ! Popup đăng nhập Google - 01.02.2024
 ||accounts.google.com/gsi/iframe/select$subdocument
 ! Popup đăng nhập FB - 14.01.2024
-m.facebook.com##.bottom.fixed-container.m
+
 ! Popup Cookie https://www-bbc-com.translate.goog/vietnamese?_x_tr_sl=auto&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp 24-4-2024
 www-bbc-com.translate.goog##.eh3hs0a4.bbc-1f1v9xr
 ! ##.qc (ABPVN)
