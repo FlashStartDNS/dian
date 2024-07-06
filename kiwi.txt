@@ -18,21 +18,21 @@ questsupremacy.com,regressorinstructionmanual.com##.code-block
 ! voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-chromium.682181/post-32472237
 ||polyfill.io^
 
-shope.ee
-s.shopee.vn
+||shope.ee^
+||s.shopee.vn^
 # toptruyenii.online/ 03-6-2024
-s.lazada.vn
+||s.lazada.vn^
 # redirect Shopee (13-6-2024)
 ||phimtronbo.pro^
 ||watchtv.fun^
 ||phan2.pro^
-fecabookvn.com
-tuoitre24h.info
-tinhotnew.com
-vn-express.net
-tintuc-24h.com
-hdzonline.pro
-phimzhd.pro
+||fecabookvn.com^
+||tuoitre24h.info^
+||tinhotnew.com^
+||vn-express.net^
+||tintuc-24h.com^
+||hdzonline.pro^
+||phimzhd.pro^
 
 ! Popup đăng nhập Google - 01.02.2024
 ||accounts.google.com/gsi/iframe/select$subdocument
@@ -70,10 +70,10 @@ wap.ibiquge.la###strl
 nettruyenff.com##[class^="mce-container mce-flow-layout-item mce-first mce-last mce-btn-group"]
 ! 4, nettruyenxx.com/ 08-5-2024
 ! phimmoiaa.com
-hello888999.com
-66hello88.com
+||hello888999.com^
+||66hello88.com^
 ! 5, nettruyenuss.com (fake) 17-5-2024
-kftytkhurx.xyz
+||kftytkhurx.xyz^
 ! 6, TuTienTruyen 07-11-2023
 tutientruyen.com###popup_banner_beta
 ! 7, TruyenQQ
