@@ -25,10 +25,10 @@ log-collector.shopee.vn
 # Bing-News image
 //img-s-msn-com.akamaized.net
 //c.msn.com
-# 17-6-2024 Hagezi Block List
+# Hagezi Block List 17-6-2024
 ohay.tv
 danchimviet.info
-# Abused TLDs (17-6-2024)
+# Abused TLDs (16-7-2024)
 xxphim.name
 xxphim.best
 xxphim.win
@@ -45,6 +45,7 @@ meomeotv.bio
 phimsexhay.bio
 hentaivn.bio
 viet69.hair
+viet69.name
 # Blocked by Cloudflare DGA Domains 13-6-2024
 hhkungfu.app
 hh3dhay.xyz
