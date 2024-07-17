@@ -23,9 +23,7 @@ questsupremacy.com,regressorinstructionmanual.com##.code-block
 # toptruyenii.online/ 03-6-2024
 ||s.lazada.vn^
 # redirect Shopee (13-6-2024)
-||phimtronbo.pro^
 ||watchtv.fun^
-||phan2.pro^
 ||fecabookvn.com^
 ||fecabookz.com^
 ||tuoitre24h.info^
@@ -34,6 +32,9 @@ questsupremacy.com,regressorinstructionmanual.com##.code-block
 ||tintuc-24h.com^
 ||hdzonline.pro^
 ||phimzhd.pro^
+||phimtronbo.pro^
+||phan2.pro^
+||baodientu.online^
 
 ! Popup đăng nhập Google - 01.02.2024
 ||accounts.google.com/gsi/iframe/select$subdocument
