@@ -1,12 +1,12 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
-! Number of entries: 235
-! Group1: Novel L35
-! Group2: Truyen L53
-! Group3: HoatHinh L308
-! Group4: News L159
-! Group5: Phim L256
-! Group6: XXX L323
+! Number of entries: 236
+! Group1: Novel #L35
+! Group2: Truyen #L53
+! Group3: HoatHinh #L308
+! Group4: News #L159
+! Group5: Phim #L256
+! Group6: XXX #L338
 
 ! Chung rule
 /wp-content/uploads/202*/*/*.gif$domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
@@ -336,32 +336,34 @@ animetvn.com##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.com##.shareUrl, .thongbao20
 
 ! GROUP:XXX
-! 1. khieudam.club 2024-01-28
+! 1, khieudam.club/ 28-01-2024
 ||xxxads.info^$image
-! 2. 2024-3-04
+! 2, 04-3-2024
 lonxxx.com,pheclip.com,pheclip.net,chichnhau.me###popup
-! 3. vlxx.cam 2023-11-13 (uBlock filters – Ads)
+! 3, vlxx.cam 2023-11-13 (uBlock filters – Ads)
 /aas/r45d/vki/*$script,redirect-rule=noop.js
-! 4. xsub.cc (2023-10-30) xsub.tv (2024-02-06)
+! 4, xsub.cc (2023-10-30), xsub.tv (2024-02-06)
 ||xsub.tv/js/xsub_pu_25.js$xhr,1p
 ||ww1.javbabe.net/x1x/*.html$subdocument
-! 5.
+! 5. Tuoi69
 tuoi69.click##body > .float-ckgiua
 ||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
-! 6.
+! 6, ThienVaDia
 thienvadia.vip##.js-notices.notices--block.notices
-! 7. MePhim18 2023-01-05
+! 7, MePhim18 2023-01-05
 mephim18.com###backgroundPopupp
 ||media.discordapp.net/attachments/918179438494101527/1*.gif$image,domain=mephim18.com
 ||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
-! 8. PublicAgent.com
+! 8, PublicAgent.com
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 www.publicagent.com###root > .jzQxQF.sc-yo7o1v-0 > div.hAewsL.sc-1fep8qc-0 > .dXXztf.sc-1deoyo3-0
-! 9. thefap.net/ 2023-12-30
+! 9, FapDiner.com/ 21-7-2024
+||arzruqmougxvdv.com^
+! 10, TheFap.net/ 2023-12-30
 thefap.net###popupContactU
-! 10. MeoMeotv.pro/ 07-6-2024
+! 11, MeoMeotv.pro/ 07-6-2024
 sancoxanh.com
 az888v17.com
 meomeotv.pro##.popUpBannerBox
