@@ -1,11 +1,11 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
-! Number of entries: 237
+! Number of entries: 240
 ! Group1: Novel #L35
 ! Group2: Truyen #L59
 ! Group3: HoatHinh #L308
 ! Group4: News #L159
-! Group5: Phim #L256
+! Group5: Phim #L274
 ! Group6: XXX #L338
 
 ! Chung rule
@@ -272,30 +272,35 @@ wallpapers.com###stickyunit
 wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
 
 ! GROUP:PHIM
-! 1, phim.nguonc.com/
+! 1,Phim.nguonc.com/
 ! embed.streamc.xyz/ 16-4-2024
 ! embed1.streamc.xyz/ 18-4-2024
 ||img.nguonc.com/public/images/*.gif$image
-! 2a, phimmoi.today/ 18-4-2024
-! 2b, phimmoinet.lol/ 07-6-2024
+! 2a,PhimMoi.today/ 18-4-2024
+! 2b,PhimMoiNet.lol/ 07-6-2024
 phimmoi.today,phimmoinet.lol##.popUpBannerBox
 ||i.postimg.cc^$image,domain=phimmoi.today|phimmoinet.lol
 ||linkads.xyz/i9bet/400x300.jpg$image
 ||i.imgur.com/HG2ebaq.gif$image
-! 3,
+! 3,PhimMoiZ1.net
 phimmoiz1.net###popup-giua-man-hinh
 phimmoiz1.net##.container > .right-box
 phimmoiz1.net###catfish
-! 4, tvzinghd.co/ 25-02-2024
+! 4,​NguonHD.net,NguonTvb.com 22-6-2024
+||nguontv.com^
+! https://154.82.109.153/57.html
+||154.82.109.153^
+nguonhd.net,nguontvb.com###antiAdblock
+! 5,TvZinghd.co/ 25-02-2024
 tvzinghd.co###prei9ztv
 ||images.weserv.nl/?url=https://i.ibb.co/T8CRFfK/320-x80f.gif&output=gif&n=-1$image
-! 5,
+! 5,PhimTop.net
 ||phimtop.net/iframe/mobi_top.html$subdocument
 phimtop.net,vuianime.net,saytruyen.net##center
 phimtop.net##.sticky_bottom
 phimtop.net###player_message
 ||i.imgur.com^*.gif$domain=phimtop.net
-! 6,
+! 6,BiChill.tv, MotChill.net
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
 ! END GROUP
