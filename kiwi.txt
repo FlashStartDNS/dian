@@ -1,8 +1,8 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
-! Number of entries: 236
+! Number of entries: 237
 ! Group1: Novel #L35
-! Group2: Truyen #L53
+! Group2: Truyen #L59
 ! Group3: HoatHinh #L308
 ! Group4: News #L159
 ! Group5: Phim #L256
@@ -57,9 +57,11 @@ wap.ibiquge.la###strl
 ||banyueya.top/bkk.html
 
 ! GROUP_Truyen
-! 1, fastscans.net/ 28-5-2024
+! 1,FastScans.net/ 28-5-2024
 ||s1.fastscans.net/shopee/product*.jpg$image
-! 2, NetTruyenaa.com/ 06-7-2024
+! 2,NetTruyenLL.com/ 21-7-2024
+nettruyenll.com##.ads_insert_shop
+! 3,NetTruyenAA.com/ 06-7-2024
 ||ads.mxhnkn.pro/popup/popup.js$script
 ||greendragonworld.pro^
 ! 3, NetTruyen.com/ 03-3-2023
