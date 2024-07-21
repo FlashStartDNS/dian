@@ -1,12 +1,13 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
-! Number of entries: 240
-! Group1: Novel #L35
-! Group2: Truyen #L59
-! Group3: HoatHinh #L308
-! Group4: News #L159
-! Group5: Phim #L274
-! Group6: XXX #L338
+! Number of entries: 241
+! Group_Novel #L35
+! Group_Truyen #L59
+! Group_HENTAI #129
+! Group_HoatHinh #L308
+! Group_News #L159
+! Group_Phim #L274
+! Group_XXX #L338
 
 ! Chung rule
 /wp-content/uploads/202*/*/*.gif$domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
@@ -64,7 +65,9 @@ nettruyenll.com##.ads_insert_shop
 ! 3,NetTruyenAA.com/ 06-7-2024
 ||ads.mxhnkn.pro/popup/popup.js$script
 ||greendragonworld.pro^
-! 3, NetTruyen.com/ 03-3-2023
+! 4,NhatTruyenvn.com/ 27-6-2024
+nhattruyenvn.com###myPopup-game
+! 5,NetTruyen.com/ 03-3-2023
 ||phumsise.com^
 ||st.nettruyenbing.com/data/sites/1/banner/
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
@@ -72,32 +75,32 @@ nettruyenll.com##.ads_insert_shop
 ||bp.blogspot.com^$domain=www.nettruyenff.com
 ||facebook.net^$domain=nettruyenff.com
 nettruyenff.com##[class^="mce-container mce-flow-layout-item mce-first mce-last mce-btn-group"]
-! 4, nettruyenxx.com/ 08-5-2024
+! 6,NetTruyenXX.com/ 08-5-2024
 ! phimmoiaa.com
 ||hello888999.com^
 ||66hello88.com^
-! 5, nettruyenuss.com (fake) 17-5-2024
+! 7,NetTruyenUss.com (fake) 17-5-2024
 ||kftytkhurx.xyz^
-! 6, TuTienTruyen 07-11-2023
+! 8,TuTienTruyen 07-11-2023
 tutientruyen.com###popup_banner_beta
-! 7, TruyenQQviet 19-7-2024
+! 9,TruyenqqViet.com/ 19-7-2024
 truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
 truyenqqpro.com##div[id^="image_popup_"]
 ||truyenvua.xyz/qc-new/*$image
 ||aqnobnhcod.com^
-! 8, VlogTruyen
+! 10,VlogTruyen
 vlogtruyen2.net##.fancybox-skin
 vlogtruyen2.net##.relate-manga.box-dinh-ky
 vlogtruyen2.net##.mobile-catfish
 vlogtruyen2.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
 ||cdn.vlogtruyen.net/cdn/chapter/2021/11/05/0567224862_Output3_015.jpg$image
 ||vlognovel.com/storage/photos/61603cb0e0e8f85708010e39/PR%20Nh%C3%B3m,%20Page/2021-12-21_081051.jpg$image
-! 9, Pops.vn (2023-08-19)
+! 11,Pops.vn/ 19-8-2023
 ||cdn.popsww.com/popsapp/static/pops-video-v1.mp4$media
 pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
 ! Rule bên dưới làm không xem được video ở kids.pops.vn
 !pops.vn##.wrapper-videojs_popsVideo__tuLfR.vjs-root-dom
-! 10, Newtoki 13-6-2024
+! 12,NewToki 13-6-2024
 /tokinbtoki/*.gif
 ||newtoki.help/banner/$image
 ||xn--ph1bph0az41x.org^*.gif$image
@@ -105,34 +108,35 @@ newtoki.help##.ba_test
 newtoki.help##.banner2
 newtoki.help##.banner3
 newtoki.*###hd_pops_4
-! 11, Naver Comic
+! 13,Naver Comic
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
 manga-raw.club##.adsbox
-! 12, ReaperScans.com
+! 14,ReaperScans.com
 ||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
-! 13, Reality-quest
+! 15,Reality-quest.online
 reality-quest.online##.essb_links_list
 reality-quest.online##.kofi-button
-! 14, QuestSupremacy.com
+! 16,QuestSupremacy.com
 ||ak.torioluor.com/afu.php
 mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
-! 15, Mangabtt.com/ 2023-11-22
+! 17,Mangabtt.com/ 2023-11-22
 ||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
 mangabtt.com##div.reading-control
-! 16, baozimh.com/ 26-3-2024
+! 18,Baozimh.com/ 26-3-2024
 www.hbmanga.com##.comic-contain > div.mobadsq
 www.hbmanga.com###sticky_ads_frame_a
-! 17, HENTAI
+
+! Group HENTAI
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
-! 18, Sayhentai.pro (15-3-2024)
+! 1,SayHentai.pro/ 15-3-2024
 sayhentai.pro##.float-ck-center-lt
 ||sayhentai.pro/assets/css/images/bg-search.jpg$image
 ||gwemwyqugg.com^
 ||uk88.com^
 ||acmorhmiwtit.com^
-! 19,Sayhentai.fun/ 2023-12-27
+! 2,SayHentai.fun/ 2023-12-27
 ||039vnd.com^
 ||039vip0.com^
 ||rw8899.com^
@@ -145,11 +149,11 @@ sayhentai.pro##.ads_popup.hidden-ads
 ||vipads.live^
 ||vipads.cc^
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
-! 20, Lxmanga.net/ 2023-07-27
+! 3,LxManga.net/ 2023-07-27
 ||l.linklyhq.com/l/1oOoo
 ||xemphim8k.com^$third-party
 ||bongda12h.com^$third-party
-! 21, Manhwa18.com
+! 4,Manhwa18.com
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! END_GROUP
 
