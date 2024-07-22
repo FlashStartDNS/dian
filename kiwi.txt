@@ -257,7 +257,7 @@ timki.vn##.adsJH09
 ! nếu xoá "center.player-controls-middle-core-buttons" sẽ làm mất nút fullsreen trên Firefox
 m.youtube.com##.center.player-controls-middle-core-buttons > button.icon-button:nth-of-type(1)
 m.youtube.com##button.icon-button:nth-of-type(5)
-m.youtube.com##.ytm-autonav-toggle-button-container
+!m.youtube.com##.ytm-autonav-toggle-button-container
 
 ! Reddit NSFW 01-02-2024
 ||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
