@@ -43,8 +43,8 @@ questsupremacy.com,regressorinstructionmanual.com##.code-block
 
 ! Popup Cookie https://www-bbc-com.translate.goog/vietnamese?_x_tr_sl=auto&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp 24-4-2024
 www-bbc-com.translate.goog##.eh3hs0a4.bbc-1f1v9xr
-! ##.qc (ABPVN)
-one.dash.cloudflare.com#@#.qc
+! ##.qc (ABPVN) 24-7-2024
+cloudflare.com#@#.qc
 
 ! NOVEL
 ||m.mayiwxw.com/1KHO3FxT/*$script
