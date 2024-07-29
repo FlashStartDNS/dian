@@ -2,33 +2,33 @@
 # Description: The list contains incorrectly blocked domains that limit functionality
 nextdns.io
 cloudflare-gateway.com
-# phim.nguonc.com
+#1 phim.nguonc.com
 phim.nguonc.com
 embed.streamc.xyz
 sv1.freedoihoiccgi.top
 sv1.streamvda.top
-# Xiaomi device updates
+#2 Xiaomi device updates
 update.intl.miui.com
-# Xiaomi USB debugging (Security settings)
+#3 Xiaomi USB debugging (Security settings)
 srv.sec.intl.miui.com
-# Khảo sát Xiaomi
+#4 Khảo sát Xiaomi
 m.beehive.in.intl.miui.com
-# Download Edge Android (2023-11-24)
+#5 Download Edge Android (2023-11-24)
 app.adjust.com
-# Download LienQuan Mobile
+#6 Download LienQuan Mobile
 app.appsflyer.com
-# Shopee load ảnh 2023-11-19
+#7 Shopee load ảnh 2023-11-19
 log-collector.shopee.vn
-# ZaloPay Android 2023-11-13
+#8 ZaloPay Android 2023-11-13
 //analytics.google.com
 //www.googletagmanager.com
-# Bing-News image
+#9 Bing-News image
 //img-s-msn-com.akamaized.net
 //c.msn.com
-# Hagezi Block List 17-6-2024
+#10 Hagezi Block List 17-6-2024
 ohay.tv
 danchimviet.info
-# Abused TLDs (20-7-2024)
+#11 Abused TLDs (20-7-2024)
 xxphim.name
 xxphim.best
 xxphim.win
@@ -47,14 +47,14 @@ phimsexhay.bio
 hentaivn.bio
 viet69.hair
 viet69.name
-# Cloudflare "DGA Domains" 24-7-2024
+#12 Cloudflare "DGA Domains" 24-7-2024
 hhkungfu.app
 hh3dhay.xyz
 ihentai.bio
-# Cloudflare "Cryptomining" 09-6-2024
+#13 Cloudflare "Cryptomining" 09-6-2024
 www.okx.com
-# Cloudflare "Newly Seen Domains" 29-7-2024
+#14 Cloudflare "Newly Seen Domains" 29-7-2024
 nettruyenll.com
 hentaivn.homes
-# HaGeZi's Gambling Blocklist
+#15 HaGeZi's Gambling Blocklist
 xoso.mobi
