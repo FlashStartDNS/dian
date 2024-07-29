@@ -32,6 +32,7 @@ danchimviet.info
 xxphim.name
 xxphim.best
 xxphim.win
+xxphim.mom
 medium.rip
 fuhuzz.rip
 frame.work
@@ -40,7 +41,6 @@ objection.lol
 rphang.men
 sieudamtv.men
 cliphotvn.mom
-xxphim.mom
 animehay.bio
 meomeotv.bio
 phimsexhay.bio
