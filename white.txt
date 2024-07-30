@@ -11,24 +11,24 @@ sv1.streamvda.top
 update.intl.miui.com
 #3 Xiaomi USB debugging (Security settings)
 srv.sec.intl.miui.com
-#4 Khảo sát Xiaomi
+#4, Khảo sát Xiaomi
 m.beehive.in.intl.miui.com
-#5 Download Edge Android (2023-11-24)
+#5, Download Edge Android
 app.adjust.com
 #6 Download LienQuan Mobile
 app.appsflyer.com
-#7 Shopee load ảnh 2023-11-19
+#7, Shopee load ảnh
 log-collector.shopee.vn
-#8 ZaloPay Android 2023-11-13
+#8, ZaloPay Android
 //analytics.google.com
 //www.googletagmanager.com
-#9 Bing-News image
+#9, Bing-News image
 //img-s-msn-com.akamaized.net
 //c.msn.com
-#10 Hagezi Block List 17-6-2024
+#10, Hagezi Block List
 ohay.tv
 danchimviet.info
-#11 Abused TLDs (20-7-2024)
+#11, TLDs
 xxphim.name
 xxphim.best
 xxphim.win
@@ -47,13 +47,13 @@ phimsexhay.bio
 hentaivn.bio
 viet69.hair
 viet69.name
-#12 Cloudflare "DGA Domains" 24-7-2024
+#12 Cloudflare DGA Domains
 hhkungfu.app
 hh3dhay.xyz
 ihentai.bio
-#13 Cloudflare "Cryptomining" 09-6-2024
+#13 Cloudflare Cryptomining
 www.okx.com
-#14 Cloudflare "Newly Seen Domains" 29-7-2024
+#14 Cloudflare Newly Seen Domains
 nettruyenll.com
 zhentaivnz.cc
 hentaivn.homes
@@ -61,5 +61,6 @@ hentaivn.forum
 cliphotvn1.cc
 dualeotruyenbi.com
 khotruyentranh.pro
+teamlanhlung.blog
 #15 HaGeZi's Gambling Blocklist
 xoso.mobi
