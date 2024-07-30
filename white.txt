@@ -49,6 +49,7 @@ viet69.hair
 viet69.name
 #12 Cloudflare DGA Domains
 hhkungfu.app
+hhchina.app
 hh3dhay.xyz
 ihentai.bio
 #13 Cloudflare Cryptomining
