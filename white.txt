@@ -28,6 +28,7 @@ log-collector.shopee.vn
 #10, Hagezi Block List
 ohay.tv
 danchimviet.info
+pagead2.googlesyndication.com
 #11, TLDs
 xxphim.name
 xxphim.best
