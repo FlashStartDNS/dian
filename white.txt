@@ -73,5 +73,7 @@ dualeotruyenbi.com
 quatvn.baby
 teamlanhlung.blog
 themjav.com
-#15 HaGeZi's Gambling Blocklist
+#15, Cloudflare Phishing
+cuutruyen.net
+#16 HaGeZi's Gambling Blocklist
 xoso.mobi
