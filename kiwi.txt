@@ -407,6 +407,10 @@ meomeotv.pro##.ads-inside-video
 ||sexsub.baby/_1/i9b.gif$image
 ! 16, SexHD.javhay.click/ 23-7-2024
 ||sexsub.guru/_1/88vn.gif$image
+! 17, SexHD89.com/ 30-7-2024
+!||demo123.info/vip123/250.html$subdocument
+||demo123.info/vip123/
+||demo123.info/preload/vip.js$script,domain=sexhd89.com
 ! END
 
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
