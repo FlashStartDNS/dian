@@ -359,9 +359,9 @@ lonxxx.com,pheclip.com,pheclip.net,chichnhau.me###popup
 /aas/r45d/vki/*$script,redirect-rule=noop.js
 ! 4, VlxxTube.pics, Viet69.homes 31-7-2024
 ||spankbangdl.com^$domain=vlxxtube.pics|viet69.homes
-! 5, Xsub.cc (2023-10-30), xsub.tv (2024-02-06)
-||xsub.tv/js/xsub_pu_25.js$xhr,1p
-||ww1.javbabe.net/x1x/*.html$subdocument
+! 5, Viet69.hair 17-6-2024
+viet69.hair###mp-preload-pp-overlay
+||telegra.ph/file/8cb17c7560cfcb6ab1957.gif$image
 ! 6, Tuoi69
 tuoi69.click##body > .float-ckgiua
 ||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
@@ -400,10 +400,13 @@ meomeotv.pro##.ads-inside-video
 ||a1.meomeotv.biz/mmtv/image/c6425dded6173147210b6a6e79ad74dadc5afdeb.webp$image
 ||a1.meomeotv.biz/mmtv/image/2b97eea091acd409c0a3d946d4349018805ae6ca.webp$image
 ||a1.meomeotv.biz/mmtv/image/473109878aaa2c940ecae015b4660a29cddd609e.webp$image
-! 14, Sexhd.javhay.click/ 23-7-2024
-||sexsub.guru/_1/88vn.gif$image
+! 14, Xsub.cc (2023-10-30), xsub.tv (2024-02-06)
+||xsub.tv/js/xsub_pu_25.js$xhr,1p
+||ww1.javbabe.net/x1x/*.html$subdocument
 ! 15, SexSub.guru/ 23-7-2024
 ||sexsub.baby/_1/i9b.gif$image
+! 16, SexHD.javhay.click/ 23-7-2024
+||sexsub.guru/_1/88vn.gif$image
 ! END
 
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
