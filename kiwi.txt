@@ -355,21 +355,23 @@ animetvn.com##.shareUrl, .thongbao20
 ||xxxads.info^$image
 ! 2, 04-3-2024
 lonxxx.com,pheclip.com,pheclip.net,chichnhau.me###popup
-! 3, vlxx.cam 2023-11-13 (uBlock filters – Ads)
+! 3, Vlxx.cam 2023-11-13 (uBlock filters – Ads)
 /aas/r45d/vki/*$script,redirect-rule=noop.js
-! 4, xsub.cc (2023-10-30), xsub.tv (2024-02-06)
+! 4, VlxxTube.pics, Viet69.homes 31-7-2024
+||spankbangdl.com^$domain=vlxxtube.pics|viet69.homes
+! 5, Xsub.cc (2023-10-30), xsub.tv (2024-02-06)
 ||xsub.tv/js/xsub_pu_25.js$xhr,1p
 ||ww1.javbabe.net/x1x/*.html$subdocument
-! 5. Tuoi69
+! 6, Tuoi69
 tuoi69.click##body > .float-ckgiua
 ||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
-! 6, ThienVaDia.vip
+! 7, ThienVaDia.vip
 thienvadia.vip##.js-notices.notices--block.notices
-! 7, MePhim18.com/ 2023-01-05
+! 8, MePhim18.com/ 2023-01-05
 mephim18.com###backgroundPopupp
 ||media.discordapp.net/attachments/918179438494101527/1*.gif$image,domain=mephim18.com
 ||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
-! 8, Heovl.best, Vlxx.sale 12-6-2024
+! 9, Heovl.best, Vlxx.sale 29-7-2024
 /wp-content/uploads/2024/05/I9-popup-400x300-1.png$image,domain=heovl.best|vlxx.sale
 /wp-content/uploads/pum/pum-site-scripts.js$script,domain=heovl.best|vlxx.sale
 ||heovl.best/wp-content/uploads/2024/07/88-go-.com728-90.gif$image
@@ -381,16 +383,16 @@ mephim18.com###backgroundPopupp
 heovl.best,vlxx.sale##.video-js.tvc-video
 ||vjs.zencdn.net^$domain=heovl.best
 ||code.jquery.com^$domain=heovl.best
-! 9, PublicAgent.com
+! 10, PublicAgent.com
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 www.publicagent.com###root > .jzQxQF.sc-yo7o1v-0 > div.hAewsL.sc-1fep8qc-0 > .dXXztf.sc-1deoyo3-0
-! 10, FapDiner.com/ 21-7-2024
+! 11, FapDiner.com/ 21-7-2024
 ||arzruqmougxvdv.com^
-! 11, TheFap.net/ 2023-12-30
+! 12, TheFap.net/ 2023-12-30
 thefap.net###popupContactU
-! 12, MeoMeotv.pro/ 07-6-2024
+! 13, MeoMeotv.pro/ 07-6-2024
 sancoxanh.com
 az888v17.com
 meomeotv.pro##.popUpBannerBox
@@ -398,9 +400,9 @@ meomeotv.pro##.ads-inside-video
 ||a1.meomeotv.biz/mmtv/image/c6425dded6173147210b6a6e79ad74dadc5afdeb.webp$image
 ||a1.meomeotv.biz/mmtv/image/2b97eea091acd409c0a3d946d4349018805ae6ca.webp$image
 ||a1.meomeotv.biz/mmtv/image/473109878aaa2c940ecae015b4660a29cddd609e.webp$image
-! 13, Sexhd.javhay.click/ 23-7-2024
+! 14, Sexhd.javhay.click/ 23-7-2024
 ||sexsub.guru/_1/88vn.gif$image
-! 14, SexSub.guru/ 23-7-2024
+! 15, SexSub.guru/ 23-7-2024
 ||sexsub.baby/_1/i9b.gif$image
 ! END
 
