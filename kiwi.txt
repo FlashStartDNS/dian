@@ -411,6 +411,11 @@ meomeotv.pro##.ads-inside-video
 !||demo123.info/vip123/250.html$subdocument
 ||demo123.info/vip123/
 ||demo123.info/preload/vip.js$script,domain=sexhd89.com
+! 18, Vn.SexVietNam.Sex/ 01-8-2024
+||vn.sexvietnam.sex/ads/ads.js$script
+! 19, ClipHotVn1.cc 31-7-2024
+||cliphotvn1.cc/wp-content/uploads/2024/07/*.gif$image
+||cliphotvn1.cc/wp-content/uploads/2024/07/XEM-BONG-DA-TRUC-TIEP-FULL-HD.png$image
 ! END
 
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
