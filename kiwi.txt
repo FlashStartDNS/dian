@@ -7,7 +7,7 @@
 ! Group_HoatHinh #L308
 ! Group_News #L181
 ! Group_Phim #L278
-! Group_XXX #L349
+! Group_XXX #L353
 
 ! Chung rule
 /wp-content/uploads/202*/*/*.gif$domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
@@ -369,16 +369,28 @@ thienvadia.vip##.js-notices.notices--block.notices
 mephim18.com###backgroundPopupp
 ||media.discordapp.net/attachments/918179438494101527/1*.gif$image,domain=mephim18.com
 ||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
-! 8,PublicAgent.com
+! 8, Heovl.best, Vlxx.sale 12-6-2024
+/wp-content/uploads/2024/05/I9-popup-400x300-1.png$image,domain=heovl.best|vlxx.sale
+/wp-content/uploads/pum/pum-site-scripts.js$script,domain=heovl.best|vlxx.sale
+||heovl.best/wp-content/uploads/2024/07/88-go-.com728-90.gif$image
+||154.82.109.135^
+||23.224.188.31^
+||i9520.com^
+||faptvxx.com^
+@@||bf.333xbet.com^$media,domain=heovl.best|vlxx.sale
+heovl.best,vlxx.sale##.video-js.tvc-video
+||vjs.zencdn.net^$domain=heovl.best
+||code.jquery.com^$domain=heovl.best
+! 9, PublicAgent.com
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 www.publicagent.com###root > .jzQxQF.sc-yo7o1v-0 > div.hAewsL.sc-1fep8qc-0 > .dXXztf.sc-1deoyo3-0
-! 9,FapDiner.com/ 21-7-2024
+! 10, FapDiner.com/ 21-7-2024
 ||arzruqmougxvdv.com^
-! 10,TheFap.net/ 2023-12-30
+! 11, TheFap.net/ 2023-12-30
 thefap.net###popupContactU
-! 11,MeoMeotv.pro/ 07-6-2024
+! 12, MeoMeotv.pro/ 07-6-2024
 sancoxanh.com
 az888v17.com
 meomeotv.pro##.popUpBannerBox
@@ -386,9 +398,9 @@ meomeotv.pro##.ads-inside-video
 ||a1.meomeotv.biz/mmtv/image/c6425dded6173147210b6a6e79ad74dadc5afdeb.webp$image
 ||a1.meomeotv.biz/mmtv/image/2b97eea091acd409c0a3d946d4349018805ae6ca.webp$image
 ||a1.meomeotv.biz/mmtv/image/473109878aaa2c940ecae015b4660a29cddd609e.webp$image
-! 12,Sexhd.javhay.click/ 23-7-2024
+! 13, Sexhd.javhay.click/ 23-7-2024
 ||sexsub.guru/_1/88vn.gif$image
-! 13,Sexsub.guru/ 23-7-2024
+! 14, SexSub.guru/ 23-7-2024
 ||sexsub.baby/_1/i9b.gif$image
 ! END
 
