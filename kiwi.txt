@@ -10,7 +10,7 @@
 ! Group_XXX #L353
 
 ! Chung rule
-/wp-content/uploads/202*/*/*.gif$domain=tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
+/wp-content/uploads/202*/*/*.gif$domain=hentai-vn.lol|tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=chichnhau.me|lonxxx.com|pheclip.net|sayhentai.pro
 ||static.xx.fbcdn.net^$domain=nettruyenff.com|nettruyenee.com|nettruyenbb.com|nettruyenss.com|nettruyenclub.com|sayhentai.pro
 ||facebook.com^$domain=nettruyenff.com|nettruyenee.com|nettruyenbb.com|nettruyenss.com|sayhentai.pro
