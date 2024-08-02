@@ -212,13 +212,13 @@ getdroidtips.com##.ai-viewport-4.ai-viewport-3.code-block
 ! 9, Android Police (22-2-2024)
 www.androidpolice.com##.affiliate-sponsored
 www.androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
-! 10, ChromeStory
+! 10, ChromeStory.com
 chromestory.com##.widget-area.custom-widget
-! 11, ChromeUnBoxed
+! 11, ChromeUnBoxed.com
 chromeunboxed.com##.desktopHeaderBanner
 chromeunboxed.com##.code-block-8.code-block
 chromeunboxed.com##.crp_related_block.crp_related
-! 12, TheNextWeb
+! 12, TheNextWeb.com
 thenextweb.com##.tnw-ad-wrapper
 thenextweb.com##.lg\:hidden.c-share
 
@@ -228,10 +228,13 @@ gocmod.com##.ya-share2_inited.ya-share2
 forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
 happymoddownload.com##.ad-wap
 
+! Hinative.com
 hinative.com##.active.mod_banner_app_download_sticky_button
 hinative.com##.mod_ads_balloon.chat_content_wrapper
+! Topicanative.edu.vn
 topicanative.edu.vn##.sgpb-popup-dialog-main-div-wrapper
 topicanative.edu.vn##.sgpb-popup-overlay.sgpb-theme-1-overlay
+
 dantri.com.vn###tpmInpageContainer
 thethao247.vn##.explus_related_1404022217_left.explus_related_1404022217.expNoEdit
 
@@ -255,11 +258,9 @@ mifirm.net##.bnud.holder
 timki.vn##.adsJH09
 ||page.widget.zalo.me/$subdocument,domain=didongviet.vn
 
-! 2023-11-03 YouTube Mobile
-! nếu xoá "center.player-controls-middle-core-buttons" sẽ làm mất nút fullsreen trên Firefox
-m.youtube.com##.center.player-controls-middle-core-buttons > button.icon-button:nth-of-type(1)
-m.youtube.com##button.icon-button:nth-of-type(5)
-!m.youtube.com##.ytm-autonav-toggle-button-container
+! YouTube Mobile 03-8-2024
+m.youtube.com##.modern-tap-target-ui.center.player-controls-middle-core-buttons > div:nth-of-type(1)
+m.youtube.com##.modern-tap-target-ui.center.player-controls-middle-core-buttons > div:nth-of-type(3)
 
 ! Reddit NSFW 01-02-2024
 ||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
