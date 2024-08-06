@@ -51,6 +51,7 @@ viet69.hair
 viet69.name
 viet69.homes
 #12 Cloudflare DGA Domains
+timefarm.app
 hhkungfu.app
 hhchina.app
 hh3dhay.xyz
