@@ -1,35 +1,36 @@
 # Title: DNS Allowlist
-# Description: The list contains incorrectly blocked domains that limit functionality
 nextdns.io
 cloudflare-gateway.com
-#1 phim.nguonc.com
+#1 YouTube web không load video
+jnn-pa.googleapis.com
+#2 phim.nguonc.com
 phim.nguonc.com
 embed.streamc.xyz
 sv1.freedoihoiccgi.top
 sv1.streamvda.top
-#2 Xiaomi device updates
+#3 Xiaomi device updates
 update.intl.miui.com
-#3 Xiaomi USB debugging (Security settings)
+#4 Xiaomi USB debugging (Security settings)
 srv.sec.intl.miui.com
-#4, Khảo sát Xiaomi
+#5, Khảo sát Xiaomi
 m.beehive.in.intl.miui.com
-#5, Download Edge Android
+#6, Download Edge Android
 app.adjust.com
-#6 Download LienQuan Mobile
+#7, Download LienQuan Mobile
 app.appsflyer.com
-#7, Shopee load ảnh
+#8, Shopee load ảnh
 log-collector.shopee.vn
-#8, ZaloPay Android
+#9, ZaloPay Android
 //analytics.google.com
 //www.googletagmanager.com
-#9, Bing-News image
+#10, Bing-News image
 //img-s-msn-com.akamaized.net
 //c.msn.com
-#10, Hagezi Block List
+#11, Hagezi Block List
 ohay.tv
 danchimviet.info
 pagead2.googlesyndication.com
-#11, TLDs
+#12, TLDs
 xxphim.name
 xxphim.best
 xxphim.win
@@ -50,16 +51,16 @@ hentaivn.bio
 viet69.hair
 viet69.name
 viet69.homes
-#12 Cloudflare DGA Domains
+#13 Cloudflare DGA Domains
 timefarm.app
 hhkungfu.app
 hhchina.app
 hh3dhay.xyz
 ihentai.bio
 truyenhdx.com
-#13 Cloudflare Cryptomining
+#14 Cloudflare Cryptomining
 www.okx.com
-#14 Cloudflare Newly Seen Domains
+#15 Cloudflare Newly Seen Domains
 fuhuzz.me
 nettruyenll.com
 i2.netcdn.one
@@ -88,7 +89,7 @@ teamlanhlung.blog
 themjav.com
 thapcam22.net
 xempire.io
-#15, Cloudflare Phishing
+#16, Cloudflare Phishing
 cuutruyen.net
-#16 HaGeZi's Gambling Blocklist
+#17, HaGeZi's Gambling Blocklist
 xoso.mobi
