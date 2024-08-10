@@ -91,6 +91,9 @@ teamlanhlung.blog
 themjav.com
 thapcam22.net
 xempire.io
+# https://nhattruyenvn.com/
+ddntcthcd.com
+kcgsbok.com
 #16, Cloudflare Phishing
 cuutruyen.net
 #17, HaGeZi's Gambling Blocklist
