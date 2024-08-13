@@ -19,6 +19,7 @@ questsupremacy.com,regressorinstructionmanual.com##.code-block
 ! voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-chromium.682181/post-32472237
 ||polyfill.io^
 
+||shopee.vn^$doc
 ||shope.ee^
 ||s.shopee.vn^
 # toptruyenii.online/ 03-6-2024
