@@ -206,6 +206,8 @@ phimtop.net###player_message
 ! 8, BiChill.tv, MotChill.net
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
+! MotChillTvn.com/ 06-8-2024
+||raw.githubusercontent.com/mrcotb/aadriver/main/*new-607x75.gif$image
 
 ! TrueCaller (2024-01-21)
 www.truecaller.com##.left-0.top-0.z-1000.h-full.w-full.p-4.justify-center.items-center.flex.fixed.modal
