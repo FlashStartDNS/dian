@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
 ! Number of entries: 243
 ! Group_Novel #L35
-! Group_Truyen #L59
+! Group_Truyen #L60
 ! Group_HENTAI #129
 ! Group_HoatHinh #L160
 ! Group_News #L181
@@ -95,7 +95,9 @@ vlogtruyen2.net##.mobile-catfish
 vlogtruyen2.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
 ||cdn.vlogtruyen.net/cdn/chapter/2021/11/05/0567224862_Output3_015.jpg$image
 ||vlognovel.com/storage/photos/61603cb0e0e8f85708010e39/PR%20Nh%C3%B3m,%20Page/2021-12-21_081051.jpg$image
-! 11, Pops.vn/ 19-8-2023
+! 11, Otakusan.net/ 13-8-2024
+otakusan.net##.vertical-banner
+! 12, Pops.vn/ 19-8-2023
 ||cdn.popsww.com/popsapp/static/pops-video-v1.mp4$media
 pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
 ! Rule bên dưới làm không xem được video ở kids.pops.vn
