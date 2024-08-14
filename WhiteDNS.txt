@@ -56,16 +56,18 @@ hentaivn.bio
 viet69.hair
 viet69.name
 viet69.homes
-#15. Cloudflare DGA Domains:
+#15. Cloudflare Phishing:
+cuutruyen.net
+#16. Cloudflare DGA Domains:
 timefarm.app
 hhkungfu.app
 hhchina.app
 hh3dhay.xyz
 ihentai.bio
 truyenhdx.com
-#15. Cloudflare Cryptomining:
+#17. Cloudflare Cryptomining:
 www.okx.com
-#16. Cloudflare Newly Seen Domains:
+#18. Cloudflare Newly Seen Domains:
 fuhuzz.me
 nettruyenll.com
 i2.netcdn.one
@@ -102,6 +104,6 @@ xempire.io
 notrolldd.cfd
 photo2010my.com
 tonza.games
-#17. https://nhattruyenvn.com/
+#19. https://nhattruyenvn.com/
 ddntcthcd.com
 kcgsbok.com
