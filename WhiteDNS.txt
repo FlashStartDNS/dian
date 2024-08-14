@@ -42,6 +42,7 @@ xxphim.name
 xxphim.win
 xxphim.mom
 medium.rip
+scribe.rip
 fuhuzz.rip
 frame.work
 elphago.work
