@@ -35,9 +35,10 @@ ohay.tv
 danchimviet.info
 pagead2.googlesyndication.com
 #14. TLDs:
-xxphim.name
-xxphim.best
+epg.best
 hentaiz.best
+xxphim.best
+xxphim.name
 xxphim.win
 xxphim.mom
 medium.rip
