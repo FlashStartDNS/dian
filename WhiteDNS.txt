@@ -1,36 +1,40 @@
 # Title: DNS Allowlist
 nextdns.io
 cloudflare-gateway.com
-#1 YouTube web không load video
+#1. YouTube web không load video:
 jnn-pa.googleapis.com
-#2 phim.nguonc.com
+#2. Telegram Game:
+sad.adsgram.ai
+#3. Phim.nguonc.com:
 phim.nguonc.com
 embed.streamc.xyz
 sv1.freedoihoiccgi.top
 sv1.streamvda.top
-#3 Xiaomi device updates
+#4. Xiaomi device updates:
 update.intl.miui.com
-#4 Xiaomi USB debugging (Security settings)
+#5. Xiaomi USB debugging (Security settings):
 srv.sec.intl.miui.com
-#5, Khảo sát Xiaomi
+#6. Khảo sát Xiaomi:
 m.beehive.in.intl.miui.com
-#6, Download Edge Android
+#7. Download Edge Android:
 app.adjust.com
-#7, Download LienQuan Mobile
+#8. Download LienQuan Mobile:
 app.appsflyer.com
-#8, Shopee load ảnh
+#9. Shopee load ảnh?
 log-collector.shopee.vn
-#9, ZaloPay Android
+#10. ZaloPay Android:
 //analytics.google.com
 //www.googletagmanager.com
-#10, Bing-News image
+#11. Bing-News image:
 //img-s-msn-com.akamaized.net
 //c.msn.com
-#11, Hagezi Block List
+#12. Hagezi Gambling Blocklist:
+xoso.mobi
+#13. Hagezi Block List:
 ohay.tv
 danchimviet.info
 pagead2.googlesyndication.com
-#12, TLDs
+#14. TLDs:
 xxphim.name
 xxphim.best
 hentaiz.best
@@ -52,16 +56,16 @@ hentaivn.bio
 viet69.hair
 viet69.name
 viet69.homes
-#13 Cloudflare DGA Domains
+#15. Cloudflare DGA Domains:
 timefarm.app
 hhkungfu.app
 hhchina.app
 hh3dhay.xyz
 ihentai.bio
 truyenhdx.com
-#14 Cloudflare Cryptomining
+#15. Cloudflare Cryptomining:
 www.okx.com
-#15 Cloudflare Newly Seen Domains
+#16. Cloudflare Newly Seen Domains:
 fuhuzz.me
 nettruyenll.com
 i2.netcdn.one
@@ -98,10 +102,6 @@ xempire.io
 notrolldd.cfd
 photo2010my.com
 tonza.games
-# https://nhattruyenvn.com/
+#17. https://nhattruyenvn.com/
 ddntcthcd.com
 kcgsbok.com
-#16, Cloudflare Phishing
-cuutruyen.net
-#17, HaGeZi's Gambling Blocklist
-xoso.mobi
