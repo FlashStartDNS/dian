@@ -40,12 +40,15 @@ questsupremacy.com,regressorinstructionmanual.com##.code-block
 
 ! Popup đăng nhập Google - 01.02.2024
 ||accounts.google.com/gsi/iframe/select$subdocument
-! Popup đăng nhập FB - 14.01.2024
 
 ! Popup Cookie "www-bbc-com.translate.goog/vietnamese?_x_tr_sl=auto&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp" 24-4-2024
 www-bbc-com.translate.goog##.eh3hs0a4.bbc-1f1v9xr
 ! ##.qc (ABPVN) 24-7-2024
 cloudflare.com#@#.qc
+
+! YouTube Mobile 15-8-2024
+!m.youtube.com##.modern-tap-target-ui.center.player-controls-middle-core-buttons > div:nth-of-type(1)
+!m.youtube.com##.modern-tap-target-ui.center.player-controls-middle-core-buttons > div:nth-of-type(3)
 
 ! NOVEL
 ||m.mayiwxw.com/1KHO3FxT/*$script
@@ -310,10 +313,6 @@ mifirm.net##.bnud.holder
 
 timki.vn##.adsJH09
 ||page.widget.zalo.me/$subdocument,domain=didongviet.vn
-
-! YouTube Mobile 03-8-2024
-m.youtube.com##.modern-tap-target-ui.center.player-controls-middle-core-buttons > div:nth-of-type(1)
-m.youtube.com##.modern-tap-target-ui.center.player-controls-middle-core-buttons > div:nth-of-type(3)
 
 ! Reddit NSFW 01-02-2024
 ||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
