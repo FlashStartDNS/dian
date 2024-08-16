@@ -71,57 +71,58 @@ hentaivn.bio
 viet69.hair
 viet69.name
 viet69.homes
-#15. Cloudflare Phishing:
-cuutruyen.net
-#16. Cloudflare DGA Domains:
+!15.1 Cloudflare Cryptomining:
+www.okx.com
+!15.2 Cloudflare DGA Domains:
 timefarm.app
 hhkungfu.app
 hhchina.app
 hh3dhay.xyz
 ihentai.bio
 truyenhdx.com
-#17. Cloudflare Cryptomining:
-www.okx.com
-#18. Cloudflare Newly Seen Domains:
+!15.3 Cloudflare Newly Seen Domains:
 fuhuzz.me
-nettruyenll.com
-i2.netcdn.one
+cliphotvn1.cc
 zhentaivnz.cc
+baotangtruyen14.com
+comic24hnn.com
+doctruyen3qviet.com
+dualeotruyenbi.com
+gocphimii.com
 hentaiayame.com
+motchilltvn.com
+nettruyenll.com
+phimhaya.com
+photo2010my.com
+sexhd89.com
+truyenqqto.com
+vlogtruyen19.com
+i2.netcdn.one
 hentaivn.homes
 hentaivn.forum
 hentai-vn.lol
 hentai18vn.pro
 hhninja6.tv
-baotangtruyen14.com
 khotruyentranh.pro
-vlogtruyen19.com
 vlxxtube.pics
 viet69net.org
 vuaphimmoi8.net
-cliphotvn1.cc
 cliphotviet.vip
-comic24hnn.com
 firecomics.org
 widgetlogic.org
-sexhd89.com
 sexvietnam.sex
-dualeotruyenbi.com
-gocphimii.com
-phimhaya.com
 phimmoichillv.net
-motchilltvn.com
 motchillj.tv
 quatvn.baby
-truyenqqto.com
 teamlanhlung.blog
 themjav.com
 thapcam22.net
 xempire.io
 notrolldd.cfd
-photo2010my.com
 tonza.games
 randomgamebot.site
-#19. https://nhattruyenvn.com/
+#15.4 Cloudflare Phishing:
+cuutruyen.net
+#16. https://nhattruyenvn.com/
 ddntcthcd.com
 kcgsbok.com
