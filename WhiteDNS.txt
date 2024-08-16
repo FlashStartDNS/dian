@@ -28,13 +28,15 @@ log-collector.shopee.vn
 #11. Bing-News image:
 //img-s-msn-com.akamaized.net
 //c.msn.com
+
 #12. Hagezi Gambling Blocklist:
 xoso.mobi
 #13. Hagezi Block List:
 ohay.tv
 danchimviet.info
 pagead2.googlesyndication.com
-#14. TLDs:
+
+#14. TLDs
 epg.best
 hentaiz.best
 xxphim.best
@@ -71,16 +73,19 @@ hentaivn.bio
 viet69.hair
 viet69.name
 viet69.homes
-!15.1 Cloudflare Cryptomining:
+
+!15. Cloudflare Cryptomining:
 www.okx.com
-!15.2 Cloudflare DGA Domains:
+
+!16. Cloudflare DGA Domains:
 timefarm.app
 hhkungfu.app
 hhchina.app
 hh3dhay.xyz
 ihentai.bio
 truyenhdx.com
-!15.3 Cloudflare Newly Seen Domains:
+
+!17. Cloudflare Newly Seen Domains:
 fuhuzz.me
 cliphotvn1.cc
 zhentaivnz.cc
@@ -98,6 +103,7 @@ photo2010my.com
 sexhd89.com
 truyenqqto.com
 vlogtruyen19.com
+dogsdrop.one
 i2.netcdn.one
 hentaivn.homes
 hentaivn.forum
@@ -122,7 +128,8 @@ xempire.io
 notrolldd.cfd
 tonza.games
 randomgamebot.site
-#15.4 Cloudflare Phishing:
+
+#18. Cloudflare Phishing:
 cuutruyen.net
 #16. https://nhattruyenvn.com/
 ddntcthcd.com
