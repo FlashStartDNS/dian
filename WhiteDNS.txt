@@ -76,7 +76,6 @@ viet69.homes
 
 !15. Cloudflare Cryptomining:
 www.okx.com
-
 !16. Cloudflare DGA Domains:
 timefarm.app
 hhkungfu.app
@@ -90,6 +89,7 @@ fuhuzz.me
 cliphotvn1.cc
 zhentaivnz.cc
 baotangtruyen14.com
+cdn.vercel-cdn.com
 comic24hnn.com
 doctruyen3qviet.com
 dualeotruyenbi.com
