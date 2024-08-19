@@ -75,26 +75,30 @@ viet69.hair
 viet69.name
 viet69.homes
 
-!15. Cloudflare Cryptomining:
+! 15. Cloudflare Cryptomining:
 www.okx.com
-!16. Cloudflare DGA Domains:
+! 16. Cloudflare DGA Domains:
 timefarm.app
 hhkungfu.app
 hhchina.app
-hh3dhay.xyz
 ihentai.bio
 truyenhdx.com
+pojokmanga.info
+hh3dhay.xyz
 
-!17. Cloudflare Newly Seen Domains:
-fuhuzz.me
+! 17. Cloudflare Newly Seen Domains:
+quatvn.baby
+teamlanhlung.blog
 2phimhay.cc
 cliphotvn1.cc
 zhentaivnz.cc
+notrolldd.cfd
 baotangtruyen14.com
 cdn.vercel-cdn.com
 comic24hnn.com
 doctruyen3qviet.com
 dualeotruyenbi.com
+emperormanga.com
 gocphimii.com
 hentaiayame.com
 motchilltvn.com
@@ -105,31 +109,32 @@ photo2010my.com
 sexhd89.com
 truyenqqto.com
 vlogtruyen19.com
+www.ruya-manga.com
+themjav.com
+hentaivn.forum
+tonza.games
+hentaivn.homes
+xempire.io
+hentai-vn.lol
+fuhuzz.me
+zinchanmanga.mobi
+manga-sehri.net
+phimmoichillv.net
+thapcam22.net
+vuaphimmoi8.net
 dogsdrop.one
 i2.netcdn.one
-hentaivn.homes
-hentaivn.forum
-hentai-vn.lol
+firecomics.org
+viet69net.org
+widgetlogic.org
 hentai18vn.pro
-hhninja6.tv
 khotruyentranh.pro
 vlxxtube.pics
-viet69net.org
-vuaphimmoi8.net
-cliphotviet.vip
-firecomics.org
-widgetlogic.org
 sexvietnam.sex
-phimmoichillv.net
-motchillj.tv
-quatvn.baby
-teamlanhlung.blog
-themjav.com
-thapcam22.net
-xempire.io
-notrolldd.cfd
-tonza.games
 randomgamebot.site
+hhninja6.tv
+motchillj.tv
+cliphotviet.vip
 
 #18. Cloudflare Phishing:
 cuutruyen.net
