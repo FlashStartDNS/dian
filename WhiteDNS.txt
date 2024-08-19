@@ -54,6 +54,7 @@ elphago.work
 frame.work
 koding.work
 searx.work
+skymanga.work
 objection.lol
 manhwas.men
 rphang.men
@@ -86,6 +87,7 @@ truyenhdx.com
 
 !17. Cloudflare Newly Seen Domains:
 fuhuzz.me
+2phimhay.cc
 cliphotvn1.cc
 zhentaivnz.cc
 baotangtruyen14.com
