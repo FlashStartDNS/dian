@@ -86,9 +86,10 @@ truyenhdx.com
 pojokmanga.info
 hh3dhay.xyz
 
-! 17. Cloudflare Not-in-Categories:
+! 17. Cloudflare 0 categories:
 cosmo-miner.com
 onetime.dog
+miniapp.tonix.pro
 ! 18. Cloudflare Newly Seen Domains:
 quatvn.baby
 teamlanhlung.blog
