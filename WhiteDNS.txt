@@ -89,7 +89,7 @@ hh3dhay.xyz
 ! 17. Cloudflare 0 categories:
 cosmo-miner.com
 onetime.dog
-miniapp.tonix.pro
+tonix.pro
 ! 18. Cloudflare Newly Seen Domains:
 quatvn.baby
 teamlanhlung.blog
