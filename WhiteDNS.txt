@@ -86,7 +86,10 @@ truyenhdx.com
 pojokmanga.info
 hh3dhay.xyz
 
-! 17. Cloudflare Newly Seen Domains:
+! 17. Cloudflare Not-in-Categories:
+cosmo-miner.com
+onetime.dog
+! 18. Cloudflare Newly Seen Domains:
 quatvn.baby
 teamlanhlung.blog
 2phimhay.cc
@@ -138,8 +141,8 @@ motchillj.tv
 cliphotviet.vip
 truyenhentaivn.xyz
 
-#18. Cloudflare Phishing:
+#19. Cloudflare Phishing:
 cuutruyen.net
-#16. https://nhattruyenvn.com/
+#20. https://nhattruyenvn.com/
 ddntcthcd.com
 kcgsbok.com
