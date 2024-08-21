@@ -99,6 +99,7 @@ tonix.pro
 twa-api.cdn-service.site
 twa-cdn.top
 sf-api-gateway-prod.hydrisapps.co.uk
+img.imgxyzz.xyz
 
 ! 18. Cloudflare Newly Seen Domains:
 quatvn.baby
