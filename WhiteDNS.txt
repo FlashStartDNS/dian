@@ -96,6 +96,7 @@ djdog.io
 nchcccl.pro
 nettruyenupp.com
 tonix.pro
+twa-api.cdn-service.site
 sf-api-gateway-prod.hydrisapps.co.uk
 
 ! 18. Cloudflare Newly Seen Domains:
