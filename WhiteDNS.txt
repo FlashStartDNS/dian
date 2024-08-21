@@ -103,6 +103,7 @@ nettruyenupp.com
 nhattruyenss.net
 tonix.pro
 twa-api.cdn-service.site
+bimg.maxcdn.top
 twa-cdn.top
 sf-api-gateway-prod.hydrisapps.co.uk
 img.imgxyzz.xyz
