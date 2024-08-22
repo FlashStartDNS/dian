@@ -109,6 +109,7 @@ nchcccl.pro
 tonix.pro
 toptruyenvn.pro
 twa-api.cdn-service.site
+statics.voz.tech
 bimg.maxcdn.top
 twa-cdn.top
 sf-api-gateway-prod.hydrisapps.co.uk
