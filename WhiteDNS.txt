@@ -77,9 +77,10 @@ viet69.hair
 viet69.name
 viet69.homes
 
-! 15. Cloudflare Cryptomining:
+! Cloudflare
+! 1. Cryptomining:
 www.okx.com
-! 16. Cloudflare DGA Domains:
+! 2. DGA Domains:
 timefarm.app
 hhkungfu.app
 hhchina.app
@@ -87,8 +88,7 @@ ihentai.bio
 truyenhdx.com
 pojokmanga.info
 hh3dhay.xyz
-
-! 17. Cloudflare uncategorized:
+! 3. Uncategorized:
 ntcdn242.wibu.asia
 ccmmh.biz
 7mvn4.com
@@ -102,6 +102,8 @@ onetime.dog
 i7.bumcheo.info
 i10-1.bumcheo4.info
 djdog.io
+getgems.io
+tonapi.io
 nhattruyenss.net
 img2.desu.one
 doctruyen3qtv.pro
@@ -109,6 +111,7 @@ nchcccl.pro
 tonix.pro
 toptruyenvn.pro
 twa-api.cdn-service.site
+ton.space
 statics.voz.tech
 bimg.maxcdn.top
 twa-cdn.top
@@ -118,8 +121,7 @@ img.imgxyzz.xyz
 s2.anhvip.xyz
 s10.anhvip.xyz
 s11.anhvip.xyz
-
-! 18. Cloudflare Newly Seen Domains:
+! 4. Newly Seen Domains:
 quatvn.baby
 teamlanhlung.blog
 2phimhay.cc
@@ -172,9 +174,9 @@ hhninja6.tv
 motchillj.tv
 cliphotviet.vip
 truyenhentaivn.xyz
-
-#19. Cloudflare Phishing:
+! 5. Phishing:
 cuutruyen.net
-#20. https://nhattruyenvn.com/
+
+! https://nhattruyenvn.com/
 ddntcthcd.com
 kcgsbok.com
