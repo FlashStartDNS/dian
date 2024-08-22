@@ -94,21 +94,24 @@ cosmo-miner.com
 hinhhinh.com
 i7.xem-truyen.com
 i8.xem-truyen.com
+nettruyenupp.com
 p0.ntcdntempu26.com
 onetime.dog
 i7.bumcheo.info
 i10-1.bumcheo4.info
 djdog.io
-nchcccl.pro
-nettruyenupp.com
 nhattruyenss.net
 img2.desu.one
+nchcccl.pro
 tonix.pro
+toptruyenvn.pro
 twa-api.cdn-service.site
 bimg.maxcdn.top
 twa-cdn.top
 sf-api-gateway-prod.hydrisapps.co.uk
 img.imgxyzz.xyz
+s2.anhvip.xyz
+s10.anhvip.xyz
 
 ! 18. Cloudflare Newly Seen Domains:
 quatvn.baby
