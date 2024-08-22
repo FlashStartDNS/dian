@@ -99,6 +99,7 @@ i7.xem-truyen.com
 i8.xem-truyen.com
 nettruyenupp.com
 p0.ntcdntempu26.com
+rethinkdns.com
 onetime.dog
 ldx.fi
 i7.bumcheo.info
