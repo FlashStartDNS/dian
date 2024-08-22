@@ -36,10 +36,11 @@ ohay.tv
 danchimviet.info
 pagead2.googlesyndication.com
 
-#14. TLDs
+# Top-level domains (TLDs)
 epg.best
 hentaiz.best
 xxphim.best
+7mcn.bid
 desu.win
 xxphim.win
 xxphim.mom
@@ -90,6 +91,7 @@ hh3dhay.xyz
 ! 17. Cloudflare uncategorized:
 ntcdn242.wibu.asia
 ccmmh.biz
+7mvn4.com
 cosmo-miner.com
 hinhhinh.com
 i7.xem-truyen.com
@@ -109,6 +111,7 @@ twa-api.cdn-service.site
 bimg.maxcdn.top
 twa-cdn.top
 sf-api-gateway-prod.hydrisapps.co.uk
+vungoi.vn
 img.imgxyzz.xyz
 s2.anhvip.xyz
 s10.anhvip.xyz
