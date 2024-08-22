@@ -124,6 +124,7 @@ twa-cdn.top
 sf-api-gateway-prod.hydrisapps.co.uk
 vungoi.vn
 img.imgxyzz.xyz
+img04.imgfx04.xyz
 s2.anhvip.xyz
 s10.anhvip.xyz
 s11.anhvip.xyz
