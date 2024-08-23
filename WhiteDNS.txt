@@ -108,7 +108,7 @@ i7.bumcheo.info
 i10-1.bumcheo4.info
 djdog.io
 getgems.io
-restaurant-v2.piggypiggy.io
+piggypiggy.io
 tonapi.io
 dauthau.net
 nhattruyenss.net
