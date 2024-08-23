@@ -29,8 +29,12 @@ log-collector.shopee.vn
 //img-s-msn-com.akamaized.net
 //c.msn.com
 
-#12. Hagezi Gambling Blocklist:
+#12. Gambling:
+minhngoc.net.vn
 xoso.mobi
+xoso.com.vn
+xskt.com.vn
+xoso.net
 #13. Hagezi Block List:
 ohay.tv
 danchimviet.info
