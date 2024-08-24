@@ -94,7 +94,7 @@ truyenhdx.com
 pojokmanga.info
 hh3dhay.xyz
 
-! 3. Uncategorized: 45
+! 3. Uncategorized: 48
 ntcdn242.wibu.asia
 ccmmh.biz
 7mvn4.com
@@ -109,6 +109,7 @@ nettruyenupp.com
 newtoki350.com
 nownowcdn.com
 p0.ntcdntempu26.com
+playhydrax.com
 rethinkdns.com
 truyenhay.com
 wps.com
@@ -137,10 +138,12 @@ sf-api-gateway-prod.hydrisapps.co.uk
 vungoi.vn
 img.imgxyzz.xyz
 img04.imgfx04.xyz
+rapovideo.xyz
 s2.anhvip.xyz
 s10.anhvip.xyz
 s11.anhvip.xyz
 static.ripfuhu.xyz
+suckplayer.xyz
 
 ! 4. Newly Seen Domains: 51
 quatvn.baby
