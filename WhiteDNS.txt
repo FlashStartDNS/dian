@@ -94,7 +94,7 @@ truyenhdx.com
 pojokmanga.info
 hh3dhay.xyz
 
-! 3. Uncategorized: 50
+! 3. Uncategorized: 51
 ntcdn242.wibu.asia
 ccmmh.biz
 7mvn4.com
@@ -139,6 +139,7 @@ twa-cdn.top
 sf-api-gateway-prod.hydrisapps.co.uk
 vungoi.vn
 img.imgxyzz.xyz
+img04.imgfx03.xyz
 img04.imgfx04.xyz
 rapovideo.xyz
 s2.anhvip.xyz
