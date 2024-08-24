@@ -29,7 +29,7 @@ log-collector.shopee.vn
 //img-s-msn-com.akamaized.net
 //c.msn.com
 
-#12. Gambling:
+#12. Gambling: 6
 kqxs.vn
 minhngoc.net.vn
 xoso.mobi
@@ -94,7 +94,7 @@ truyenhdx.com
 pojokmanga.info
 hh3dhay.xyz
 
-! 3. Uncategorized: 48
+! 3. Uncategorized: 49
 ntcdn242.wibu.asia
 ccmmh.biz
 7mvn4.com
@@ -129,6 +129,7 @@ doctruyen3qtv.pro
 nchcccl.pro
 tonix.pro
 toptruyenvn.pro
+thenoobpro91.shop
 twa-api.cdn-service.site
 ton.space
 statics.voz.tech
