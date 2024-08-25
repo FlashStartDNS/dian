@@ -7,9 +7,10 @@ jnn-pa.googleapis.com
 sad.adsgram.ai
 #3. Phim.nguonc.com:
 phim.nguonc.com
+img.streamvd.club
 embed.streamc.xyz
 embed1.streamc.xyz
-sv1.freedoihoiccgi.top
+freedoihoiccgi.top
 sv1.streamvda.top
 #4. Xiaomi device updates:
 update.intl.miui.com
