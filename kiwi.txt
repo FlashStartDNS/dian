@@ -332,6 +332,10 @@ reddit.com##.TopNav__promoButton, ._2pUaFeMjwDAhdxtQUwSRcQ
 wallpapers.com###stickyunit
 wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
 
+! VuotLink.vip 19-8-2024
+||vuotlink.vip/gaixinh.jpg$image
+||vuotlink.vip/download.jpg$image
+
 ||linksvip.net/images/momo.png$image
 voca.vn##.center-content
 dafulbrightteachers.org###ads_1234
