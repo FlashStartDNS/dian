@@ -1,9 +1,9 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
-! Number of entries: 295
+! Number of entries: 296
 ! Group_Novel #L35
 ! Group_Truyen #L60
-! Group_HENTAI #129
+! Group_HENTAI #136
 ! Group_HoatHinh #L160
 ! Group_News #L181
 ! Group_Phim #L173
@@ -136,13 +136,15 @@ www.hbmanga.com###sticky_ads_frame_a
 ! Group HENTAI
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
-! 1,SayHentai.pro/ 15-3-2024
+! 1,Hentaicube.net 21-8-2024
+||cdn.hentaicube.net/qcs/*.gif$image 
+! 2,SayHentai.pro/ 15-3-2024
 sayhentai.pro##.float-ck-center-lt
 ||sayhentai.pro/assets/css/images/bg-search.jpg$image
 ||gwemwyqugg.com^
 ||uk88.com^
 ||acmorhmiwtit.com^
-! 2,SayHentai.fun/ 2023-12-27
+! 3,SayHentai.fun/ 2023-12-27
 ||039vnd.com^
 ||039vip0.com^
 ||rw8899.com^
