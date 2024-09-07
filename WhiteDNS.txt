@@ -87,7 +87,8 @@ viet69.homes
 ! Cloudflare
 ! 1. Cryptomining:
 www.okx.com
-! 2. DGA Domains:
+! 2. DGA Domains: 8
+bullishfarm.app
 timefarm.app
 hhkungfu.app
 hhchina.app
