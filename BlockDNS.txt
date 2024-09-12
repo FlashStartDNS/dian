@@ -85,7 +85,7 @@ qcvip.xyz
 litarnrajol.com
 # T
 # Telegram Ads
-api.adsgram.ai
+api.adsgram.ai # một số chức năng của một số bot ko hoạt động
 # TheBlank.net 17-8-2024
 farwine.com
 # TruyenqqViet/TruyenqqTo.com 21-8-2024
