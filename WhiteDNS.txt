@@ -154,7 +154,7 @@ static.ripfuhu.xyz
 suckplayer.xyz
 piped.yt
 
-! 4. Newly Seen Domains: 69
+! 4. Newly Seen Domains: 70
 quatvn.baby
 teamlanhlung.blog
 2phimhay.cc
@@ -164,6 +164,7 @@ zhentaivnz.cc
 notrolldd.cfd
 baotangtruyen14.com
 cdn.vercel-cdn.com
+cmangaoh.com
 comic24hnn.com
 doctruyen3qviet.com
 dualeotruyenbi.com
