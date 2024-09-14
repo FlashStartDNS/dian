@@ -7,7 +7,7 @@
 ! Group_HoatHinh #L160
 ! Group_News #L181
 ! Group_Phim #L173
-! Group_XXX #L353
+! Group_XXX #L366
 
 ! Chung rule
 /wp-content/uploads/202*/*/*.gif$domain=hentai-vn.lol|tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
@@ -364,9 +364,12 @@ edu2review.com###mobile-footer
 edu2review.com##.hide-xl-more.flex-center.fluid
 
 ! GROUP:XXX
-! 1, khieudam.club/ 28-01-2024
+! 1, https://cliphot.uk 14-9-2024
+||qcvip.xyz/wp-content/uploads/2024/09/i999xx.gif$image
+cliphot.uk###mp-preload-popup-overlay
+! 2, khieudam.club/ 28-01-2024
 ||xxxads.info^$image
-! 2, 04-3-2024
+! 3, 04-3-2024
 lonxxx.com,pheclip.com,pheclip.net,chichnhau.me###popup
 ! 3, Vlxx.cam 2023-11-13 (uBlock filters – Ads)
 /aas/r45d/vki/*$script,redirect-rule=noop.js
