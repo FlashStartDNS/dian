@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
 ! Number of entries: 296
 ! Group_Novel #L35
-! Group_Truyen #L60
+! Group_Truyen #L64
 ! Group_HENTAI #136
 ! Group_HoatHinh #L160
 ! Group_News #L181
@@ -62,23 +62,26 @@ wap.ibiquge.la###strl
 ||banyueya.top/bkk.html
 
 ! GROUP_Truyen
-! 1, FastScans.net/ 28-5-2024
+# Chinese
+! Baozimh.com/ 26-3-2024
+www.hbmanga.com##.comic-contain > div.mobadsq
+www.hbmanga.com###sticky_ads_frame_a
+# Vietnamese
+! 1, FastScans.net 28-5-2024
 ||s1.fastscans.net/shopee/product*.jpg$image
-! 2, NetTruyenuu.com/ 30-8-2024
-nettruyenuu.com##.ads_insert_shop
-! 3, NetTruyenAA.com/ 06-7-2024
-||ads.mxhnkn.pro/popup/popup.js$script
-||greendragonworld.pro^
-! 4, NhatTruyenvn.com/ 27-6-2024
+! 2, NhatTruyenvn.com/ 27-6-2024
 nhattruyenvn.com###myPopup-game
-! 5, NetTruyen.com/ 03-3-2023
+! 3, NetTruyen.com 03-3-2023
+||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||phumsise.com^
 ||st.nettruyenbing.com/data/sites/1/banner/
-||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
-||bp.blogspot.com^$domain=www.nettruyenff.com
-||facebook.net^$domain=nettruyenff.com
 nettruyenff.com##[class^="mce-container mce-flow-layout-item mce-first mce-last mce-btn-group"]
+! 4, NetTruyenAA.com 06-7-2024
+||ads.mxhnkn.pro/popup/popup.js$script
+||greendragonworld.pro^
+! 5, NetTruyenuu.com 30-8-2024
+nettruyenuu.com##.ads_insert_shop
 ! 6, NetTruyenXX.com/ Phimmoiaa.com/ 08-5-2024
 ||hello888999.com^
 ||66hello88.com^
@@ -106,32 +109,30 @@ otakusan.net##.vertical-banner
 pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
 ! Rule bên dưới làm không xem được video ở kids.pops.vn
 !pops.vn##.wrapper-videojs_popsVideo__tuLfR.vjs-root-dom
-! 12, NewToki 13-6-2024
-/tokinbtoki/*.gif
-||newtoki.help/banner/$image
-||xn--ph1bph0az41x.org^*.gif$image
-newtoki.help##.ba_test
-newtoki.help##.banner2
-newtoki.help##.banner3
-newtoki.*###hd_pops_4
+# Korean
 ! 13, Naver Comic
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
-manga-raw.club##.adsbox
-! 14, ReaperScans.com
-||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
-! 15, Reality-quest.online
-reality-quest.online##.essb_links_list
-reality-quest.online##.kofi-button
+! 14, NewToki 14-9-2024
+/tokinbtoki/*.gif
+||newtoki.help/banner/$image
+||xn--ph1bph0az41x.org^*.gif$image
+newtoki.biz##.ba_test
+newtoki.help##.banner2
+newtoki.biz##.banner3
+newtoki.*###hd_pops_4
+# English
+! 15, Mangabtt.com/ 2023-11-22
+||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
+mangabtt.com##div.reading-control
 ! 16, QuestSupremacy.com
 ||ak.torioluor.com/afu.php
 mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
-! 17, Mangabtt.com/ 2023-11-22
-||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
-mangabtt.com##div.reading-control
-! 18, Baozimh.com/ 26-3-2024
-www.hbmanga.com##.comic-contain > div.mobadsq
-www.hbmanga.com###sticky_ads_frame_a
+! 17, Reality-quest.online
+reality-quest.online##.essb_links_list
+reality-quest.online##.kofi-button
+! 18, ReaperScans.com
+||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
 
 ! Group HENTAI
 hentaivn.la##.qx_135
