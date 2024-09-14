@@ -1,13 +1,13 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
 ! Number of entries: 296
-! Group_Novel #L35
-! Group_Truyen #L64
-! Group_HENTAI #136
-! Group_HoatHinh #L160
-! Group_News #L181
-! Group_Phim #L173
-! Group_XXX #L366
+! group_Novel #L35
+! group_Truyen #L64
+! group_Hentai #137
+! group_HoatHinh #L160
+! group_News #L181
+! group_Phim #L173
+! group_XXX #L366
 
 ! Chung rule
 /wp-content/uploads/202*/*/*.gif$domain=hentai-vn.lol|tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
@@ -134,18 +134,23 @@ reality-quest.online##.kofi-button
 ! 18, ReaperScans.com
 ||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
 
-! Group HENTAI
+! Group HENTAI: 7
+! 1, https://hentai247.vip 04-9-2024
+||cdn.hentai247.vip//banner/i9-new-400x300.jpeg$image
+||cdn.hentai247.vip//banner/banner1-400x300.png$image
+hentai247.vip##.ads_popup
+! 2, Hentaicube.net 21-8-2024
+||cdn.hentaicube.net/qcs/*.gif$image 
+! 3, Hentaivn.la
 hentaivn.la##.qx_135
 ||static.htvncdn.net/icon/debut-light.png$image
-! 1,Hentaicube.net 21-8-2024
-||cdn.hentaicube.net/qcs/*.gif$image 
-! 2,SayHentai.pro/ 15-3-2024
-sayhentai.pro##.float-ck-center-lt
-||sayhentai.pro/assets/css/images/bg-search.jpg$image
-||gwemwyqugg.com^
-||uk88.com^
-||acmorhmiwtit.com^
-! 3,SayHentai.fun/ 2023-12-27
+! 4, LxManga.net/ 2023-07-27
+||l.linklyhq.com/l/1oOoo
+||xemphim8k.com^$third-party
+||bongda12h.com^$third-party
+! 5, Manhwa18.com
+||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
+! 6,SayHentai.fun/ 2023-12-27
 ||039vnd.com^
 ||039vip0.com^
 ||rw8899.com^
@@ -158,12 +163,12 @@ sayhentai.pro##.ads_popup.hidden-ads
 ||vipads.live^
 ||vipads.cc^
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
-! 3,LxManga.net/ 2023-07-27
-||l.linklyhq.com/l/1oOoo
-||xemphim8k.com^$third-party
-||bongda12h.com^$third-party
-! 4,Manhwa18.com
-||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
+! 7, SayHentai.pro 15-3-2024
+sayhentai.pro##.float-ck-center-lt
+||sayhentai.pro/assets/css/images/bg-search.jpg$image
+||gwemwyqugg.com^
+||uk88.com^
+||acmorhmiwtit.com^
 ! END_GROUP
 
 ! Group_HoatHinh
