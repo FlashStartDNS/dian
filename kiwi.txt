@@ -11,7 +11,7 @@
 ! group_XXX #L366
 
 # Chung rule
-/wp-content/uploads/202*/*/*.gif$domain=hentai-vn.lol|tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
+/wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|clipvn69.lol|hentai-vn.lol|tuoi69vn.com|tuoi69.today|theundergroundclub.net|hentaivnvip.net
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=phevkl.vc|chichnhau.me|lonxxx.com|pheclip.net|sayhentai.pro
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 
@@ -431,9 +431,6 @@ meomeotv.pro##.ads-inside-video
 ||demo123.info/preload/vip.js$script,domain=sexhd89.com
 ! 18, Vn.SexVietNam.Sex/ 01-8-2024
 ||vn.sexvietnam.sex/ads/ads.js$script
-! 19, ClipHotVn1.cc 31-7-2024
-||cliphotvn1.cc/wp-content/uploads/2024/07/*.gif$image
-||cliphotvn1.cc/wp-content/uploads/2024/07/XEM-BONG-DA-TRUC-TIEP-FULL-HD.png$image
 ! END
 
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
