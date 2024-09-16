@@ -5,9 +5,9 @@ cloudflare-gateway.com
 //img-s-msn-com.akamaized.net
 //c.msn.com
 #2. Cloudflare
-! 2,1. Cryptomining:
+!2,1. Cryptomining:
 www.okx.com
-! 2,2. DGA Domains: 8
+!2,2. DGA Domains: 8
 bullishfarm.app
 timefarm.app
 hhkungfu.app
@@ -16,7 +16,7 @@ ihentai.bio
 truyenhdx.com
 pojokmanga.info
 hh3dhay.xyz
-! 3,3. Uncategorized: 53
+!2,3. Uncategorized: 53
 ntcdn242.wibu.asia
 ccmmh.biz
 7mvn4.com
@@ -70,7 +70,7 @@ s11.anhvip.xyz
 static.ripfuhu.xyz
 suckplayer.xyz
 piped.yt
-! 2,4. Newly Seen Domains: 88
+!2,4. Newly Seen Domains: 90
 quatvn.baby
 teamlanhlung.blog
 2phimhay.cc
@@ -82,6 +82,7 @@ baotangtruyen14.com
 baotangtruyen15.com
 bingtruyentranh.com
 cdn.vercel-cdn.com
+cdn-vn2.hnmxntgn.com
 cmangaoh.com
 comic24hnn.com
 doctruyen3qhay.com
@@ -107,6 +108,7 @@ photo2010my.com
 pinkteacomics.com
 sexhd89.com
 soaicacomics.com
+truyengpt.com
 truyenqqto.com
 truyentranhtt.com
 vlogtruyen19.com
