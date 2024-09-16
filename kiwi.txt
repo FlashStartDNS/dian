@@ -105,8 +105,8 @@ thenextweb.com##.tnw-ad-wrapper
 thenextweb.com##.lg\:hidden.c-share
 ! 11, TheOldReader - 06.4.2024
 theoldreader.com##.banner
-! 12, Thoibao.de 29-5-2024
-||du727ctdwj6gi.cloudfront.net/wp-content/uploads/2024/04/150x650-1.jpg$image
+! 12, ThoiBao.de 16-9-2024
+thoibao.de##.lazyloaded.entered.size-full.wp-image-131617.alignnone
 ! 13, TinTuc3mien.com/ 09-6-2024
 www.tintuc3mien.com##.backdrop-popup
 www.tintuc3mien.com###SECTION_POPUP
