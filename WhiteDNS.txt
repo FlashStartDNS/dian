@@ -1,49 +1,36 @@
-# Title: DNS Allowlist
+# Title: DNS Allowlist 16
 nextdns.io
 cloudflare-gateway.com
-#1. YouTube web không load video:
-jnn-pa.googleapis.com
-#2. Telegram Game:
-sad.adsgram.ai
-#3. Phim.nguonc.com:
-phim.nguonc.com
-img.streamvd.club
-embed.streamc.xyz
-embed1.streamc.xyz
-freedoihoiccgi.top
-sv1.streamvda.top
-#4. Xiaomi device updates:
-update.intl.miui.com
-#5. Xiaomi USB debugging (Security settings):
-srv.sec.intl.miui.com
-#6. Khảo sát Xiaomi:
-m.beehive.in.intl.miui.com
-#7. Download Edge Android:
-app.adjust.com
-#8. Download LienQuan Mobile:
-app.appsflyer.com
-#9. Shopee load ảnh?
-log-collector.shopee.vn
-#10. ZaloPay Android:
-//analytics.google.com
-//www.googletagmanager.com
-#11. Bing-News image:
+#1. Bing News image:
 //img-s-msn-com.akamaized.net
 //c.msn.com
-
-#12. Gambling: 6
+#2. Download Edge Android:
+app.adjust.com
+#3. Download LienQuan Mobile:
+app.appsflyer.com
+#IV. Gambling: 6
 kqxs.vn
 minhngoc.net.vn
 xoso.mobi
 xoso.com.vn
 xskt.com.vn
 xoso.net
-#13. Hagezi Block List:
+#5. Hagezi Block List:
 ohay.tv
 danchimviet.info
 pagead2.googlesyndication.com
-
-# Top-level domains (TLDs): 39
+#6. Phim.nguonc.com:
+phim.nguonc.com
+img.streamvd.club
+embed.streamc.xyz
+embed1.streamc.xyz
+freedoihoiccgi.top
+sv1.streamvda.top
+#7. Shopee load ảnh?
+log-collector.shopee.vn
+#8. Telegram Game:
+sad.adsgram.ai
+#9. Top-level domains (TLDs): 39
 epg.best
 hentaiz.best
 phimsexsub.best
@@ -84,11 +71,22 @@ hentaivn.bio
 viet69.hair
 viet69.name
 viet69.homes
+#10. Xiaomi device updates:
+update.intl.miui.com
+#11. Xiaomi khảo sát
+m.beehive.in.intl.miui.com
+#12. Xiaomi USB debugging (Security settings):
+srv.sec.intl.miui.com
+#13. YouTube web không load video:
+jnn-pa.googleapis.com
+#14. ZaloPay Android:
+//analytics.google.com
+//www.googletagmanager.com
 
-! Cloudflare
-! 1. Cryptomining:
+#15. Cloudflare
+! 15,1. Cryptomining:
 www.okx.com
-! 2. DGA Domains: 8
+! 15,2. DGA Domains: 8
 bullishfarm.app
 timefarm.app
 hhkungfu.app
@@ -97,8 +95,7 @@ ihentai.bio
 truyenhdx.com
 pojokmanga.info
 hh3dhay.xyz
-
-! 3. Uncategorized: 53
+! 15,3. Uncategorized: 53
 ntcdn242.wibu.asia
 ccmmh.biz
 7mvn4.com
@@ -153,7 +150,7 @@ static.ripfuhu.xyz
 suckplayer.xyz
 piped.yt
 
-! 4. Newly Seen Domains: 84
+! 15,4. Newly Seen Domains: 85
 quatvn.baby
 teamlanhlung.blog
 2phimhay.cc
@@ -166,6 +163,7 @@ bingtruyentranh.com
 cdn.vercel-cdn.com
 cmangaoh.com
 comic24hnn.com
+doctruyen3qhay.com
 doctruyen3qviet.com
 dualeotruyenbi.com
 emperormanga.com
@@ -239,9 +237,9 @@ motchillj.tv
 phevkl.vc
 cliphotviet.vip
 truyenhentaivn.xyz
-! 5. Phishing:
+! 15,5. Phishing:
 cuutruyen.net
 
-! https://nhattruyenvn.com/
+! 16. https://nhattruyenvn.com/
 ddntcthcd.com
 kcgsbok.com
