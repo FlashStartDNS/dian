@@ -75,18 +75,46 @@ novelpub.com##.adsbox
 wap.ibiquge.la###strl
 ||banyueya.top/bkk.html
 
-# group_News:12
-! 1, CocCoc News
+# group_News: 15
+! 1, Android Police (22-2-2024)
+www.androidpolice.com##.affiliate-sponsored
+www.androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
+! 2, ChromeStory.com
+chromestory.com##.widget-area.custom-widget
+! 3, ChromeUnBoxed.com
+chromeunboxed.com##.desktopHeaderBanner
+chromeunboxed.com##.code-block-8.code-block
+chromeunboxed.com##.crp_related_block.crp_related
+! 4, CocCoc News
 news.coccoc.com##._275a2205-ad
-! 2, DanQuyen.com 03-7-2024
+! 5, www.DanChimViet.info 16-9-2024
+www.danchimviet.info##.td-with-like.td-post-sharing-top.td-post-sharing
+www.danchimviet.info##.td-with-like.td-post-sharing-bottom.td-post-sharing
+! 6, DanQuyen.com 03-7-2024
 ||danquyen.com/Yhoc/test.jpg$image
-! 3, Thoibao.de 29-5-2024
+! 7, GetDroidTips
+getdroidtips.com##.ai-viewport-4.ai-viewport-3.code-block
+! 8, MSN Bing
+www.msn.com##.accent.article-cont-read-button-on-app
+! MSN Sponsored Content 19-3-2024
+www.msn.com##end-of-content-block
+! 9, PhuotHanoi
+phuothanoi.com###popup_banner_beta
+! 10, TheNextWeb.com
+thenextweb.com##.tnw-ad-wrapper
+thenextweb.com##.lg\:hidden.c-share
+! 11, TheOldReader - 06.4.2024
+theoldreader.com##.banner
+! 12, Thoibao.de 29-5-2024
 ||du727ctdwj6gi.cloudfront.net/wp-content/uploads/2024/04/150x650-1.jpg$image
-! 4, VietNamNet
+! 13, TinTuc3mien.com/ 09-6-2024
+www.tintuc3mien.com##.backdrop-popup
+www.tintuc3mien.com###SECTION_POPUP
+! 14, VietNamNet
 vietnamnet.vn##.banner-top-mashead.vmcadszone
 vietnamnet.vn###vmcad_inview_container
 vietnamnet.vn###Mobile_AdsArticleBodyInArticle
-! 5, VnExpress.net 2024-02-10
+! 15, VnExpress.net 2024-02-10
 ! Nút tài khoản và nút thông báo ở góc trên bên phải:
 ||s1.vnecdn.net/myvne/j/v270/m_myvne_users_v3.js
 vnexpress.net##.wrap-hd-adblock
@@ -95,30 +123,6 @@ vnexpress.net##.box-taitro.box-category
 vnexpress.net###BanCoTheQuanTam_PinTop_Search_Greater10Percent
 vnexpress.net###BanCoTheQuanTam_PinBottom_Search_Less10Percent
 vnexpress.net##.center.section
-!
-phuothanoi.com###popup_banner_beta
-! 6, tintuc3mien.com/ 09-6-2024
-www.tintuc3mien.com##.backdrop-popup
-www.tintuc3mien.com###SECTION_POPUP
-! 7, MSN Bing
-www.msn.com##.accent.article-cont-read-button-on-app
-! MSN Sponsored Content 19-3-2024
-www.msn.com##end-of-content-block
-! 8, The old reader - 06.4.2024
-theoldreader.com##.banner
-getdroidtips.com##.ai-viewport-4.ai-viewport-3.code-block
-! 9, Android Police (22-2-2024)
-www.androidpolice.com##.affiliate-sponsored
-www.androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
-! 10, ChromeStory.com
-chromestory.com##.widget-area.custom-widget
-! 11, ChromeUnBoxed.com
-chromeunboxed.com##.desktopHeaderBanner
-chromeunboxed.com##.code-block-8.code-block
-chromeunboxed.com##.crp_related_block.crp_related
-! 12, TheNextWeb.com
-thenextweb.com##.tnw-ad-wrapper
-thenextweb.com##.lg\:hidden.c-share
 
 # group_Phim: 10
 ! 1, https://phim.nguonc.com
