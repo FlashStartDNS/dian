@@ -4,10 +4,11 @@ cloudflare-gateway.com
 #1. Bing News image:
 //img-s-msn-com.akamaized.net
 //c.msn.com
+
 #2. Cloudflare
-!2,1. Cryptomining:
+!2a, Cryptomining:
 www.okx.com
-!2,2. DGA Domains: 8
+!2b, DGA Domains: 8
 bullishfarm.app
 timefarm.app
 hhkungfu.app
@@ -16,7 +17,7 @@ ihentai.bio
 truyenhdx.com
 pojokmanga.info
 hh3dhay.xyz
-!2,3. Uncategorized: 53
+!2c, Uncategorized: 53
 ntcdn242.wibu.asia
 ccmmh.biz
 7mvn4.com
@@ -70,7 +71,8 @@ s11.anhvip.xyz
 static.ripfuhu.xyz
 suckplayer.xyz
 piped.yt
-!2,4. Newly Seen Domains: 92
+
+!2d, Newly Seen Domains: 92
 quatvn.baby
 teamlanhlung.blog
 2phimhay.cc
@@ -164,7 +166,7 @@ motchillj.tv
 phevkl.vc
 cliphotviet.vip
 truyenhentaivn.xyz
-! 2,5. Phishing:
+! 2e, Phishing:
 cuutruyen.net
 
 #3. Download Edge Android:
