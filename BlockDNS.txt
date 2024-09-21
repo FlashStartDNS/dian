@@ -33,62 +33,70 @@ gem.win
 sun.win
 vip79.win
 zo10.win
-# H
-# heovl.best/ 12-6-2024
+# H:3
+! heovl.best/ 12-6-2024
 154.82.109.135
 23.224.188.31
 faptvxx.com
-# hhtq3d.com 20-8-2024
+! hhtq3d.com 20-8-2024
 s2.truyentot.com
 scyrudomqs.com
 tukvtuasw.com
-# https://154.82.109.153/57.html
+! https://154.82.109.153/57.html
 154.82.109.153
+# khacnhaugiua.vn popup 22-9-2024
+w-news.biz
+taskscompletedlists.com
 # LxManga
 bongda12h.com
 xemphim8k.com
-# M
-# Mangahall.net 21-8-2024
+# M:3
+! Mangahall.net 21-8-2024
 dufflesmorinel.com
-# MeoMeotv.pro
+! MeoMeotv.pro
 sancoxanh.com
 az888v17.com
-# Mi Music (com.miui.player)
+! Mi Music (com.miui.player)
 game.soulboxe.com
-# N
-# NetTruyenCo.vn/ 26.4.2024
+# N:4
+! NetTruyenCo.vn/ 26.4.2024
 xv828.cc
 75299w.com
 6686vn80.com
 xyncnd.online
-# NettruyenWW, NettruyenX, NettruyenAA:
+! NettruyenWW, NettruyenX, NettruyenAA:
 goblenuri.com
 thebijoutheatre.com
 vacpukna.com
 zfizwimujv.com
 qc.rik.vip
-# NetTruyenUS 01-11-2023
+! NetTruyenUS 01-11-2023
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 psirdain.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
-# NetTruyenUss.com (fake) 17-5-2024
+! NetTruyenUss.com (fake) 17-5-2024
 kftytkhurx.xyz
 # Nguonhd.net,Nguontvb.com 22-6-2024
 nguontv.com
-# P
-# Parked & For Sale Domains
+# P:5
+! Parked & For Sale Domains
 fun123.live
 bonnegueule.online
-# PheVkl.vc 29-8-2024
+! PheVkl.vc 29-8-2024
 qcvip.xyz
-# PinkTeaComics.com 29-8-2024
+! PhimMoiaa.com/ from NetTruyenxx.com (08-5-2024)
+hello888999.com
+66hello88.com
+! PhimSexHay.bio/
+az888v5.com
+! PinkTeaComics.com 29-8-2024
 litarnrajol.com
-# T
-# Telegram Ads
+# T:3
+! Telegram Ads
 api.adsgram.ai # một số chức năng của một số bot ko hoạt động
-# TheBlank.net 17-8-2024
+! TheBlank.net 17-8-2024
 farwine.com
-# TruyenqqViet/TruyenqqTo.com 21-8-2024
+! TruyenqqViet/TruyenqqTo.com 21-8-2024
 220t.com
 abbvagoz.com
 adpolsbix.com
@@ -112,10 +120,10 @@ ozbnagojbop.com
 ruxdtiapgti.com
 vzoahlod.com
 whywolveshowl.com
-# V
-# Voz.vn
+# V:2
+! Voz.vn
 aj1559.online
-# Voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-chromium.682181/post-32472237
+! Voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-chromium.682181/post-32472237
 polyfill.io
 # Xoso.com.vn 24-6-2024
 icads.vn
@@ -126,16 +134,11 @@ ahikeleher.site
 stitchwitch.online
 cnpestcontrol.site
 superior-carpo.xyz
-# PhimMoiaa.com/ from NetTruyenxx.com (08-5-2024)
-hello888999.com
-66hello88.com
-# PhimSexHay.bio/
-az888v5.com
 # S
-# SayHentai.one/ 05-8-2024
+! SayHentai.one/ 05-8-2024
 bubrintta.com
 simqirrzao.com
-# SayHentai.pro/ 19-4-2024
+! SayHentai.pro/ 19-4-2024
 lp.baovip79.biz
 five88.top
 five88.win
