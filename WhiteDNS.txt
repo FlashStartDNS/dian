@@ -19,62 +19,7 @@ pojokmanga.info
 hh3dhay.xyz
 !2c, Miscellaneous
 t.co
-!2d, Uncategorized: 53
-ntcdn242.wibu.asia
-ccmmh.biz
-7mvn4.com
-cosmo-miner.com
-dl.listdl.com
-hinhhinh.com
-i7.xem-truyen.com
-i8.xem-truyen.com
-image.timiai489.com
-litatom.com
-nettruyenupp.com
-newtoki350.com
-nownowcdn.com
-p0.ntcdntempu26.com
-playhydrax.com
-rethinkdns.com
-truyenhay.com
-wps.com
-onetime.dog
-ldx.fi
-i7.bumcheo.info
-i10-1.bumcheo4.info
-djdog.io
-getgems.io
-piggypiggy.io
-tonapi.io
-bit.ly
-dauthau.net
-nhattruyenss.net
-img2.desu.one
-acs.org
-doctruyen3qtv.pro
-nchcccl.pro
-tonix.pro
-toptruyenvn.pro
-thenoobpro91.shop
-twa-api.cdn-service.site
-ton.space
-statics.voz.tech
-bimg.maxcdn.top
-twa-cdn.top
-sf-api-gateway-prod.hydrisapps.co.uk
-vungoi.vn
-img.imgxyzz.xyz
-img04.imgfx03.xyz
-img04.imgfx04.xyz
-rapovideo.xyz
-s2.anhvip.xyz
-s10.anhvip.xyz
-s11.anhvip.xyz
-static.ripfuhu.xyz
-suckplayer.xyz
-piped.yt
-
-!2e, Newly Seen Domains: 92
+!2d, Newly Seen Domains: 92
 quatvn.baby
 teamlanhlung.blog
 2phimhay.cc
@@ -168,7 +113,7 @@ motchillj.tv
 phevkl.vc
 cliphotviet.vip
 truyenhentaivn.xyz
-! 2f, Phishing:
+! 2e, Phishing:
 cuutruyen.net
 
 #3. Download Edge Android:
