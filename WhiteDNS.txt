@@ -198,14 +198,25 @@ sv1.streamvda.top
 log-collector.shopee.vn
 #8. Telegram Game:
 sad.adsgram.ai
-#9. Top-level domains (TLDs): 39
+#9. Top-level domains (TLDs): 40
 epg.best
 hentaiz.best
 phimsexsub.best
 xxphim.best
 7mcn.bid
-desu.win
-xxphim.win
+animehay.bio
+meomeotv.bio
+phimsexhay.bio
+hentaivn.bio
+viet69.hair
+viet69.name
+viet69.homes
+hamsterkombatgame.io
+objection.lol
+manhwas.men
+rphang.men
+sexviet88.men
+sieudamtv.men
 xxphim.mom
 cliphotvn.mom
 hentaicb.mom
@@ -215,15 +226,13 @@ medium.rip
 scribe.rip
 fuhuzz.rip
 viet69.vin
+desu.win
+xxphim.win
 elphago.work
 frame.work
 koding.work
 searx.work
 skymanga.work
-objection.lol
-manhwas.men
-rphang.men
-sieudamtv.men
 arabsdoujin.online
 biphim.online
 dnsspeedtest.online
@@ -231,14 +240,7 @@ ero-labs.online
 mydressupdarling.online
 smartarget.online
 toptruyenii.online
-hamsterkombatgame.io
-animehay.bio
-meomeotv.bio
-phimsexhay.bio
-hentaivn.bio
-viet69.hair
-viet69.name
-viet69.homes
+
 #10. Xiaomi device updates:
 update.intl.miui.com
 #11. Xiaomi khảo sát
