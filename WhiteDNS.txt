@@ -17,7 +17,9 @@ ihentai.bio
 truyenhdx.com
 pojokmanga.info
 hh3dhay.xyz
-!2c, Uncategorized: 53
+!2c, Miscellaneous
+t.co
+!2d, Uncategorized: 53
 ntcdn242.wibu.asia
 ccmmh.biz
 7mvn4.com
@@ -72,7 +74,7 @@ static.ripfuhu.xyz
 suckplayer.xyz
 piped.yt
 
-!2d, Newly Seen Domains: 92
+!2e, Newly Seen Domains: 92
 quatvn.baby
 teamlanhlung.blog
 2phimhay.cc
@@ -166,7 +168,7 @@ motchillj.tv
 phevkl.vc
 cliphotviet.vip
 truyenhentaivn.xyz
-! 2e, Phishing:
+! 2f, Phishing:
 cuutruyen.net
 
 #3. Download Edge Android:
