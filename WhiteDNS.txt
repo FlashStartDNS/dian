@@ -198,7 +198,7 @@ sv1.streamvda.top
 log-collector.shopee.vn
 #8. Telegram Game:
 sad.adsgram.ai
-#9. Top-level domains (TLDs): 40
+#9. Top-level domains (TLDs): 39
 epg.best
 hentaiz.best
 phimsexsub.best
@@ -211,7 +211,6 @@ hentaivn.bio
 viet69.hair
 viet69.name
 viet69.homes
-hamsterkombatgame.io
 objection.lol
 manhwas.men
 rphang.men
