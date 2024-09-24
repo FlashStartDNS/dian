@@ -1,2 +1,2 @@
 ! Import the URL into Vivaldi's Tracker Blocking Sources to subscribe.
-||shopee.vn^$document
+||shopee.vn$document
