@@ -20,7 +20,7 @@ hh3dhay.xyz
 !2c, Miscellaneous
 t.co
 viettan.org
-!2d, Newly Seen Domains: 92
+!2d, Newly Seen Domains: 93
 quatvn.baby
 teamlanhlung.blog
 2phimhay.cc
@@ -101,6 +101,7 @@ i2.netcdn.one
 firecomics.org
 viet69net.org
 widgetlogic.org
+doctruyen3qto.pro
 hentai18vn.pro
 hentaicube.pro
 khotruyentranh.pro
@@ -143,7 +144,7 @@ sv1.streamvda.top
 #7. Shopee load ảnh?
 log-collector.shopee.vn
 #8. Telegram Game:
-sad.adsgram.ai
+adsgram.ai
 #9. TLDs (Top-level domains): 40
 epg.best
 hentaiz.best
