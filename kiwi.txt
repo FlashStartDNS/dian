@@ -1,6 +1,7 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
-! Number of entries: 300
+! Expires: 1 day (update frequency)
+! Number of entries: 303
 ! group_Hentai #18
 ! group_HoatHinh #L53
 ! group_Novel #L66
