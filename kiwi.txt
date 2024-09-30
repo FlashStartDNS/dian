@@ -258,9 +258,9 @@ newtoki.*###hd_pops_4
 ||blogger.googleusercontent.com/img/a/AVvXsE*$image,domain=newtokirun.com
 ! https://newtoki.one 15-9-2024
 newtoki.one##.banner
-! https://wfwf348.com 15-9-2024
-wfwf348.com##.top-banner
-! https://xn--ph1bph0az41x.org 15-9-2024
+! 늑대닷컴 https://wfwf350.com 15-9-2024
+wfwf350.com##.top-banner
+! https://늑대닷컴.org , https://xn--ph1bph0az41x.org (15-9-2024)
 늑대닷컴.org##.banners
 # English
 ! 15, Mangabtt.com/ 2023-11-22
