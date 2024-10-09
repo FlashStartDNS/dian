@@ -20,7 +20,7 @@ hh3dhay.xyz
 !2c, Miscellaneous
 t.co
 viettan.org
-!2d, Newly Seen Domains: 97
+!2d, Newly Seen Domains: 98
 quatvn.baby
 teamlanhlung.blog
 2phimhay.cc
@@ -34,6 +34,7 @@ baotangtruyen15.com
 bingtruyentranh.com
 cdn.vercel-cdn.com
 cdn-vn2.hnmxntgn.com
+cmanga01.com
 cmangaoh.com
 comic24hnn.com
 doctruyen3qhay.com
