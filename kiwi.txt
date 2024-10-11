@@ -1,6 +1,6 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
-! Version: 2024-10-04
+! Version: 2024-10-11
 ! Expires: 1 day
 ! Number of entries: 303
 !
@@ -15,6 +15,7 @@
 !
 # Chung rule
 /wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|clipvn69.lol|hentaivn69.top|tuoi69zz.xyz|theundergroundclub.net
+||i.imgur.com^*.gif$domain=phimtop.net|xamvn.date
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=phevkl.vc|chichnhau.me|lonxxx.com|pheclip.net|sayhentai.pro
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 
@@ -156,7 +157,6 @@ tvzinghd.co###prei9ztv
 phimtop.net,vuianime.net,saytruyen.net##center
 phimtop.net##.sticky_bottom
 phimtop.net###player_message
-||i.imgur.com^*.gif$domain=phimtop.net
 ! 8, BiChill.tv
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 ! 9, MotChill.net
