@@ -203,9 +203,9 @@ cloudflare.com#@#.qc
 www.hbmanga.com##.comic-contain > div.mobadsq
 www.hbmanga.com###sticky_ads_frame_a
 # Vietnamese
-! 1, FastScans.net 28-5-2024
-||s1.fastscans.net/shopee/product*.jpg$image
-! 2, NhatTruyenvn.com/ 27-6-2024
+! 1, FastScans1.net 16-10-2024
+||s1.fstscnmw.org/shopee/product*.jpg$image
+! 2, NhatTruyenvn.com 27-6-2024
 nhattruyenvn.com###myPopup-game
 ! 3, NetTruyen.com 03-3-2023
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
