@@ -17,10 +17,12 @@ ihentai.bio
 truyenhdx.com
 pojokmanga.info
 hh3dhay.xyz
-!2c, Miscellaneous
+!2c, Malware
+taiwebs.com
+!2d, Miscellaneous
 t.co
 viettan.org
-!2d, Newly Seen Domains: 99
+!2e, Newly Seen Domains: 100
 quatvn.baby
 teamlanhlung.blog
 2phimhay.cc
@@ -91,6 +93,7 @@ truyenhentaivn.me
 truyenvn.mobi
 zinchanmanga.mobi
 fastscans1.net
+fastscans2.net
 hayanime.net
 hentaiayame.net
 manga-sehri.net
@@ -121,7 +124,7 @@ motchillj.tv
 phevkl.vc
 cliphotviet.vip
 truyenhentaivn.xyz
-! 2e, Phishing:
+! 2f, Phishing:
 cuutruyen.net
 
 #3. Download Edge Android:
