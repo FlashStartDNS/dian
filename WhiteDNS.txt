@@ -22,7 +22,7 @@ taiwebs.com
 !2d, Miscellaneous
 t.co
 viettan.org
-!2e, Newly Seen Domains: 101
+!2e, Newly Seen Domains: 102
 quatvn.baby
 teamlanhlung.blog
 2phimhay.cc
@@ -105,6 +105,7 @@ thapcam22.net
 vuaphimmoi8.net
 dogsdrop.one
 i2.netcdn.one
+lxmanga.online
 firecomics.org
 s1.fstscnmw.org
 viet69net.org
