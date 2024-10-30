@@ -22,7 +22,7 @@ taiwebs.com
 !2d, Miscellaneous
 t.co
 viettan.org
-!2e, Newly Seen Domains: 102
+!2e, Newly Seen Domains: 103
 quatvn.baby
 teamlanhlung.blog
 2phimhay.cc
@@ -94,6 +94,7 @@ truyenvn.mobi
 zinchanmanga.mobi
 fastscans1.net
 fastscans2.net
+fastscans3.net
 hayanime.net
 hentaiayame.net
 manga-sehri.net
