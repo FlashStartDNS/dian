@@ -11,7 +11,7 @@
 ! group_Phim #L123
 ! group_Popup #69
 ! group_Truyen #L197
-! group_XXX #L366
+! group_XXX #L393
 !
 # Chung rule
 /wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|clipvn69.lol|hentaivn69.top|tuoi69zz.xyz|theundergroundclub.net
@@ -426,10 +426,11 @@ mephim18.com###backgroundPopupp
 heovl.best,vlxx.sale##.video-js.tvc-video
 ||vjs.zencdn.net^$domain=heovl.best
 ||code.jquery.com^$domain=heovl.best
-! 10, PublicAgent.com
+! 10, PublicAgent.com 02-10-2024
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 ||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
+publicagent.com##[class="sc-8lvev9-1 ikiYEr"]
 ! 11, FapDiner.com/ 21-7-2024
 ||arzruqmougxvdv.com^
 ! 12, TheFap.net/ 2023-12-30
