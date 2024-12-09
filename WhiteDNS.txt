@@ -132,38 +132,39 @@ truyenhentaivn.xyz
 ! 2f, Phishing:
 cuutruyen.net
 
-#3. Coca-cola unsubscribe email
-data.asp.coca-cola.com
-#4. Download Edge Android:
+#3. Download Edge Android:
 app.adjust.com
-#5. Download LienQuan Mobile:
+#4. Download LienQuan Mobile:
 app.appsflyer.com
 
-#6. Gambling: 6
+#5. Gambling: 6
 kqxs.vn
 minhngoc.net.vn
 xoso.mobi
 xoso.com.vn
 xskt.com.vn
 xoso.net
-#5. Hagezi Block List:
+#6. Hagezi Block List:
 ohay.tv
 danchimviet.info
+cdn.famitaa.com
+data.asp.coca-cola.com
 pagead2.googlesyndication.com
-#6. Phim.nguonc.com:
+
+#7. Phim.nguonc.com:
 phim.nguonc.com
 img.streamvd.club
 embed.streamc.xyz
 embed1.streamc.xyz
 freedoihoiccgi.top
 sv1.streamvda.top
-#7. Shopee load ảnh?
+#8. Shopee load ảnh?
 log-collector.shopee.vn
-#8. Telegram Game:
+#9. Telegram Game:
 adsgram.ai
 api.joker-swap.app
 cdn.tmads.xyz
-#9. TLDs (Top-level domains): 42
+#10. TLDs (Top-level domains): 42
 epg.best
 hentaiz.best
 phimsexsub.best
@@ -208,15 +209,15 @@ mydressupdarling.online
 smartarget.online
 toptruyenii.online
 
-#10. Xiaomi device updates:
+#11. Xiaomi device updates:
 update.intl.miui.com
-#11. Xiaomi khảo sát
+#12. Xiaomi khảo sát
 m.beehive.in.intl.miui.com
-#12. Xiaomi USB debugging (Security settings):
+#13. Xiaomi USB debugging (Security settings):
 srv.sec.intl.miui.com
-#13. YouTube web không load video:
+#14. YouTube web không load video:
 jnn-pa.googleapis.com
-#14. ZaloPay Android:
+#15. ZaloPay Android:
 //analytics.google.com
 //www.googletagmanager.com
 
