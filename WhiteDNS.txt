@@ -23,7 +23,7 @@ i7.bumcheo.info
 !2d, Miscellaneous
 t.co
 viettan.org
-!2e, Newly Seen Domains: 104
+!2e, Newly Seen Domains: 105
 quatvn.baby
 teamlanhlung.blog
 2phimhay.cc
@@ -97,6 +97,7 @@ zinchanmanga.mobi
 fastscans1.net
 fastscans2.net
 fastscans3.net
+fastscans5.net
 hayanime.net
 hentaiayame.net
 manga-sehri.net
