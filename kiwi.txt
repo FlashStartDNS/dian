@@ -8,14 +8,14 @@
 ! group_HoatHinh #L57
 ! group_Novel #L70
 ! group_News #L82
-! group_Phim #L123
+! group_Phim #L150
 ! group_Popup #69
 ! group_Truyen #L217
 ! group_XXX #L393
 !
 # Chung rule
 /wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|clipvn69.lol|hentaivn69.top|tuoi69zz.xyz|theundergroundclub.net
-||i.imgur.com^*.gif$domain=phimtop.net|xamvn.date
+||i.imgur.com^*.gif$domain=phimtop.net|xamvn.date|phimmoi02.net
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=phevkl.vc|chichnhau.me|lonxxx.com|pheclip.net|sayhentai.pro
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 
@@ -157,12 +157,12 @@ vnexpress.net###BanCoTheQuanTam_PinBottom_Search_Less10Percent
 ||i.postimg.cc^$image,domain=phimmoi.today|phimmoinet.lol
 ||linkads.xyz/i9bet/400x300.jpg$image
 phimmoi.today,phimmoinet.lol##.popUpBannerBox
-! 3, Phimmoiz1.net
+! 3, https://phimmoi02.net 26-12-2024
+||aff.bk8vnaf.com/public/html/cms/A20240725090242190.gif$image
+! 4, Phimmoiz1.net
 phimmoiz1.net##.container > .right-box
 phimmoiz1.net###catfish
 phimmoiz1.net###popup-giua-man-hinh
-! 4, VuaPhimMoi7.net/ 22-6-2024
-||i.imgur.com/m78O0gJ.gif$image
 ! 5, NguonHD.net, NguonTvb.com 22-6-2024
 ||nguontv.com^
 ! https://154.82.109.153/57.html
