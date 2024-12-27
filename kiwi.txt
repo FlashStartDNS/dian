@@ -1,8 +1,8 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
-! Version: 2024-10-16
+! Version: 2024-12-27
 ! Expires: 1 day
-! Number of entries: 304
+! Number of entries: 307
 !
 ! group_Hentai #22
 ! group_HoatHinh #L57
@@ -14,7 +14,7 @@
 ! group_XXX #L393
 !
 # Chung rule
-/wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|clipvn69.lol|hentaivn69.top|tuoi69zz.xyz|theundergroundclub.net
+/wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|clipvn69.lol|hentaivn69.top|tuoi69zz.xyz|theundergroundclub.net|hentaivn.tube
 ||i.imgur.com^*.gif$domain=phimtop.net|xamvn.date|phimmoi02.net
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=phevkl.vc|chichnhau.me|lonxxx.com|pheclip.net|sayhentai.pro
 questsupremacy.com,regressorinstructionmanual.com##.code-block
@@ -34,20 +34,20 @@ hentaivn.la##.qx_135
 ||bongda12h.com^$third-party
 ! 5, Manhwa18.com
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
-! 6,SayHentai.fun/ 2023-12-27
+! 6, SayHentai.fun/ 2023-12-27
 ||039vnd.com^
 ||039vip0.com^
 ||rw8899.com^
 ||uk88.top^
 ||sayhentai.fun/img/
 ||ak-d.tripcdn.com/images/*.gif$domain=sayhentai.pro
+! 7, SayHentai.pro 15-3-2024
 sayhentai.pro##.ads_popup.hidden-ads
 ||imgsrc.baidu.com/forum/pic/item/*.gif$image,domain=sayhentai.pro
 ||360buyimg.com/jdsurvey/jfs/t1/*.gif$image
 ||vipads.live^
 ||vipads.cc^
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
-! 7, SayHentai.pro 15-3-2024
 sayhentai.pro##.float-ck-center-lt
 ||sayhentai.pro/assets/css/images/bg-search.jpg$image
 ||gwemwyqugg.com^
