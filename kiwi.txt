@@ -1,6 +1,6 @@
 ! Title: Kiwi
 ! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
-! Version: 2024-12-27
+! Version: 2024-12-29
 ! Expires: 1 day
 ! Number of entries: 307
 !
@@ -268,7 +268,7 @@ pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
 ! 13, Naver Comic
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
-! 14, NewToki 14-9-2024
+! 14, NewToki466 29-12-2024
 /tokinbtoki/*.gif
 ||newtoki.help/banner/$image
 ||xn--ph1bph0az41x.org^*.gif$image
@@ -276,6 +276,7 @@ newtoki.biz##.ba_test
 newtoki.help##.banner2
 newtoki.biz##.banner3
 newtoki.*###hd_pops_4
+newtoki466.com##.media-heading
 ! 15, m.newtokirun.com 29-9-2024
 ||blogger.googleusercontent.com/img/a/AVvXsE*$image,domain=newtokirun.com
 ! https://newtoki.one 15-9-2024
