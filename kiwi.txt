@@ -14,7 +14,7 @@
 ! group_XXX #L393
 !
 # Chung rule
-/wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|clipvn69.lol|hentaivn69.top|tuoi69zz.xyz|theundergroundclub.net|hentaivn.tube|hentaivn.news
+/wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|hentaivn69.top|tuoi69.fan|theundergroundclub.net|hentaivn.tube|hentaivn.news
 ||i.imgur.com^*.gif$domain=phimtop.net|xamvn.date|phimmoi02.net|thienvadia.icu
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=phevkl.vc|chichnhau.me|lonxxx.com|pheclip.net|sayhentai.pro
 questsupremacy.com,regressorinstructionmanual.com##.code-block
@@ -408,8 +408,8 @@ lonxxx.com,pheclip.com,pheclip.net,chichnhau.me###popup
 ! 5, Viet69.hair 17-6-2024
 viet69.hair###mp-preload-pp-overlay
 ||telegra.ph/file/8cb17c7560cfcb6ab1957.gif$image
-! 6, Tuoi69
-tuoi69.click##body > .float-ckgiua
+! 6, Tuoi69.fan 04-01-2025
+tuoi69.fan##body > .float-ckgiua
 ||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
 ! 7, ThienVaDia.vip
 thienvadia.vip##.js-notices.notices--block.notices
