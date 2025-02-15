@@ -135,7 +135,7 @@ tv.tuoitre.vn###iframe-jn1ipiie-kupj7pi3
 vietnamnet.vn##.banner-top-mashead.vmcadszone
 vietnamnet.vn###vmcad_inview_container
 vietnamnet.vn###Mobile_AdsArticleBodyInArticle
-! 23, VnExpress.net 2024-12-23
+! 23, VnExpress.net 2025-02-15
 ! Nút tài khoản và nút thông báo ở góc trên bên phải:
 ||s1.vnecdn.net/myvne/j/v270/m_myvne_users_v3.js
 ! app
@@ -143,9 +143,10 @@ vnexpress.net##.js_installvneapp.installvneapp--small.installvneapp
 vnexpress.net##.wrap-hd-adblock
 vnexpress.net##.button-adblock
 vnexpress.net##.box-taitro.box-category
-vnexpress.net###BanCoTheQuanTam_PinTop_Search_Greater10Percent
 vnexpress.net###BanCoTheQuanTam_PinBottom_Search_Less10Percent
+Test VnExpress bị ko thể vuốt:
 !vnexpress.net##.center.section
+!vnexpress.net###BanCoTheQuanTam_PinTop_Search_Greater10Percent
 
 # group_Phim: 10
 ! 1, https://phim.nguonc.com
