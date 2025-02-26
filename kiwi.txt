@@ -14,7 +14,7 @@
 ! group_XXX #L393
 !
 # Chung rule
-/wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|hentaivn69.top|tuoi69.fan|theundergroundclub.net|hentaivn.tube|hentaivn.news
+/wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|hentaivn69.top|tuoi69.army|theundergroundclub.net|hentaivn.tube|hentaivn.news
 ||i.imgur.com^*.gif$domain=phimtop.net|xamvn.date|phimmoi02.net|thienvadia.icu
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=phevkl.vc|chichnhau.me|lonxxx.com|pheclip.net|sayhentai.pro
 questsupremacy.com,regressorinstructionmanual.com##.code-block
